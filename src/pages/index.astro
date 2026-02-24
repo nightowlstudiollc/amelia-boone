@@ -18,7 +18,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
   <main id="main-content" data-layout="index">
     <!-- Hero -->
     <section id="hero" class="relative overflow-hidden">
-      <div class="relative h-[480px] sm:h-[560px]">
+      <div class="relative h-[560px] sm:h-[640px]">
         <img
           src="/hero.jpg"
           alt="Amelia Boone racing through mud and obstacles"
@@ -26,11 +26,11 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
           fetchpriority="high"
         />
         <div
-          class="absolute inset-0 bg-gradient-to-b from-black/10 via-black/30 to-black/70"
+          class="absolute inset-0 bg-gradient-to-b from-black/10 via-black/20 to-black/60"
         >
         </div>
         <div
-          class="absolute right-0 bottom-0 left-0 px-6 pb-10 sm:px-12 sm:pb-12"
+          class="absolute right-0 bottom-0 left-0 px-6 pb-16 sm:px-12 sm:pb-20"
         >
           <h1 class="text-4xl leading-tight font-bold text-white sm:text-5xl">
             Amelia Boone
@@ -61,12 +61,12 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
       </div>
     </section>
 
-    <!-- Featured posts -->
+    <!-- Featured posts — pulled up over hero bottom with translucent backdrop -->
     {
       featuredPosts.length > 0 && (
         <section
           id="featured"
-          class="app-layout border-b border-border pt-12 pb-6"
+          class="-mt-10 sm:-mt-14 relative z-10 mx-auto w-full max-w-3xl rounded-t-2xl border-b border-white/10 bg-background/80 px-4 pt-8 pb-6 backdrop-blur-md"
         >
           <h2 class="text-2xl font-semibold tracking-wide">Recent Writing</h2>
           <ul>
