@@ -19,13 +19,13 @@ Two years ago to the day, I crossed the finish line of Cascade Crest, in 2nd pla
 
 I spent a big chunk of 2024 away from running, and away from my community while I tried to figure things out: figuring out my relationship to running now that I was no longer a sponsored athlete and “[past my prime](https://ameliaboone.substack.com/p/past-my-prime),”, figuring out a body that I had subjected to far too many years of caloric restriction and weight suppression and compulsive movement and comparison to other women on the start line, and figuring out how I want to exist in the world as a childless/childfree woman in her 40s.
 
-*(Spoiler alert: I still don’t have any of that figured out)*
+_(Spoiler alert: I still don’t have any of that figured out)_
 
 But when I toed the line at HiLo two weeks ago, I had at least taken a chance on doing a few things differently to break some ingrained patterning, and to face down the demons that had haunted me since that Cascade Crest finish line.
 
-*(CW: discussion of weight and eating disorders. Take care of yourself)*
+_(CW: discussion of weight and eating disorders. Take care of yourself)_
 
-------------------------------------------------------------------------
+---
 
 **(1) I never hit 60 miles a week in training**
 
@@ -57,7 +57,7 @@ Likely to no one’s surprise, putting on this weight along with reduced mileage
 
 Writing this, I went back and forth on whether to call it a “relapse.” Was it? It’s hard to define with a disorder like anorexia, and I’m not sure the label matters. What matters is what you do about it. It’s not the first time I’ve had to pull myself out of hole and if I’m playing the odds, it likely won’t be the last. Maybe that’s the natural cycle of recovery, or maybe I can hope for more smooth sailing from here on out. I guess only time will tell.
 
-------------------------------------------------------------------------
+---
 
 As I ran the best I could up the 400m Swear Hill at mile 99 of HiLo, I finally began to relax that history wasn’t repeating itself. I wasn’t going to break a femur, not today, I said to myself. Because I had done the hard things to make sure my path was different this time around. I had spent two years catching myself and rewriting the script, and I am fucking proud of myself for doing that, especially when no one else knew. I am strong, I am durable (falling on knees notwithstanding), and I am so lucky to be out here.
 
@@ -75,7 +75,7 @@ I realize this is a rather shallow heading, and perhaps it should be more like �
 
 <a href="#footnote-anchor-3" id="footnote-3" class="footnote-number" contenteditable="false" target="_self">3</a>
 
-I will always caveat that yes I do acknowledge that objectively this is the case. That being said, regardless of the size of your body, a person who has struggled with an eating disorder is going to have *feelings* about gaining weight. Those are valid, but there’s a lot of nuance in how you talk about it. I believe this acknowledgement is extremely important in personal storytelling and how you thread the needle here.
+I will always caveat that yes I do acknowledge that objectively this is the case. That being said, regardless of the size of your body, a person who has struggled with an eating disorder is going to have _feelings_ about gaining weight. Those are valid, but there’s a lot of nuance in how you talk about it. I believe this acknowledgement is extremely important in personal storytelling and how you thread the needle here.
 
 <a href="#footnote-anchor-4" id="footnote-4" class="footnote-number" contenteditable="false" target="_self">4</a>
 

@@ -21,7 +21,7 @@ But I didn’t anticipate that the crack in the femur wouldn’t be the only way
 
 Talking about break-ups publicly is fraught with peril, and let’s be honest – it’s probably best \*not\* to. But he and I live pretty public lives with social media – it’s a hazard of his job and I’ve always been an open book (to a fault, some might say). 
 
-*Note: “writing about a relationship is hard because it involves two people,” as I told my friend Waylon (Captain Obvious here!). Please know this post and its contents are with the consent of both parties. I’ve purposely sat it on it for a bit while time has started to soften the raw edges, and I’m purposely locking comments and not sharing or emailing out this one. Just letting it exist in the world. *
+_Note: “writing about a relationship is hard because it involves two people,” as I told my friend Waylon (Captain Obvious here!). Please know this post and its contents are with the consent of both parties. I’ve purposely sat it on it for a bit while time has started to soften the raw edges, and I’m purposely locking comments and not sharing or emailing out this one. Just letting it exist in the world. _
 
 We both wanted it to work – we both were convinced that we had met \*our\* person. We both tried hard because of how right it was. We did all the right things in terms of open communication, going to therapy, regularly checking-in. And it was a beautiful two years of my life and no one did anything “wrong” and at the same time, it takes both parties to want to be in the relationship. 
 

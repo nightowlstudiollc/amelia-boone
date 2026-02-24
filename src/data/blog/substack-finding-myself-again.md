@@ -11,7 +11,7 @@ draft: false
 
 This past week, I was bopping along on a weekday run down my familiar dirt path, jamming out to the best of Sunny Day Real Estate (hello teenage emo years!) and a realization suddenly dawned on me: I’m ok.
 
-Later that day, a friend asked the standard “How are you?” I answered “I’m doing really well,” and for the first time since probably early last summer, I realized I could answer with that and *actually* mean it.
+Later that day, a friend asked the standard “How are you?” I answered “I’m doing really well,” and for the first time since probably early last summer, I realized I could answer with that and _actually_ mean it.
 
 I’ve always said that “being happy” is a terrible goal in life: happiness is an emotion, and like all emotions that ebb and flow, it is not a fixed state of being. To be a well-rounded and emotionally healthy individual, humans need to feel and accept a broad range of emotions, including all the tough ones. Happiness in life will come and go, which is normal and to be expected.
 
@@ -19,7 +19,7 @@ It’s no secret that I’ve been dealing the tougher emotions for these past si
 
 But as I was running along the other morning, a sense of contentment came over me. It wasn’t happiness, but just a feeling of groundedness. Of peace.
 
-*Of feeling like myself again.*
+_Of feeling like myself again._
 
 So what does it mean to “feel like myself again?”
 
@@ -27,7 +27,7 @@ It’s not just being able to run and train and plan for races again. As much as
 
 But “feeling like myself” is moving through the world with a levity and playfulness (with acknowledgement that there are sometimes still really bad days), with excitement and for the future. **It’s feeling like I have a purpose, even if I don’t necessarily have a “plan.”** It’s noticing joy, it’s being able to show up for others, it’s not crying myself to sleep at night. It’s being present and engaged and hopeful.
 
-It’s feeling whole as myself and confident that no matter what, I got this. And actually *really* believing that.
+It’s feeling whole as myself and confident that no matter what, I got this. And actually _really_ believing that.
 
 In full honesty, in the past I would only find this place when I was in a stable relationship and excited to plan for the future with a partner. It pains me to admit this, but I’ve always struggled to find it on my own as something always felt incomplete: I would stare into the abyss ahead and wonder what I was doing with myself and my life.
 
@@ -41,4 +41,4 @@ Thanks for reading Race Ipsa Loquitur! Subscribe for free access to the inner wo
 
 <a href="#footnote-anchor-1" id="footnote-1" class="footnote-number" contenteditable="false" target="_self">1</a>
 
-for anyone who knows me, putting myself out there like that is a HARD thing for me, so I’m just sitting here being proud of myself *dontmindifIdo.*
+for anyone who knows me, putting myself out there like that is a HARD thing for me, so I’m just sitting here being proud of myself _dontmindifIdo._

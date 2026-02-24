@@ -15,11 +15,11 @@ A week after my stress fracture diagnosis, I crutched around Leadville 100, putt
 
 That response always seems to perplex people, but it’s true: **being laid up with injury is the easy part. It’s the rehab and the comeback that’s the hard part.**
 
-And it’s especially acute when you have been given the green light to come off crutches (or out of a boot, pick your injury poison), but you still haven’t had follow-up imaging to confirm that, yes, the stress fracture is healed. (*note*: most doctors won’t repeat an MRI before 12 weeks because prior to that, the MRI is likely still going to look terrible and then send you into a spiral that you are never healing. Not that I speak from experience).
+And it’s especially acute when you have been given the green light to come off crutches (or out of a boot, pick your injury poison), but you still haven’t had follow-up imaging to confirm that, yes, the stress fracture is healed. (_note_: most doctors won’t repeat an MRI before 12 weeks because prior to that, the MRI is likely still going to look terrible and then send you into a spiral that you are never healing. Not that I speak from experience).
 
 It’s the in-between, and I am currently in the thick of it. And despite how many times I’ve been through it, I forget how this part can absolutely suck.
 
-The questioning every activity: “was a 30min walk too much? Perhaps I should have started smaller? Oh god my TFL is getting tight is that muscle pain from non-use or is it the stress fracture?” It’s the replaying everything you did in the past few months that could have potentially made it not heal. Did I go too hard in the paint with arm biking? Maybe if I hadn’t slipped with my crutches on that lime wedge at the Death Cab for Cutie concert and slammed directly down on that leg? (*pick up your lime wedges, people*).
+The questioning every activity: “was a 30min walk too much? Perhaps I should have started smaller? Oh god my TFL is getting tight is that muscle pain from non-use or is it the stress fracture?” It’s the replaying everything you did in the past few months that could have potentially made it not heal. Did I go too hard in the paint with arm biking? Maybe if I hadn’t slipped with my crutches on that lime wedge at the Death Cab for Cutie concert and slammed directly down on that leg? (_pick up your lime wedges, people_).
 
 For an already anxious person by nature, it’s not exactly the most soothing time right now. My physical therapist told me the other day: it’s going to be very difficult to tell right now what all the sensations and feelings in my hip mean. As long as I’m patient and stick to the plan, I’m going to have to trust that it’s part of the process and not “bad” pain.
 
@@ -47,7 +47,7 @@ And as I’m currently here with injury, I’ve also reached that place with hea
 
 Most people will expect that you are fine by now, which also makes it hard. The incredible friends who so diligently (and amazingly) would check in on you every day have long since stopped (understandably), and you realize that it’s on you to reach out if you are struggling and sad and not be ashamed that it still hurts. I’ll be the first to raise my hand and say I’m terrible at that, so these past few weeks have been a good practice for me to start doing that: “hi friend. I’m in a funk - do you have emotional/mental capacity to chat?”
 
-So maybe the in-between is all about discomfort because it’s a time of extreme uncertainty. As a person who has struggled with obsessive-compulsive disorder her whole life, certainty = comfort. An MRI showing my femur is healed would be certain. A partner is certain (“*no it’s not,*” says the narrator). But there is no certainty in this space (or perhaps, ever, but that’s a post for another day).
+So maybe the in-between is all about discomfort because it’s a time of extreme uncertainty. As a person who has struggled with obsessive-compulsive disorder her whole life, certainty = comfort. An MRI showing my femur is healed would be certain. A partner is certain (“_no it’s not,_” says the narrator). But there is no certainty in this space (or perhaps, ever, but that’s a post for another day).
 
 I guess I’ll have to move through this time just like every time before: one decision at a time, one day at a time, putting blind faith that things will continue to get better.
 

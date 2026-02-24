@@ -25,18 +25,26 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
           class="absolute inset-0 h-full w-full object-cover object-top"
           fetchpriority="high"
         />
-        <div class="absolute inset-0 bg-gradient-to-b from-black/10 via-black/30 to-black/70"></div>
-        <div class="absolute bottom-0 left-0 right-0 px-6 pb-10 sm:px-12 sm:pb-12">
-          <h1 class="text-4xl font-bold text-white sm:text-5xl leading-tight">
+        <div
+          class="absolute inset-0 bg-gradient-to-b from-black/10 via-black/30 to-black/70"
+        >
+        </div>
+        <div
+          class="absolute right-0 bottom-0 left-0 px-6 pb-10 sm:px-12 sm:pb-12"
+        >
+          <h1 class="text-4xl leading-tight font-bold text-white sm:text-5xl">
             Amelia Boone
           </h1>
-          <p class="mt-3 max-w-xl text-base text-white/90 sm:text-lg leading-relaxed">
-            Obstacle racing champion, ultrarunner, attorney, and writer. Racing through sport, recovery, and everything in between.
+          <p
+            class="mt-3 max-w-xl text-base leading-relaxed text-white/90 sm:text-lg"
+          >
+            Obstacle racing champion, ultrarunner, attorney, and writer. Racing
+            through sport, recovery, and everything in between.
           </p>
           <div class="mt-6 flex flex-wrap gap-3">
             <LinkButton
               href="/posts"
-              class="rounded bg-accent px-5 py-2.5 text-sm font-semibold text-white hover:bg-accent/90 transition-colors"
+              class="rounded bg-accent px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-accent/90"
             >
               Read the Blog
             </LinkButton>
@@ -44,7 +52,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
               href="https://ameliaboone.substack.com"
               target="_blank"
               rel="noopener noreferrer"
-              class="rounded border border-white/70 px-5 py-2.5 text-sm font-semibold text-white hover:bg-white/10 transition-colors"
+              class="rounded border border-white/70 px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-white/10"
             >
               Subscribe on Substack
             </a>
@@ -56,7 +64,10 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
     <!-- Featured posts -->
     {
       featuredPosts.length > 0 && (
-        <section id="featured" class="app-layout border-b border-border pt-12 pb-6">
+        <section
+          id="featured"
+          class="app-layout border-b border-border pt-12 pb-6"
+        >
           <h2 class="text-2xl font-semibold tracking-wide">Recent Writing</h2>
           <ul>
             {featuredPosts.map(data => (
@@ -75,10 +86,13 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 
     <!-- Archive callout -->
     <section class="app-layout py-12">
-      <div class="rounded-lg border border-border bg-muted/30 px-6 py-8 text-center">
+      <div
+        class="rounded-lg border border-border bg-muted/30 px-6 py-8 text-center"
+      >
         <h2 class="text-xl font-semibold">From the Archive</h2>
         <p class="mt-2 text-sm leading-relaxed opacity-80">
-          Race reports, injury dispatches, and essays from a decade of competing at the edges of endurance.
+          Race reports, injury dispatches, and essays from a decade of competing
+          at the edges of endurance.
         </p>
         <div class="mt-5 flex flex-wrap justify-center gap-3">
           <LinkButton href="/posts/">

@@ -31,7 +31,7 @@ But instead of fighting it, I’m reminding myself that this is a phase in life:
 
 Maybe it’s temporary.
 
-It *is* temporary, I have to believe.
+It _is_ temporary, I have to believe.
 
 I don’t have enough faith in my body right now to fully trust that I will be able to go back to measuring my years in race bibs and mountain adventures. I’m hopeful, but the longer this all lingers, the more it seems like something I’m going to have to manage for the long term, not recover from.
 

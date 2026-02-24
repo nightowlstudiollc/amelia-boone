@@ -18,7 +18,7 @@ In speaking with my friends over the past few weeks, I know I’m not the only o
 
 And influencers are posting run outfit selfies.
 
-So the question that’s been on my mind (and one that has percolated for years, especially since 2020): *if you have an active social media platform, especially a large one, what do you do with that during these times?*
+So the question that’s been on my mind (and one that has percolated for years, especially since 2020): _if you have an active social media platform, especially a large one, what do you do with that during these times?_
 
 A preliminary matter: if you have a social media account, you have “a platform”, regardless if you have 3 followers or 3 million. But I’m going to focus here on people who have sizable following and people who tend to update/post regularly, especially about their daily lives beyond a particular niche. I consider myself one of these.
 
@@ -28,7 +28,7 @@ While it may seem silly to admit that you have a fear of losing followers, I act
 
 And, of course, handling comments from people who disagree with you can be time-consuming, infuriating, and disheartening. Some of the vitriol I’ve received over the years, especially recently speaking out on the shooting of Renee Good and Alex Pretti has often shaken my faith in human’s ability to think rationally, logically, and with compassion.
 
-It is *easy* to stay silent. There are a lot of reasons to stay silent. I, myself, have often wondered if speaking up actually *does* anything other than increase the number of followers I’m bleeding and my blood pressure from responding to people’s comments. Our country seems so far divided that civil discourse is impossible given we are being fed different versions of the facts depending on what media you consume. It can feel hopeless.
+It is _easy_ to stay silent. There are a lot of reasons to stay silent. I, myself, have often wondered if speaking up actually _does_ anything other than increase the number of followers I’m bleeding and my blood pressure from responding to people’s comments. Our country seems so far divided that civil discourse is impossible given we are being fed different versions of the facts depending on what media you consume. It can feel hopeless.
 
 Social media can also be a terrible place to have a constructive conversation. Nuance is lost behind a keyboard, and you can’t react to another person in real time. Devices shield us from humanity.
 
@@ -36,13 +36,13 @@ At the same time, it’s a tool we now have, for better or for worse. So what do
 
 Here’s where I land:
 
-\(1\) No one is *obligated* to use their social media to speak on any issue. We all have freedom of choice (for now). But I know I sure as hell respect the accounts I follow that seem to give a fuck about what is going on in the world.
+\(1\) No one is _obligated_ to use their social media to speak on any issue. We all have freedom of choice (for now). But I know I sure as hell respect the accounts I follow that seem to give a fuck about what is going on in the world.
 
 \(2\) If you don’t want to use your platform for these matters, then taking a break from your regular posting is also respectful and prudent depending on what is happening in current events. Even amplifying or reposting other accounts if you can’t or don’t want to find your own words is a small step.
 
 \(3\) If you speak up, accept that you will lose followers - this is the collateral damage. I am personally willing to accept that damage, but I also know I speak from a place of an aging athlete, without sponsors, not looking to get any sponsors, and my account has already been losing followers for years because I just don’t use it as much anymore (or…I’m not racing as much, or I’m an aging woman, or any myriad of reasons). So I recognize it’s easy for me to say “meh burn it all down”. The calculus for each person might be different. While I might not agree with that, I can understand it.
 
-\(4\) Posting on social media isn’t useless: it encourages other people to also speak up, to provide solidarity, and gives others courage to do the same. I know I feel buoyed by seeing other people post. And while you might not change anyone’s mind, if you stay silent and say nothing, then you *definitely* aren’t changing anyone’s mind.
+\(4\) Posting on social media isn’t useless: it encourages other people to also speak up, to provide solidarity, and gives others courage to do the same. I know I feel buoyed by seeing other people post. And while you might not change anyone’s mind, if you stay silent and say nothing, then you _definitely_ aren’t changing anyone’s mind.
 
 \(5\) It is extremely privileged to say “I don’t do politics” or “I prefer to avoid it for my own mental health.” Look, I would 100% prefer the same thing - I think a lot of us would. Our country depends on people caring right now, on not looking away. So I see social media as a chance to do something, anything, at a time where it’s easy to feel so powerless. And we are not just talking fiscal policy here - it’s our human and constitutional rights that are now at stake.
 
