@@ -19,9 +19,9 @@ It depends on the person, it depends on the manifestation of the eating disorder
 
 I don’t proclaim to have this figured out. Of all of the nuances in eating disorder recovery, I believe that navigating the relationship with running (or, the sport of your choosing) is by far the trickiest and most complex. So how have I been doing it thus far and what have I learned? 
 
-*Note: this is my experience of n=1. I’m not a healthcare provider, dietician, psychologist, etc. As they say in AA, “take what you need and leave the rest”: your situation may be entirely different. Please work with your treatment providers on what is healthy for YOU. *
+_Note: this is my experience of n=1. I’m not a healthcare provider, dietician, psychologist, etc. As they say in AA, “take what you need and leave the rest”: your situation may be entirely different. Please work with your treatment providers on what is healthy for YOU. _
 
-*Content warning: Discussion of eating disorder thoughts, body size and changes, and general food discussion. No numbers or weights.*
+_Content warning: Discussion of eating disorder thoughts, body size and changes, and general food discussion. No numbers or weights._
 
 **Be constantly curious about your relationship with running (or sport)**
 
@@ -75,13 +75,13 @@ Is there a difference between training and racing when it comes to eating disord
 
 *Why do you want to race?* For many years, I sought validation, approval, and love from racing. That’s not necessarily a bad thing – I think many of us do it, regardless of our relationship with food. But you need to have ways to fill that need other than racing – I did not for a very long time. I’ve now been able to fill those needs in other ways (connection, community, friends, giving back and helping others), so racing has taken on a new meaning for me. I intentionally choose races that light my soul on fire – that make me giddy and excited to take on a new challenge. How do I figure that out? I ask myself, “if no one knew I was doing this race, would I still do it?” If I would, it indicates to me that I’m doing it for the right reasons. 
 
-*How does an upcoming race change your relationship with food and training*? If you believe in getting down to a “racing weight,” that is a red flag. If you restrict food and cut out “bad” stuff before races…red flag. If you use an upcoming race as a reason to drive yourself into the ground with excessive amounts of training…red flag. If you are unable to fuel yourself properly during a race…well, you get the idea. 
+_How does an upcoming race change your relationship with food and training_? If you believe in getting down to a “racing weight,” that is a red flag. If you restrict food and cut out “bad” stuff before races…red flag. If you use an upcoming race as a reason to drive yourself into the ground with excessive amounts of training…red flag. If you are unable to fuel yourself properly during a race…well, you get the idea. 
 
 Through therapy, I’ve actually found that racing HELPS my relationship with food and training. When I have an upcoming race that I want to crush, I’m more serious about rest. I’m more serious about erring on the side of eating more than I “think” I may need. I’m less likely to want to overdo training since I have a goal I want to be fresh and ready for. If I’m just blindly training without a goal, I realize I’m more apt to take risks, to not care for my body as well, and to struggle eating as much as I should. 
 
 **Body changes suck, but remember your values **
 
-*Note: I write this section with a full acknowledgement I have thin privilege and I live in a smaller body. I understand an outside observer may look and me and roll their eyes if I talk about a changing body. I get that. But what I hope to impart is that just because you are in a smaller body, it doesn’t mean you can’t have feelings about how it changes during recovery.*
+_Note: I write this section with a full acknowledgement I have thin privilege and I live in a smaller body. I understand an outside observer may look and me and roll their eyes if I talk about a changing body. I get that. But what I hope to impart is that just because you are in a smaller body, it doesn’t mean you can’t have feelings about how it changes during recovery._
 
 For many people in eating disorder recovery, your body will change. It’s a necessary step as it finds its homeostasis and “set point” as you properly nourish yourself. My own body has changed in the last year, and it will likely continue to change as I age and progress in recovery. 
 

@@ -1,5 +1,5 @@
 ---
-title: "\"I Wish This Was a Stress Fracture\""
+title: '"I Wish This Was a Stress Fracture"'
 pubDatetime: 2024-10-13T22:09:59Z
 description: "“I can’t believe I’m saying this,” I admitted to my physical therapist the other day, “but I wish this was a stress fracture. I’d give anything for this to be a stress fracture. Give me crutches, a…"
 source: substack

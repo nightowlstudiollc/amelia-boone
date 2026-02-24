@@ -29,7 +29,7 @@ I didn’t think I’d move from Chicago to the Bay Area to Colorado. That I’d
 
 This is all to remind myself that, as terrifying as it is to have a blank canvas right now, I can’t predict what is going to happen over the next decade any more than I could predict where my last one took me.
 
-It’s easy for me to fall into an existential spiral right now where I believe my best athletic days are behind me, that I’m washed-up and irrelevant in the sport, that I will be alone for the rest of my life because I’m too much and no one can stay with me. I might have spent several nights on the bathroom floor sobbing about those lately *(note: I’m aware writing that sounds kinda pathetic, but what is life if we DON’T have those moments of total self-doubt now and again? Or maybe it’s just me?)*
+It’s easy for me to fall into an existential spiral right now where I believe my best athletic days are behind me, that I’m washed-up and irrelevant in the sport, that I will be alone for the rest of my life because I’m too much and no one can stay with me. I might have spent several nights on the bathroom floor sobbing about those lately _(note: I’m aware writing that sounds kinda pathetic, but what is life if we DON’T have those moments of total self-doubt now and again? Or maybe it’s just me?)_
 
 The truth of the matter is I just don’t know what is going to happen in the years to come. As much as I have tried to control all aspects of my life (to a fault), life just laughs in your face when it doles out the highs and lows. It doesn’t let you decide when you pull a grief card and when you will be intoxicated with joy.
 

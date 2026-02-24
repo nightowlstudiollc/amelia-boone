@@ -13,7 +13,7 @@ I sat cross-legged in the corner of the large sectional couch, eyes darting arou
 
 “Yeah,” Taryn piped up next to me, “I mean, when I’m 40, I just won’t even care what I look like or what I eat, right? That’s, like, OLD.” Taryn had just finished high school, and was heading to an Ivy League college next year.
 
-The other women nodded in agreement. At 22, I was the eldest of the group living at the residential treatment facility in Southern California. Six weeks earlier, I graduated *summa cum laude* from Washington University in St. Louis, and packed up my car and drove cross-country with my mom directly to the treatment facility, which was my last-ditch attempt to convince my parents and treatment team that I was well enough to attend law school in the fall. While WashU had attempted to kick me out multiple times, it was pretty hard to do when I was “so high functioning” in school. But my parents weren’t going to stand for three more years of the same song and dance during law school.
+The other women nodded in agreement. At 22, I was the eldest of the group living at the residential treatment facility in Southern California. Six weeks earlier, I graduated _summa cum laude_ from Washington University in St. Louis, and packed up my car and drove cross-country with my mom directly to the treatment facility, which was my last-ditch attempt to convince my parents and treatment team that I was well enough to attend law school in the fall. While WashU had attempted to kick me out multiple times, it was pretty hard to do when I was “so high functioning” in school. But my parents weren’t going to stand for three more years of the same song and dance during law school.
 
 <figure>
 <a href="https://substackcdn.com/image/fetch/$s_!Mq2c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e74eaa0-cccd-4197-8768-7f3133a34545_3264x2448.heic" class="image-link image2 is-viewable-img" target="_blank" data-component-name="Image2ToDOM"></a>
@@ -29,15 +29,15 @@ The other women nodded in agreement. At 22, I was the eldest of the group living
 <figcaption>22 year old me</figcaption>
 </figure>
 
-“I’ll have, like, kids and shit,” I continued, with the therapist shooting me a stern glance intoning “*language*” under her breath. “Kids and *stuff”,* I corrected with a slight eye roll. “It’ll be so nice to not be constantly thinking about food.”
+“I’ll have, like, kids and shit,” I continued, with the therapist shooting me a stern glance intoning “_language_” under her breath. “Kids and _stuff”,_ I corrected with a slight eye roll. “It’ll be so nice to not be constantly thinking about food.”
 
 When I went to PHP treatment at [Opal Food and Body at age 35](https://www.outsideonline.com/health/nutrition/amelia-boone-eating-disorder/), I thought a lot about this conversation. Whether or not I admitted it to myself, “be done with this by 40” weighed on me subconsciously, as if I could still feel the judgment of 22-year-old Amelia.
 
 And at 41, I hate to disappoint my overly plucked eyebrows and white eyelinered younger self, but I’m still not done with this shit. Is it orders of magnitude better than it was 25 years ago, 20 years ago, even 5 years ago? Absolutely. Is it completely gone? I wish.
 
-(*Oh gosh how do I wish)*
+(_Oh gosh how do I wish)_
 
-I’ve been very vocal about the fact that I don’t believe in recoverED, but that I am in an ever-constant state of recovery throughout my life, with ups and downs and flares and quiet times. And I’ve also realized lately that while I won’t admit it, a part of me is *still* waiting for the day when I “stop caring.”
+I’ve been very vocal about the fact that I don’t believe in recoverED, but that I am in an ever-constant state of recovery throughout my life, with ups and downs and flares and quiet times. And I’ve also realized lately that while I won’t admit it, a part of me is _still_ waiting for the day when I “stop caring.”
 
 I wish someone had told 22 year-old me that age doesn’t fix eating disorders. That the longer I let the eating disorder fester and ingrain itself into my life and my identity, the harder it would be to live without it, to reverse those habits that etched themselves into every facet of my life.
 

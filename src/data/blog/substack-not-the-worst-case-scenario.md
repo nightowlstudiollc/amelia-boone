@@ -1,5 +1,5 @@
 ---
-title: "\"Not the Worst Case Scenario\""
+title: '"Not the Worst Case Scenario"'
 pubDatetime: 2025-08-11T18:19:09Z
 description: "I would have canceled the appointment but I have extreme guilt about canceling on doctors last minute. It had been feeling progressively better over the past 72 hours and I’m aware that my health…"
 source: substack
@@ -20,7 +20,7 @@ Lying on a table in the exam room I’ve been in far too many times these past f
 
 I’m not a doctor, but even I could see the very clear break in the bone.
 
-MRI scheduled for the next morning, I spent the next 24 hours in varying degrees of disbelief. I googled “can ultrasounds show bone fractures?” (the answer, for some superficial bones, is yes! *Dammit Dr Google you aren’t making me feel better*). I convinced myself the doctor had no idea what he was doing (*a quack, I swear)*. I mean, if I had broken my kneecap when I fell at mile 28 of HiLo, I would certainly have known that, right? I certainly wouldn’t have been able to run 72 more miles on it, right? Dr Google backed me up this time: “inability to bear weight” was a main symptom of a patella fracture. For once, the internet provided me with a bit of comfort.
+MRI scheduled for the next morning, I spent the next 24 hours in varying degrees of disbelief. I googled “can ultrasounds show bone fractures?” (the answer, for some superficial bones, is yes! _Dammit Dr Google you aren’t making me feel better_). I convinced myself the doctor had no idea what he was doing (_a quack, I swear)_. I mean, if I had broken my kneecap when I fell at mile 28 of HiLo, I would certainly have known that, right? I certainly wouldn’t have been able to run 72 more miles on it, right? Dr Google backed me up this time: “inability to bear weight” was a main symptom of a patella fracture. For once, the internet provided me with a bit of comfort.
 
 I texted friends and family. “There’s no way,” they all said. “You biked dozens of miles with us in Sunriver immediately post-race,” my sister said, “I’d be shocked if you could do that on a broken kneecap.”
 
@@ -42,7 +42,7 @@ Two hours later, I guess I should have patted myself on the back for knowing mys
 
 “You know how I was just celebrating finishing a 100 miler without breaking a bone?” I numbly told my boyfriend over the phone “turns out, I broke a bone.”
 
-Isn’t it ironic, don’t you think? A little *too* ironic?
+Isn’t it ironic, don’t you think? A little _too_ ironic?
 
 Or maybe it’s not irony, but just really shitty luck.
 
@@ -54,7 +54,7 @@ So 6 weeks of no-impact and no falling (sorry, climbing and outdoor biking), and
 
 Naturally, my first inclination is to find a way to blame myself. Should I have DNFed after my fall? Sure, the knee hurt for 20 more miles, but there have been plenty of times I whacked my knee and it hurt but structurally it was all fine. It wasn’t the kind of pain that would stop a race. By mile 50, the pain had substantially lessened, and after mile 70, I don’t even think I thought about it - running on it was completely fine. (or, as things go in 100s, everything else started to hurt worse)
 
-My friend Caroline quickly yanked me off the self-flagellation merry-go-round: “hey what if you just tried to embrace that it was just really bad luck and nothing you could have done would have changed it?” (*other than not falling on my knee*)
+My friend Caroline quickly yanked me off the self-flagellation merry-go-round: “hey what if you just tried to embrace that it was just really bad luck and nothing you could have done would have changed it?” (_other than not falling on my knee_)
 
 Oh hell no - that’s way too scary for me. If I can’t self-flagellate, then I have to admit that life is sometimes beyond my control. That I can fall 100 times in trail running and be fine, and maybe one of those times, I am going to hit my bone in a way that breaks it. That I can fly over the handlebars at 40mph on my bike and walk away unscathed, but I can break my toe kicking a bench in the sauna. For all the times I’ve been lucky, once in a while the luck will run out.
 

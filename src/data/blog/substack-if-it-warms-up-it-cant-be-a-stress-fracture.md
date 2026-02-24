@@ -1,5 +1,5 @@
 ---
-title: "\"If it Warms Up, it Can't be a Stress Fracture\""
+title: '"If it Warms Up, it Can''t be a Stress Fracture"'
 pubDatetime: 2023-11-12T22:07:32Z
 description: "I sat in the orthopedist’s office and rattled off my list of stress fractures: “tibia, femur, sacrum, second metatarsal, calcaneus (three times…), femoral neck.” Yikes. If stress fractures had a…"
 source: substack
@@ -35,7 +35,7 @@ But over the next two weeks, any kind of attempt at running would send the seari
 
 2 weeks later, we repeated the MRI and there it was - a grade 4 stress fracture of my right sacral ala.
 
-Clearly, the stress fracture had occurred on that run on Long Island, but for some reason that every doctor acknowledges but no doctor can explain, MRIs won’t show a stress fracture until approximately 2 weeks after the pain first starts (*Note: if you are a medical professional and can explain to me how/why this is, please do. I’ve yet to hear a doctor know why this happens and would LOVE to hear!)*.
+Clearly, the stress fracture had occurred on that run on Long Island, but for some reason that every doctor acknowledges but no doctor can explain, MRIs won’t show a stress fracture until approximately 2 weeks after the pain first starts (_Note: if you are a medical professional and can explain to me how/why this is, please do. I’ve yet to hear a doctor know why this happens and would LOVE to hear!)_.
 
 For this reason, I will always wait at least 2 weeks after pain starts to get an MRI if a stress fracture is suspected.
 

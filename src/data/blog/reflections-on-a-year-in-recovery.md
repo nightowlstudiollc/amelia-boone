@@ -17,7 +17,7 @@ I wish I could say it’s been all filled with sunshine and puppies and unicorns
 
 But as I reflect back on this anniversary, I embrace both how far I’ve come and how far I have yet to go.  So let’s start with the tougher stuff that I didn’t expect.
 
-*Content Warning: Discussions of eating disorder thoughts, anxiety and depression. No weights, numbers, or specific eating disorder behaviors* *discussed.*
+_Content Warning: Discussions of eating disorder thoughts, anxiety and depression. No weights, numbers, or specific eating disorder behaviors_ _discussed._
 
 **When you take away your trusted coping mechanism, things gets rough **
 
@@ -65,7 +65,7 @@ So I became really conditioned over the years to “hide the crazy”, fearful o
 
 So my work now is around identifying the conditioned responses, working on rewriting that story, and opening up first to those closest in my life. Here’s the thing: we ALL have conditioned responses based on past traumas. We can work through them, but it takes time, slip-ups, and a whole lot of self-compassion.
 
-***…and now, the good stuff! ***
+**_…and now, the good stuff! _**
 
 **There’s a difference between thoughts and actions**
 
@@ -75,7 +75,7 @@ Some days the voices are like petulant little children and refuse to leave me al
 
 **There are times when I’m uncomfortable with my body, but I’m also healthy and able to do what I love to do**
 
-*I caveat this with the full acknowledgment that I still live in a smaller body, and I have thin privilege. But that doesn’t mean that you can’t still struggle with your changing body or body image on days. *
+_I caveat this with the full acknowledgment that I still live in a smaller body, and I have thin privilege. But that doesn’t mean that you can’t still struggle with your changing body or body image on days. _
 
 I entered recovery for many reasons, but an overriding one was that <a href="http://www.ameliabooneracing.com/blog/uncategorized/dont-fight-the-water/" rel="noreferrer noopener" target="_blank">constant stress fractures</a> were keeping me from doing what I love to do – run, adventure and explore. I’ve had a few blips in this past year, but overall, I’ve been the most consistent and injury-free (knock on wood!) that I’ve ever been. In full disclosure, the uncomfortableness has actually been pretty acute these past few months as my body as more rapidly changed as I worked to get my period back. But on days when I start to get down on myself for no longer fitting into old clothes, I remind myself that I’d much rather be a bit uncomfortable with my body and able to explore and adventure than be injured on the sidelines. 
 
@@ -85,7 +85,7 @@ In the thick of my eating disorder, I valued a few things: winning races, being 
 
 I thought enough accolades and accomplishments and social media followers could bring me happiness. I thought that if I lost those things, I’d be empty. 
 
-But what I’ve learned in the past year is how to live according to my *actual* values, not the misplaced ones that never seemed to fill my soul. And those values are community, connection, and love. 
+But what I’ve learned in the past year is how to live according to my _actual_ values, not the misplaced ones that never seemed to fill my soul. And those values are community, connection, and love. 
 
 Living according to those values drove my move to Colorado. Living according to those values drove my openness and eagerness to connect to other athletes in recovery. Living according to those values drove me to love fiercely, and recognize that the meaningful connection of a few is what fills my soul. 
 

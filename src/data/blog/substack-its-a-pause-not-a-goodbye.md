@@ -11,15 +11,15 @@ draft: false
 
 I’ve been thinking a lot lately about how multiple things can be true at once: how many things are actually “ands” instead of “buts”.
 
-I can want to fight like hell to keep getting to start lines, *and* be tired as fuck of patching together/fighting with my body.
+I can want to fight like hell to keep getting to start lines, _and_ be tired as fuck of patching together/fighting with my body.
 
-I can still want to be fiercely competitive at age 40, *and* be realistic of my current level.
+I can still want to be fiercely competitive at age 40, _and_ be realistic of my current level.
 
-I can be optimistic that my best days of running are ahead of me, *and* be sad that I never quite got the glorious comeback from injury/eating disorder recovery like I hoped I would.
+I can be optimistic that my best days of running are ahead of me, _and_ be sad that I never quite got the glorious comeback from injury/eating disorder recovery like I hoped I would.
 
-I can be frustrated with where I am, *and* also proud of how far I’ve come.
+I can be frustrated with where I am, _and_ also proud of how far I’ve come.
 
-I can take a pause, *and* also know that it’s not a good-bye.
+I can take a pause, _and_ also know that it’s not a good-bye.
 
 It’s been a year since my (almost catastrophic) femoral neck stress fracture, and five years since I opened up about my eating disorder to the public. Anniversaries like this are always imbued with melancholy and self-reflection.
 
@@ -37,7 +37,7 @@ I’m in one of these rollercoaster moments right now: while a lower mileage bui
 
 Of course, I wanted to immediately use that fitness I built for HiLo and focus on another 100, so the reality of having to take a beat and triage the body again is beyond frustrating.
 
-In a fit of frustrated tears the other day I suddenly stopped and ask “why?” Why am I working so hard, feeling like I’m up against some arbitrary deadline that I *must* race a 100 miler every year (or even race at all!), that I *must* continue to collect Hardrock and Western States qualifiers, that I *must* continue my training plan laid out so perfectly on a weekly basis?
+In a fit of frustrated tears the other day I suddenly stopped and ask “why?” Why am I working so hard, feeling like I’m up against some arbitrary deadline that I _must_ race a 100 miler every year (or even race at all!), that I _must_ continue to collect Hardrock and Western States qualifiers, that I _must_ continue my training plan laid out so perfectly on a weekly basis?
 
 I don’t have sponsors breathing down my neck, I shouldn’t feel like I have other people’s expectations on me: I am doing this solely for me at this point in my athletic career. So my “why” is that I enjoy it and it gives me structure, purpose, and a sense of community. I adore it.
 
@@ -61,7 +61,7 @@ Running and race goals give me purpose and I find joy in the process of achievin
 
 As much as I hate it, I’m taking this as a flashing neon sign that it’s time to let go for the time being. I’m not sure how long this pause will be, but I’m holding onto “maybe” and leaning into the uncertainty the best I can.
 
-The beauty of our sport is that it’ll always be there when I’m ready to come back to it. It hurts like hell to let it go, *and* I take comfort in the fact I know I’ll out there again.
+The beauty of our sport is that it’ll always be there when I’m ready to come back to it. It hurts like hell to let it go, _and_ I take comfort in the fact I know I’ll out there again.
 
 Thanks for reading Race Ipsa Loquitur! Subscribe for free to hear the inner workings of my brain.
 

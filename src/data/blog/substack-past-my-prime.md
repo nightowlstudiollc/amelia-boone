@@ -1,5 +1,5 @@
 ---
-title: "\"Past My Prime\""
+title: '"Past My Prime"'
 pubDatetime: 2024-04-21T21:47:38Z
 description: "“We won’t need to file Schedule C anymore after this year,” I told my accountant this winter, “I’m no longer getting any sponsor money.” “Oh, Amelia - I’m sorry!” she replied, with that mildly…"
 source: substack
@@ -23,7 +23,7 @@ Because now more than ever, I am doing it solely for me.
 
 That doesn’t mean that my ego hasn’t smarted over the past year or two, or that the edges of this transition aren’t raw and a bit sharp at times. My therapist is intimately familiar with this topic.
 
-I can hear the inevitable responses to this piece: “*but you are only 40! Female ultra runners can hit their prime in their 40s - you are still young! Look at xyz runner doing incredible things still!”* Yes, that is very true, and I’m not writing myself off by any means. For better or worse, I will always have a competitive fire, and I still have this firm belief that my best running days are actually ahead of me.
+I can hear the inevitable responses to this piece: “_but you are only 40! Female ultra runners can hit their prime in their 40s - you are still young! Look at xyz runner doing incredible things still!”_ Yes, that is very true, and I’m not writing myself off by any means. For better or worse, I will always have a competitive fire, and I still have this firm belief that my best running days are actually ahead of me.
 
 But “best” doesn’t necessarily mean “fastest times” or “most race podiums.” “Best” can mean competing like hell out there but not losing the joy and the meaning. “Best” can mean stringing together years without a stress fracture, something which has eluded me thus far. “Best” can mean the most involved I’ve been in the community, and the most fun I’ve had out there on the trail.
 
@@ -35,7 +35,7 @@ I will always carry the feeling of unfinished business with me because of that. 
 
 A part of me likes to think this is all a natural part of the broader topic of success and longevity: at some point, we all start the (mostly) inescapable decline in our chosen career/art path. I imagine musicians feel it after selling out stadiums and then struggling to fill small venues in later years. Or actors as parts become fewer and further between. Or even social media influencers as following counts and engagement starts to drop.
 
-Some people chose to pack it up when this happens - “go out on top” and not let it “hurt the legacy.” I have complete respect for that decision, but that’s not me (*I am captain of this slowly sinking ship and I’m gonna ride it allllllllll the way down*). I love running and this sport too much to walk away just because I’m no longer standing on top of podiums, and I know there are many others out there who feel the same way. Perhaps that’s the beauty of participation sports: we can continue to do it for as long as we choose (hopefully), and consistently redefine our relationship to it and the meaning it gives to us.
+Some people chose to pack it up when this happens - “go out on top” and not let it “hurt the legacy.” I have complete respect for that decision, but that’s not me (_I am captain of this slowly sinking ship and I’m gonna ride it allllllllll the way down_). I love running and this sport too much to walk away just because I’m no longer standing on top of podiums, and I know there are many others out there who feel the same way. Perhaps that’s the beauty of participation sports: we can continue to do it for as long as we choose (hopefully), and consistently redefine our relationship to it and the meaning it gives to us.
 
 I may be past my prime, but only if we define prime as “race results and accolades.” If we define it as “confidence in myself as an athlete and excitement for the sport,” then I’d say I have many more years left.
 

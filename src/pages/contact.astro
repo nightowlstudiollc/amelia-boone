@@ -7,7 +7,7 @@ import Footer from "@/components/Footer.astro";
 <Layout title="Contact | Amelia Boone">
   <Header />
   <main id="main-content" class="app-layout py-12">
-    <h1 class="text-3xl font-bold mb-2">Get in Touch</h1>
+    <h1 class="mb-2 text-3xl font-bold">Get in Touch</h1>
     <p class="mb-8 opacity-75">
       For speaking inquiries, media requests, or general correspondence.
     </p>
@@ -36,25 +36,32 @@ import Footer from "@/components/Footer.astro";
         />
       </div>
       <div>
-        <label for="message" class="mb-1 block text-sm font-medium">Message</label>
+        <label for="message" class="mb-1 block text-sm font-medium"
+          >Message</label
+        >
         <textarea
           id="message"
           name="message"
           rows={5}
           class="w-full rounded border border-border bg-background px-3 py-2 text-sm focus:outline-accent"
-          placeholder="What's on your mind?"
-        ></textarea>
+          placeholder="What's on your mind?"></textarea>
       </div>
       <button
         type="submit"
-        class="rounded bg-accent px-5 py-2.5 text-sm font-semibold text-white hover:bg-accent/90 transition-colors"
+        class="rounded bg-accent px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-accent/90"
       >
         Send Message
       </button>
     </form>
 
     <p class="mt-10 text-sm opacity-60">
-      Or reach out directly via <a href="https://ameliaboone.substack.com" target="_blank" rel="noopener noreferrer" class="underline decoration-dashed underline-offset-4 hover:text-accent">Substack</a>.
+      Or reach out directly via <a
+        href="https://ameliaboone.substack.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="underline decoration-dashed underline-offset-4 hover:text-accent"
+        >Substack</a
+      >.
     </p>
   </main>
   <Footer />

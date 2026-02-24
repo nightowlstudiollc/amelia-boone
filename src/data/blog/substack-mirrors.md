@@ -13,7 +13,7 @@ I walked into a completely empty apartment in Golden, Colorado. Empty, except fo
 
 I’ve avoided mirrors most of my life. Small ones, full-length ones, while clothed, definitely while unclothed. I don’t use them to put in my contacts or blow-dry my hair and thankfully I don’t wear make-up so that’s never been an issue. I’d paper over them or write in erasable marker on them to obscure the reflection. I even once had the mirror removed from my bathroom (that was a task in a rented apartment, lemme tell you).
 
-*tw: eating disorder, body image and body weight discussions (no numbers)*
+_tw: eating disorder, body image and body weight discussions (no numbers)_
 
 Nothing good came for me from staring in a mirror other than abject discomfort with myself.
 
