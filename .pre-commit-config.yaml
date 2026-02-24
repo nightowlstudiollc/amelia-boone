@@ -1,0 +1,18 @@
+---
+# Project-local pre-commit config.
+# Extends the global config at ~/.config/pre-commit/config.yaml
+# with project-specific excludes.
+
+exclude: ^\.claude-plugin/
+
+repos:
+  - repo: local
+    hooks:
+      - id: prettier
+        name: "Prettier Formatter (JS/TS/JSON/CSS)"
+        entry: bash -c 'npx prettier --write --ignore-unknown "$@"' --
+        language: system
+        files: \.(js|jsx|ts|tsx|json|css)$
+        exclude: ^\.claude-plugin/
+        pass_filenames: true
+        verbose: true
