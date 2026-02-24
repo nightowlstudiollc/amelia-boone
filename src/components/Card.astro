@@ -10,7 +10,14 @@ type Props = {
 
 const { variant: Heading = "h2", id, data, filePath } = Astro.props;
 
-const { title, description, ...props } = data;
+const { title, description, source, ...props } = data;
+
+const sourceLabel =
+  source === "wordpress"
+    ? "WordPress"
+    : source === "substack"
+      ? "Substack"
+      : null;
 ---
 
 <li class="my-6">
@@ -28,6 +35,15 @@ const { title, description, ...props } = data;
       {title}
     </Heading>
   </a>
-  <Datetime {...props} />
+  <div class="flex items-center gap-2">
+    <Datetime {...props} />
+    {
+      sourceLabel && (
+        <span class="rounded border border-accent/30 px-1.5 py-0.5 text-xs font-medium text-accent/70">
+          {sourceLabel}
+        </span>
+      )
+    }
+  </div>
   <p>{description}</p>
 </li>
