@@ -7,6 +7,7 @@ originalUrl: "https://ameliaboone.substack.com/p/are-athletes-obligated-to-speak
 tags:
   - essays
 draft: false
+featured: true
 ---
 
 It’s Saturday afternoon and I’m following New York Times updates regarding the horrific killing of Alex Pretti by a group of ICE agents. Two weeks ago, we watched as videos came out showing the killing of Renee Good by ICE agents.
