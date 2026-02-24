@@ -7,6 +7,7 @@ originalUrl: "https://ameliaboone.substack.com/p/maybe-your-body-isnt-cut-out-fo
 tags:
   - essays
 draft: false
+featured: true
 ---
 
 I stared at the computer screen filled with MRI images as the orthopedist used the mouse to expand the measuring tool. “You see this?” he said, “That’s your patella tendon. A healthy one should be about 5mm.” He stretched the white line over the black and white mottled blob, “Yours is measuring 13.4mm. This is about the worst tendon I’ve ever seen.”

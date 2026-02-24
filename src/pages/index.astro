@@ -3,109 +3,95 @@ import { getCollection } from "astro:content";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
-import Socials from "@/components/Socials.astro";
 import LinkButton from "@/components/LinkButton.astro";
 import Card from "@/components/Card.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
-import IconRss from "@/assets/icons/IconRss.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
-import { SITE } from "@/config";
-import { SOCIALS } from "@/constants";
 
 const posts = await getCollection("blog");
-
 const sortedPosts = getSortedPosts(posts);
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
-const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 ---
 
 <Layout>
   <Header />
-  <main id="main-content" data-layout="index" class="app-layout">
-    <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
-      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Mingalaba
-      </h1>
-      <a
-        target="_blank"
-        href="/rss.xml"
-        class="inline-block"
-        aria-label="rss feed"
-        title="RSS Feed"
-      >
-        <IconRss
-          width={20}
-          height={20}
-          class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
+  <main id="main-content" data-layout="index">
+    <!-- Hero -->
+    <section id="hero" class="relative overflow-hidden">
+      <div class="relative h-[480px] sm:h-[560px]">
+        <img
+          src="/hero.jpg"
+          alt="Amelia Boone racing through mud and obstacles"
+          class="absolute inset-0 h-full w-full object-cover object-top"
+          fetchpriority="high"
         />
-        <span class="sr-only">RSS Feed</span>
-      </a>
-
-      <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
-      </p>
-      <p class="mt-2">
-        Read the blog posts or check
-        <LinkButton
-          class="underline decoration-dashed underline-offset-4 hover:text-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
-      </p>
-      {
-        // only display if at least one social link is enabled
-        SOCIALS.length > 0 && (
-          <div class="mt-4 flex max-sm:flex-col sm:items-center">
-            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Social Links:</div>
-            <Socials />
+        <div class="absolute inset-0 bg-gradient-to-b from-black/10 via-black/30 to-black/70"></div>
+        <div class="absolute bottom-0 left-0 right-0 px-6 pb-10 sm:px-12 sm:pb-12">
+          <h1 class="text-4xl font-bold text-white sm:text-5xl leading-tight">
+            Amelia Boone
+          </h1>
+          <p class="mt-3 max-w-xl text-base text-white/90 sm:text-lg leading-relaxed">
+            Obstacle racing champion, ultrarunner, attorney, and writer. Racing through sport, recovery, and everything in between.
+          </p>
+          <div class="mt-6 flex flex-wrap gap-3">
+            <LinkButton
+              href="/posts"
+              class="rounded bg-accent px-5 py-2.5 text-sm font-semibold text-white hover:bg-accent/90 transition-colors"
+            >
+              Read the Blog
+            </LinkButton>
+            <a
+              href="https://ameliaboone.substack.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="rounded border border-white/70 px-5 py-2.5 text-sm font-semibold text-white hover:bg-white/10 transition-colors"
+            >
+              Subscribe on Substack
+            </a>
           </div>
-        )
-      }
+        </div>
+      </div>
     </section>
 
+    <!-- Featured posts -->
     {
       featuredPosts.length > 0 && (
-        <section
-          id="featured"
-          class:list={[
-            "pt-12 pb-6",
-            { "border-b border-border": recentPosts.length > 0 },
-          ]}
-        >
-          <h2 class="text-2xl font-semibold tracking-wide">Featured</h2>
+        <section id="featured" class="app-layout border-b border-border pt-12 pb-6">
+          <h2 class="text-2xl font-semibold tracking-wide">Recent Writing</h2>
           <ul>
             {featuredPosts.map(data => (
               <Card variant="h3" {...data} />
             ))}
           </ul>
+          <div class="mt-6 text-center">
+            <LinkButton href="/posts/">
+              All Posts
+              <IconArrowRight class="inline-block rtl:-rotate-180" />
+            </LinkButton>
+          </div>
         </section>
       )
     }
 
-    {
-      recentPosts.length > 0 && (
-        <section id="recent-posts" class="pt-12 pb-6">
-          <h2 class="text-2xl font-semibold tracking-wide">Recent Posts</h2>
-          <ul>
-            {recentPosts.map(
-              (data, index) =>
-                index < SITE.postPerIndex && <Card variant="h3" {...data} />
-            )}
-          </ul>
-        </section>
-      )
-    }
-
-    <div class="my-8 text-center">
-      <LinkButton href="/posts/">
-        All Posts
-        <IconArrowRight class="inline-block rtl:-rotate-180" />
-      </LinkButton>
-    </div>
+    <!-- Archive callout -->
+    <section class="app-layout py-12">
+      <div class="rounded-lg border border-border bg-muted/30 px-6 py-8 text-center">
+        <h2 class="text-xl font-semibold">From the Archive</h2>
+        <p class="mt-2 text-sm leading-relaxed opacity-80">
+          Race reports, injury dispatches, and essays from a decade of competing at the edges of endurance.
+        </p>
+        <div class="mt-5 flex flex-wrap justify-center gap-3">
+          <LinkButton href="/posts/">
+            Browse All Posts
+            <IconArrowRight class="inline-block rtl:-rotate-180" />
+          </LinkButton>
+          <LinkButton href="/archives/">
+            Archives
+            <IconArrowRight class="inline-block rtl:-rotate-180" />
+          </LinkButton>
+        </div>
+      </div>
+    </section>
   </main>
   <Footer />
 </Layout>

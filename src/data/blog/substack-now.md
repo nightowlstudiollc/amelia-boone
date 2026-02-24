@@ -7,6 +7,7 @@ originalUrl: "https://ameliaboone.substack.com/p/now"
 tags:
   - essays
 draft: false
+featured: true
 ---
 
 In flipping through an old notebook the other day, I found a chicken scratch across a page:
