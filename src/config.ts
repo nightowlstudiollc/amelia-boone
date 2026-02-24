@@ -7,7 +7,7 @@ export const SITE = {
   ogImage: "og-amelia.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
-  postPerPage: 10,
+  postPerPage: 20,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   showBackButton: true,
