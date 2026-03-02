@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 .claude-plugin/
+||||||| parent of 0d50824 (ignores)
+=======
+>>>>>>> 0d50824 (ignores)
 .worktrees/
 node_modules/
 dist/
