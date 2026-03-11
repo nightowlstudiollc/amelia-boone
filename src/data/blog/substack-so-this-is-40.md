@@ -1,7 +1,7 @@
 ---
 title: "So this is 40"
 pubDatetime: 2023-09-27T11:07:04Z
-description: "My dad's 40th birthday is emblazoned into my brain: the black decorations, the cake napkins that read "over the hill," the tombstone cake topper, the constant jokes that he was officially old. To an…"
+description: "My dad's 40th birthday is emblazoned into my brain: the black decorations, the cake napkins that read \"over the hill,\" the tombstone cake topper, the constant jokes that he was officially old. To an…"
 source: substack
 originalUrl: "https://ameliaboone.substack.com/p/so-this-is-40"
 tags:
