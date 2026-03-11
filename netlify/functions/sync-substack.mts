@@ -1,6 +1,5 @@
 // TODO (Andrew): Set GITHUB_TOKEN in Netlify environment variables.
 // Netlify UI > amelia-boone-archive > Site configuration > Environment variables
-// Value: the nightowlstudiollc PAT from the project auth file
 
 import type { Config } from "@netlify/functions";
 import Parser from "rss-parser";
