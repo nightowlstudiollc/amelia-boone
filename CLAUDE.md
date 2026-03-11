@@ -6,10 +6,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Demo site for Amelia Boone (prospective client of Night Owl Studio, LLC). She is an obstacle racing champion / ultrarunner with two separate content sources:
 
-- **WordPress blog** at `ameliabooneracing.com` — ~125 posts (2011–2023), no longer actively updated
-- **Substack** at `ameliaboone.substack.com` — newer personal essays (2024–present), ~10–15 posts
+- **WordPress blog** at `ameliabooneracing.com/blog/` — 73 posts (2011–2023), no longer actively updated. Full archive imported.
+- **Substack** at `ameliaboone.substack.com` — newer personal essays (2023–present), ~20 posts
 
-This site consolidates both into a single unified blog, with Substack as the ongoing source. **This is a sales demo**, not a finished product — no post-management UI, no sync automation.
+This site consolidates both into a single unified blog, with Substack as the ongoing source. **This is a sales demo**, not a finished product.
 
 **Preview URL**: `https://amelia-boone-archive.netlify.app/`
 **GitHub**: `https://github.com/nightowlstudiollc/amelia-boone`
@@ -18,56 +18,66 @@ This site consolidates both into a single unified blog, with Substack as the ong
 ## Tech Stack
 
 - **Framework**: [Astro](https://astro.build/) with `output: 'static'`
-- **Content**: Markdown files in `src/content/blog/` via Astro content collections
+- **Package manager**: **pnpm** (not npm)
+- **Content**: Markdown files in `src/data/blog/` (not `src/content/blog/`)
+- **Search**: Pagefind (runs automatically as part of build — do not run separately)
 - **Deployment**: Netlify (zero-config, linked to GitHub repo)
 
 ## Commands
 
-Once the Astro project is initialized:
-
 ```bash
-npm install          # Install dependencies
-npm run dev          # Start dev server at localhost:4321
-npm run build        # Build to ./dist/
-npm run preview      # Preview production build locally
+pnpm install         # Install dependencies
+pnpm run dev         # Start dev server at localhost:4321
+pnpm run build       # Build to ./dist/ (runs astro check + astro build + pagefind)
+pnpm run preview     # Preview production build locally
 ```
 
 ## Content Architecture
 
-All blog posts live in `src/content/blog/` as `.md` files with this frontmatter schema:
+All blog posts live in **`src/data/blog/`** as `.md` files with this exact frontmatter schema:
 
 ```yaml
 ---
 title: "Post Title"
-date: 2019-04-15
-source: wordpress   # or: substack
-tags: [racing, obstacle-course]
-originalUrl: https://ameliabooneracing.com/blog/post-slug
+pubDatetime: 2018-04-02T12:00:00Z   # ISO 8601, always include time component
+description: "One-sentence summary, ~150 chars"
+source: wordpress                    # or: substack
+originalUrl: "https://..."
+tags:
+  - racing                           # lowercase, hyphenated, 1-3 per post
+draft: false
+featured: false                      # only true for ~4-5 top posts total
 ---
 ```
 
-The `source` field is critical — it enables future UI treatment like "Originally published on WordPress" badges. Never omit it.
+**Critical**: field is `pubDatetime` (not `date`). `draft: false` always. `featured: true` on at most 4-5 posts.
 
-**WordPress content**: ~10–15 representative posts scraped from `ameliabooneracing.com/wp-json/wp/v2/posts`. Target posts that span the full date range, include high-engagement posts, and specifically include "World's Toughest Mudder Ruined My Life."
+**WordPress content**: 73 posts scraped from `ameliabooneracing.com/blog/wp-json/wp/v2/posts`. Full archive imported via `import_wp.py`. WP REST API is at `/blog/wp-json/`, not `/wp-json/`.
 
-**Substack content**: All available posts from RSS feed at `https://ameliaboone.substack.com/feed`. Free posts only — note any paywalled posts as "subscriber content."
+**Substack content**: ~20 posts from RSS at `https://ameliaboone.substack.com/feed`. Free posts only. Hourly Netlify scheduled function (`netlify/functions/sync-substack.mts`) auto-syncs new posts via GitHub API.
 
 ## Page Structure
 
 ```
-/                   → index.astro (landing: hero, 3-4 featured Substack posts, archive callout)
+/                   → index.astro (landing: hero, 4 featured posts, archive callout)
 /blog               → blog/index.astro (unified feed, reverse chronological, all sources)
 /blog/[slug]        → blog/[...slug].astro
-/about              → about.astro (stub, pulled from existing site text)
+/about              → about.astro
 /contact            → contact.astro (stub, non-functional form)
 ```
 
+## Current Status (as of 2026-03-11)
+
+- **73 WordPress posts** imported (full archive)
+- **~20 Substack posts** imported
+- **4 featured posts**: barkley2018, how-worlds-toughest-mudder-ruined-my-life, substack-are-athletes-obligated-to-speak-out-on-social-media, substack-so-this-is-40
+- **Hourly Substack sync**: Netlify scheduled function (requires `GITHUB_TOKEN` env var in Netlify dashboard)
+
 ## Visual Direction
 
-Minimal, editorial, slightly outdoorsy. Target feel: Runner's World digital ~2022. Clean typography, generous whitespace, one strong accent color, hero imagery with her race photos. Do **not** replicate her existing WordPress site — show her something better.
+Minimal, editorial, slightly outdoorsy. Target feel: Runner's World digital ~2022. Clean typography, generous whitespace, one strong accent color, hero imagery with her race photos.
 
 ## Deployment Notes
 
 - Netlify auto-deploys on every push to `main`
-- The GitHub repo and Netlify project can be force-pushed to — no prior work to preserve
-- `PLAN.md` at repo root is the full project specification; consult it for detailed content sourcing instructions
+- `PLAN.md` at repo root is the full project specification

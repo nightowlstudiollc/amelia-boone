@@ -7,6 +7,7 @@ originalUrl: "https://www.ameliabooneracing.com/blog/ultramarathons/barkley2018/
 tags:
   - racing
 draft: false
+featured: true
 ---
 
 My training log entry the day before the 2018 Barkley Marathons read: “Once that cigarette is lit, I’m going to race my little brains out. Give it all my all, and give it hell.”
