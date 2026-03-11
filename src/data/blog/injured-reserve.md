@@ -32,7 +32,7 @@ So what do I do? All signs point to "sit out." Aside from the fact that I could 
 
 I wish I could just go out to WTM, run a few laps for "fun," and be fine with that. But as someone reminded me the other day, I don't have that luxury, because "people expect me to win." In other words, "if I'm not going out to win, it's not worth going out at all."
 
-[![2011: the days when it was all "fun" \(oh, blissful naivete\)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1457077_538595206227001_558633841_n-200x300.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1457077_538595206227001_558633841_n.jpg)2011: the days when it was all "fun"  
+[![2011: the days when it was all "fun" (oh, blissful naivete)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1457077_538595206227001_558633841_n-200x300.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1457077_538595206227001_558633841_n.jpg)2011: the days when it was all "fun"  
 (oh, blissful naivete)
 
 HOLD UP - it's not? With that comment, it really hit me: this is not what I signed up for when I got into this a few years ago. What happened to to obstacle racing being a stress release for me? Of being a hobby, a pastime, a fun outlet? I suppose that all went out the window when I started winning. Somewhere along the way, amidst sponsorship offers, magazine articles, and documentaries, I lost myself. (or, to quote Macklemore - "lost the compass where self is").

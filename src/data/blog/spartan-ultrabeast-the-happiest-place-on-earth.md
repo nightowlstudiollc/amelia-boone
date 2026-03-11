@@ -17,7 +17,7 @@ And all I can think is "Woo, let's do it again!"
 
 That was fun. No, seriously: SO much fun. Let's run up and down mountains every weekend.
 
-Depending on who you ask or whose Garmin you go by, the Ultrabeast ranged from 28-32 miles, and somewhere between 15,000-20,000 feet of elevation change. My chip time read 8 hours, 35 minutes: 2nd place female for both the Beast and Ultrabeast.* A little under 4 hours for the first lap, and a bit slower on the second (ha-go figure. Negative splits here would be damn near impossible). Here are some interesting stats on the course, btw.
+Depending on who you ask or whose Garmin you go by, the Ultrabeast ranged from 28-32 miles, and somewhere between 15,000-20,000 feet of elevation change. My chip time read 8 hours, 35 minutes: 2nd place female for both the Beast and Ultrabeast.\* A little under 4 hours for the first lap, and a bit slower on the second (ha-go figure. Negative splits here would be damn near impossible). Here are some interesting stats on the course, btw.
 
 And for the entire 8.5 hours, I couldn't have been happier-I'm fairly certain the smile never left my face. And it's not because I did well in the race. Hell, I didn't even know that I had come in 2nd in women until after I crossed the finish line in the first lap. When Carrie and Todd told me, I must have looked at them like they had 4 heads. This race was, from start to finish, just EVERYTHING I loved.
 
@@ -61,4 +61,4 @@ So some obligatory not-so-awesome things:
 
 And finally, will someone PLEASE tell me next time to wash my face and fix my hair before I cross the finish line. This is just embarrassing. Yikes.
 
-*NB: I seem to excel at getting second place. World's Toughest Mudder, the Death Race, now the Beast and Ultrabeast. I've been told second place is the first loser. Meh, I'll take it.
+\*NB: I seem to excel at getting second place. World's Toughest Mudder, the Death Race, now the Beast and Ultrabeast. I've been told second place is the first loser. Meh, I'll take it.

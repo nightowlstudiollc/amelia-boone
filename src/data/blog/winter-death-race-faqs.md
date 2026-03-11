@@ -35,7 +35,7 @@ Nope. I did the same exact tasks as all the men. Technically, I think women only
 
 (6) How was Joe D. as a bikram instructor?
 
-Motivating, though he could work on his zen-like presence. I believe his phrase for hands-to-feet pose was "Grab your heels. Now pull-pull like a motherf*cker!!" And we did awkward pose for 60+ seconds. That's got to be a new record.
+Motivating, though he could work on his zen-like presence. I believe his phrase for hands-to-feet pose was "Grab your heels. Now pull-pull like a motherf\*cker!!" And we did awkward pose for 60+ seconds. That's got to be a new record.
 
 (7) Did you sleep?
 

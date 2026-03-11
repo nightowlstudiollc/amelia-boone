@@ -37,7 +37,7 @@ It was never about a singular person’s accomplishment. A course record. Or a T
 
 And what I had started to realize in the weeks prior, as my injury wore on, with seemingly little hope of ever healing; and what was only solidified by Western States weekend, is that perhaps what I needed to learn in all of this was how to take joy in other people’s accomplishments. How to be the biggest fan and truest supporter. And how to give back to the racing community, in whatever capacity I could.
 
-[![Coming back from Green Gate \(thanks Sally Bergeson for the photo opp\)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/07/FullSizeRender-13-292x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/07/FullSizeRender-13.jpg)Coming back from Green Gate (thanks Sally Bergeson for the photo opp)
+[![Coming back from Green Gate (thanks Sally Bergeson for the photo opp)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/07/FullSizeRender-13-292x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/07/FullSizeRender-13.jpg)Coming back from Green Gate (thanks Sally Bergeson for the photo opp)
 
 I said this once before the Death Race in 2014, advising all those taking it on:
 

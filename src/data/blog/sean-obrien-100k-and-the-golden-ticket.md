@@ -61,8 +61,6 @@ And, for me, that's joy.
 
 !(http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/02/ajCSZp8L.jpg-large-300x191.jpeg)Photo courtesy of [Billy Yang](http://www.billyyangfilms.com)
 
- 
-
 **And now, the fun stuff - SOB stats:**
 
 **Finishing time** : 10:42:11  

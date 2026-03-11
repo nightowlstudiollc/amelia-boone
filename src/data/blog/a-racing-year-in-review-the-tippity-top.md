@@ -11,7 +11,7 @@ draft: false
 featured: false
 ---
 
-So the world didn't end today, though judging by the looks of the weather outside here in Chicago, it may still choose to do so. I guess that means that we'll make it to 2013 and another year of racing will commence. The end of the year is always littered with the "best of", "year in review" or the "top 10" lists from various outlets, my favorite being this one from The Onion. So if a lemur can have its place in a year in review list, I sure as hell can write my own about my racing year. Right? Right? Obviously, all of these highlights will involve yours truly, so call me self-important or egotistical, but I certainly can't write about it if I wasn't there, so deal with it. Without further ado, the inaugural 2012 "Amelia's Top 16 Moments in Obstacle/Adventure Racing"* (and challenges, to encompass GoRuck and S.E.R.E.)
+So the world didn't end today, though judging by the looks of the weather outside here in Chicago, it may still choose to do so. I guess that means that we'll make it to 2013 and another year of racing will commence. The end of the year is always littered with the "best of", "year in review" or the "top 10" lists from various outlets, my favorite being this one from The Onion. So if a lemur can have its place in a year in review list, I sure as hell can write my own about my racing year. Right? Right? Obviously, all of these highlights will involve yours truly, so call me self-important or egotistical, but I certainly can't write about it if I wasn't there, so deal with it. Without further ado, the inaugural 2012 "Amelia's Top 16 Moments in Obstacle/Adventure Racing"\* (and challenges, to encompass GoRuck and S.E.R.E.)
 
 [*Because Top 10 lists are so cliche.]
 

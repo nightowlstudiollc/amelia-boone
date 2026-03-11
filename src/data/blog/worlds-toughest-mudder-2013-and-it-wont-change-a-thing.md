@@ -38,7 +38,7 @@ I hate support crews. I hate the concept of them. I've always hated that the Dea
 
 [![Foraging in the tent during WTM 2011](http://ameliabooneracing.info/wp-content/uploads/2015/07/396948_804544688862_1274350569_n-300x225.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/396948_804544688862_1274350569_n.jpg)Foraging in the tent during WTM 2011
 
-If you have someone in your pit area prepping warm food and drink, drying out your clothes, etc., it could be a game changer. In the past, I've had to strategize how to lay out clothes, lay out nutrition, make sure that wet clothes don't freeze between laps.*
+If you have someone in your pit area prepping warm food and drink, drying out your clothes, etc., it could be a game changer. In the past, I've had to strategize how to lay out clothes, lay out nutrition, make sure that wet clothes don't freeze between laps.\*
 
 The race should be about the racer's athletic, mental, and physical wherewithal, not who can hire the best support staff. I full acknowledge that, in other races (such as ultras), crews are expected. But WTM isn't, and shouldn't become, like other races.
 
@@ -46,4 +46,4 @@ But even this isn't an "OH MY GOD THE WORLD IS ENDING" change. You live, you ada
 
 Yet we will.
 
-*Sidebar: People complained all last year about the lack of adequate numbers of microwaves, or hot showers, etc. Personally, I'd do away with both (except for having the showers post-race. That, I can get on board with). Racers shouldn't rely on TMHQ to provide these, and if those are your biggest concerns, then it's probably worth rethinking why you are there.
+\*Sidebar: People complained all last year about the lack of adequate numbers of microwaves, or hot showers, etc. Personally, I'd do away with both (except for having the showers post-race. That, I can get on board with). Racers shouldn't rely on TMHQ to provide these, and if those are your biggest concerns, then it's probably worth rethinking why you are there.

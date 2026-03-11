@@ -20,7 +20,7 @@ Ok, I might have learned more. But that was, by far, the most painful lesson. Te
 
 It's been a year since the first Spartan Championships, and it was undeniable how things have changed. It was evident not only from the caliber of athletes that showed up this year, but even the feel and mood surrounding the race with the cameras and press and hoopla. While I laughed and joked with other racers and tried to appear calm, I'm pretty awful at hiding my nerves.
 
-[![The start \(photo credit: The Painted Warrior\)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1274582_249170765207700_1651705428_o-300x200.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1274582_249170765207700_1651705428_o.jpg)The start (photo credit: The Painted Warrior)
+[![The start (photo credit: The Painted Warrior)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1274582_249170765207700_1651705428_o-300x200.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1274582_249170765207700_1651705428_o.jpg)The start (photo credit: The Painted Warrior)
 
 If there is anything that is calming, however, it is being back in Pittsfield. Ironically, the home of the Death Race and days and days of suffering tends to have a calming affect on me - go figure. Pretty sure I told several people I'd rather being doing the Team Death Race with my DR family. (Note - I probably would have recanted that come Sunday night after the TDR's finished up the Ultrabeast at the end of their three days of misery).
 

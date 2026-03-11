@@ -27,23 +27,23 @@ You'll notice in the logs that I had several various freak outs about different 
 
 A few procedural notes:
 
-  * For the first few weeks, all runs were done at no faster than a 10min/pace. As Coach David Roche said, "we are not running, we are getting the bones, tendons and muscles used to pounding."
-  * I started with 10-15 minutes of barefoot walking a day - some on grass, some on an incline treadmill
-  * Pretty much all my running was done on dirt - I rarely hit asphalt.
-  * For the first few weeks, I stuck on a dirt track where I made a lot of loops - makes it easier to abort and not be an idiot if need be.
-  * A few weeks after return to running, I was knocked over by two dogs while running and ended up with a tibial plateau bone bruise and torn lateral meniscus, which required 3-4 weeks off from running. So I pretty much started over (again!) from ground zero in February. (hence the large chunk of XT (cross-training))
-  * ONE FULL REST DAY A WEEK NO MATTER HOW MUCH I KICK AND SCREAM
-  * Coach uses minutes, not miles (except for long runs), and we made that switch partway through the year. I didn't request it, but it works well for me so I don't fixate on mileage
-  * Log doesn't include my strength work, which is generally 2-3x week and includes squats, deadlifts, lunges and other single leg exercises in addition to upper body and grip work for obstacle racing.
-  * I only included until end of November this past year because…I'm lazy and you get the gist. Since November 2017, I've been hitting 60-70 mpw, with one big week at 90 before taper.
-  * First tab of the log is the day to day, and I added a second tab which shows you weekly mileage totals
-  * Yes, it would be much easier if I just posted you all to Strava to see this. I understand the log is probably not the most user-friendly to read. But to ward off the "why are you not on Strava" questions - I know myself well enough to know, at this point, I too easily fall into the comparison trap (which led my down the past to a broken femur in the first place). I don't care about people seeing my stuff (I'd actually love to share!), but I'd need to prevent myself from looking at other folks..like the only drunk goggles on gmail to prevent drunk emailing (oh…college)
+- For the first few weeks, all runs were done at no faster than a 10min/pace. As Coach David Roche said, "we are not running, we are getting the bones, tendons and muscles used to pounding."
+- I started with 10-15 minutes of barefoot walking a day - some on grass, some on an incline treadmill
+- Pretty much all my running was done on dirt - I rarely hit asphalt.
+- For the first few weeks, I stuck on a dirt track where I made a lot of loops - makes it easier to abort and not be an idiot if need be.
+- A few weeks after return to running, I was knocked over by two dogs while running and ended up with a tibial plateau bone bruise and torn lateral meniscus, which required 3-4 weeks off from running. So I pretty much started over (again!) from ground zero in February. (hence the large chunk of XT (cross-training))
+- ONE FULL REST DAY A WEEK NO MATTER HOW MUCH I KICK AND SCREAM
+- Coach uses minutes, not miles (except for long runs), and we made that switch partway through the year. I didn't request it, but it works well for me so I don't fixate on mileage
+- Log doesn't include my strength work, which is generally 2-3x week and includes squats, deadlifts, lunges and other single leg exercises in addition to upper body and grip work for obstacle racing.
+- I only included until end of November this past year because…I'm lazy and you get the gist. Since November 2017, I've been hitting 60-70 mpw, with one big week at 90 before taper.
+- First tab of the log is the day to day, and I added a second tab which shows you weekly mileage totals
+- Yes, it would be much easier if I just posted you all to Strava to see this. I understand the log is probably not the most user-friendly to read. But to ward off the "why are you not on Strava" questions - I know myself well enough to know, at this point, I too easily fall into the comparison trap (which led my down the past to a broken femur in the first place). I don't care about people seeing my stuff (I'd actually love to share!), but I'd need to prevent myself from looking at other folks..like the only drunk goggles on gmail to prevent drunk emailing (oh…college)
 
 Some stats:
 
-  * Highest mileage week (through November 2017) was 65 miles, but the bulk has sat around 35-50 (after the gradual ramp-up). Since the end of the log, I've been at 65-70mpw consistently with one week at 90.
-  * I didn't hit a 20 miler until December 23rd, 2017, over a year since I started running again (which may surprise some folks). Up until December, longest run was the Spartan Race Word Championships in Tahoe. We've focused on getting consistent lower mileage 5-6x week versus long "epic" runs (which is ALL I used to do pre-case of femurs)
-  * For those interested in my pace, "easy" in logs means MAF, which is around 148bpm for me. It's difficult to correlate that to pace since I rarely run purely flat and most of my runs have a fair amount of vert. Hence, using HR as a guide.
+- Highest mileage week (through November 2017) was 65 miles, but the bulk has sat around 35-50 (after the gradual ramp-up). Since the end of the log, I've been at 65-70mpw consistently with one week at 90.
+- I didn't hit a 20 miler until December 23rd, 2017, over a year since I started running again (which may surprise some folks). Up until December, longest run was the Spartan Race Word Championships in Tahoe. We've focused on getting consistent lower mileage 5-6x week versus long "epic" runs (which is ALL I used to do pre-case of femurs)
+- For those interested in my pace, "easy" in logs means MAF, which is around 148bpm for me. It's difficult to correlate that to pace since I rarely run purely flat and most of my runs have a fair amount of vert. Hence, using HR as a guide.
 
 Every runner's journey back is going to be different, and I imagine there are a lot of you out there being like "wow she's still so low mileage!" or "she took it WAY too conservatively." Sure, perhaps. I know plenty of other runners who have ramped up much faster and been just fine. For me, getting over the mental block of rein jury and the fear of high mileage probably made me more conservative than we needed to be. But I also was off from running for almost a year, and, therefore, we had to treat me like a brand new runner. If you have a shorter layoff (3-4 months), you may be able to return to mileage much quicker (general rule of thumb is that if you are off of running for over 9months, maybe even 6 months, you are pretty much starting over from ground zero. Sucks, I know).
 

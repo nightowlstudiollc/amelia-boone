@@ -14,11 +14,11 @@ It's that time of year again. The time when I dig out my boxed up hats, gloves, 
 
 Gone are the days of racing in spandex shorts and a sports bra. The days of beanies, smart wool, compression gear, and yes-wetsuits, have arrived.
 
-F*ck.
+F\*ck.
 
 Nothing reminded me of this more than the Midwest Super Spartan this past week. The weather was eerily reminscent of World's Toughest Mudder weather last year, and bite of the wind at 7am brought back vivid memories. I brought option after option of what to wear, and in the end, ended up OVERdressing. I was dying of heat 2 miles in, and looked forward to that last water obstacle solely to cool myself off.
 
-But as I prepare for the rapidly approaching WTM (assuming I'm going), I remember that, most of the time, being overly warm is NOT the problem. And oddly enough, I've done more cold-weather races than I have warm weather races. Several races/challenges spring to mind that I can classify as "cold as f*ck": WTM 2011, Indiana Tough Mudder, SERE D.C., Winter Death Race, etc.
+But as I prepare for the rapidly approaching WTM (assuming I'm going), I remember that, most of the time, being overly warm is NOT the problem. And oddly enough, I've done more cold-weather races than I have warm weather races. Several races/challenges spring to mind that I can classify as "cold as f\*ck": WTM 2011, Indiana Tough Mudder, SERE D.C., Winter Death Race, etc.
 
 I'd like to say that I have a system figured out-that I KNOW how to dress and prepare myself for the cold weather. I've fumbled my way through trial and error, I've underdressed, I've occasionally overdressed, but I'm still learning. So I bring to you, in NFL-style, my Matt Ryans and Tony Romos/Mark Sanchezes/Michael Vicks. (Is Matt Ryan the most underrated? I used to think it was Flacco, but not so sure anymore)
 

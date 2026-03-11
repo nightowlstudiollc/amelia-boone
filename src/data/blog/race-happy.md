@@ -18,13 +18,11 @@ I feared my own return to racing because I feared the person racing makes me.
 
 And I didn’t want to go back to her.
 
-For as much as I love the _sport_ of obstacle racing, I wasn’t quite sure I actually loved the circuit of  _racing_ anymore.
+For as much as I love the _sport_ of obstacle racing, I wasn’t quite sure I actually loved the circuit of _racing_ anymore.
 
 As I’ve talked about repeatedly in the past (seriously, take your pick of podcasts…), I came into obstacle racing in a roundabout way. I did things backwards. I started with the ultimate sufferfests – with the 24-hour World’s Toughest Mudder, with Death Races, with races that lasted up to 72 hours. I started with Tough Mudders and not Spartan Races BECAUSE there was no timing involved. I took on [GoRucks](http://www.ameliabooneracing.com/blog/uncategorized/everyday-im-shufflin/) and [Death Races](http://www.ameliabooneracing.com/blog/uncategorized/death-race-truths/) because the only thing that mattered was finishing – there was no winning (well, Joe Desena might disagree).
 
 [![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/06/328537_10151027588081861_1130995663_o-300x199.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/06/328537_10151027588081861_1130995663_o.jpg)The finish line of the 2012 UltraBeast, and ALL the joy
-
- 
 
 It took me 2 years to run a “regular” length Spartan Race, which happened to be the Spartan Race World Championships. In 2013, after crossing the finish line as the victor, I remember walking down to the lake at the bottom of the Killington Ski Resort and sitting in the water, cooling off my exhausted legs. I looked around and said to myself “this is going to change everything.”
 
@@ -33,8 +31,6 @@ And it did.
 But not in the way you would think. Sure, with being a world champion came sponsorships, articles, magazine covers. With it came adoration and respect and feeling legitimized as an athlete. But with it also came a feeling of expectation and pressure – expectations to run races that didn’t really thrill me (hello 3 mile sprints!), the pressure of a NBC televised series – all race lengths that sounded like my worst nightmare. These were races that were all a far cry from the 24-72 hour endurance races that gave me so much joy in the beginning, that drew me into the community in the first place.
 
 [![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/06/10857837_877043152327611_562759957916059513_n-300x225.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/06/10857837_877043152327611_562759957916059513_n.jpg)No one wins here (except frostbite). Yet I loved it.
-
- 
 
 Yet, I signed up. I said yes. I picked races because those are the ones I “should” do, and I sat out of others that I really wanted to do in order to save myself for the championship series, for the ones with the prize purses and the television cameras. The further I went down the rabbit hole with these shorter distances, the more of an emotional and mental wreck I became. I could hold my own at these distances, and keep it together (aside from a lot of swear words) in front of the cameras, but winning no longer became something I was thrilled about – winning was a relief. I spent days before these races an absolute wreck – crying, imagining phantom injuries, swearing my retirement, fearful of what would happen if I didn’t win, if national television documented my less-than-stellar performance. I shut out friends, I spent hours on the phone crying to my parents. My engagement fell apart in large part due to my inability to cope with juggling my professional life and the constant obligatory racing, and I watched a man I loved walk away because of the person I had become.
 

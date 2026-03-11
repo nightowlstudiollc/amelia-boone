@@ -20,9 +20,9 @@ Ha-that didn't surprise any of you, did it? So I plan everything down to the las
 
 My closest friends and family are well aware that is my worst nightmare. I test, I plan, I do trial runs, I plot my running of tangents on the course map, I pack and repack. I NEVER "wing it." And if you throw off my routine (especially my 4am gym time), you better be prepared to incur my wrath. So it's rather odd that I have been drawn so magnetically to adventure races, and especially races like the Death Race, where anything goes. I'm not an "anything goes" type of gal.
 
-You think I would be more suited to, say, marathons or triathlons, where you put in the mileage, you follow the regimented program, and you know exactly what you are getting.*
+You think I would be more suited to, say, marathons or triathlons, where you put in the mileage, you follow the regimented program, and you know exactly what you are getting.\*
 
-But (A) I'm petrified of going fast on bicycles (that will be a subject of another post sometime); and (B) running on concrete gives me stress fractures.**
+But (A) I'm petrified of going fast on bicycles (that will be a subject of another post sometime); and (B) running on concrete gives me stress fractures.\*\*
 
 More importantly than (A) and (B), road races are a snooze fest. Training looks like this: run in a straight line. Run faster in a straight line. Run slow for a bit and then run really fast in a straight line. Lather, rinse, repeat.
 
@@ -30,12 +30,12 @@ I also have an adverse reaction to timing myself. I've never owned a Garmin. I o
 
 Enter obstacle/adventure races (can someone come up with a catch-all term?! please?!). Way more laid back, and way less stress. People go out there, kick ass, but also enjoy fun things like booze and red meat. I remember the first time someone asked whether anyone was using their Garmin for World's Toughest Mudder. I just about fell over laughing (as did everyone else I believe). Seriously, dude? (1) You are going to destroy it; (2) what are you going to track? Negative splits between obstacles? Yes, there are winners for (some of) these races. But finishing is a big enough honor on its own.
 
-Perhaps adventure racing has brought out another side of me. Perhaps I'm not as type-A, control freak as I thought. Or perhaps adventure racing is teaching me how NOT to be like that. I'm growing-growing as an athlete, growing as a professional***, and growing as a person.
+Perhaps adventure racing has brought out another side of me. Perhaps I'm not as type-A, control freak as I thought. Or perhaps adventure racing is teaching me how NOT to be like that. I'm growing-growing as an athlete, growing as a professional\*\*\*, and growing as a person.
 
 So maybe what is really bothering me lately is that the unknown and lack of preparation…isn't bothering me at all.
 
 Pittsfield, I look forward to meeting you in a week. Let's do this.
 
-*"Yay, I got a 26.2 sticker. So has everyone else.  
+\*"Yay, I got a 26.2 sticker. So has everyone else.  
 **Yes, I AM doing the Chicago Marathon this year just to check it off the bucket list. I don't really plan on "training." Training is when injury happens.  
-***And by growing as a professional, I mean trying not to get fired for taking so many Fridays off and telling people I'll be out of pocket and not able to answer my email for 24+ hours.
+\***And by growing as a professional, I mean trying not to get fired for taking so many Fridays off and telling people I'll be out of pocket and not able to answer my email for 24+ hours.
