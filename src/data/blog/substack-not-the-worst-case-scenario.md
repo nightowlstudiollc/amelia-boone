@@ -7,7 +7,7 @@ originalUrl: "https://ameliaboone.substack.com/p/not-the-worst-case-scenario"
 tags:
   - essays
 draft: false
-featured: true
+featured: false
 ---
 
 I would have canceled the appointment but I have extreme guilt about canceling on doctors last minute. It had been feeling progressively better over the past 72 hours and I’m aware that my health anxiety makes me a bit quick to see a doctor, which has lead to unnecessary tests and overdiagnosis in the past. I’ve been trying lately to let my body chill and figure itself out, which has been working ok.
