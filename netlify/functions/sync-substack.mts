@@ -53,10 +53,13 @@ export default async function handler() {
       .toISOString()
       .replace(/\.\d{3}Z$/, "Z");
     const description = stripHtml(item.summary || item.contentSnippet || "")
+      .replace(/\n/g, " ")
       .substring(0, 148)
       .trim()
       .replace(/"/g, '\\"');
-    const title = (item.title || "").replace(/"/g, '\\"');
+    const title = (item.title || "")
+      .replace(/\n/g, " ")
+      .replace(/"/g, '\\"');
 
     const fileContent = `---
 title: "${title}"
@@ -73,15 +76,24 @@ featured: false
 ${markdownBody}
 `;
 
-    await octokit.repos.createOrUpdateFileContents({
-      owner: REPO_OWNER,
-      repo: REPO_NAME,
-      path: `${CONTENT_PATH}/${filename}.md`,
-      message: `chore: sync Substack post "${item.title}"`,
-      content: Buffer.from(fileContent).toString("base64"),
-    });
-
-    synced++;
+    try {
+      await octokit.repos.createOrUpdateFileContents({
+        owner: REPO_OWNER,
+        repo: REPO_NAME,
+        path: `${CONTENT_PATH}/${filename}.md`,
+        message: `chore: sync Substack post "${item.title}"`,
+        content: Buffer.from(fileContent).toString("base64"),
+      });
+      synced++;
+    } catch (err: unknown) {
+      const status = (err as { status?: number }).status;
+      if (status === 422) {
+        // File already exists (concurrent execution) — skip silently
+        console.log(`Skip (already exists): ${filename}`);
+      } else {
+        throw err;
+      }
+    }
   }
 
   return new Response(`Sync complete. ${synced} new posts.`, { status: 200 });
