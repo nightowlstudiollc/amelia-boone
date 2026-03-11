@@ -78,7 +78,6 @@ ${markdownBody}
       content: Buffer.from(fileContent).toString("base64"),
     });
 
-    console.log(`Synced: ${filename}`);
     synced++;
   }
 
