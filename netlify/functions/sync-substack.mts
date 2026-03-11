@@ -25,8 +25,12 @@ export default async function handler() {
     path: CONTENT_PATH,
   });
 
+  if (!Array.isArray(existingFiles)) {
+    throw new Error(`Expected directory listing for ${CONTENT_PATH}, got unexpected response type`);
+  }
+
   const existingSlugs = new Set(
-    (existingFiles as { name: string }[])
+    existingFiles
       .filter((f) => f.name.startsWith("substack-"))
       .map((f) => f.name.replace(".md", ""))
   );
