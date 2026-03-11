@@ -7,6 +7,7 @@ originalUrl: "https://ameliaboone.substack.com/p/so-this-is-40"
 tags:
   - essays
 draft: false
+featured: true
 ---
 
 My dad’s 40th birthday is emblazoned into my brain: the black decorations, the cake napkins that read “over the hill,” the tombstone cake topper, the constant jokes that he was officially old.
