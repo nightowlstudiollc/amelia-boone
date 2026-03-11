@@ -1,7 +1,7 @@
 ---
 title: "Maybe Your Body Isn't Cut Out For This"
 pubDatetime: 2025-10-26T20:17:20Z
-description: "I stared at the computer screen filled with MRI images as the orthopedist used the mouse to expand the measuring tool. \"You see this?\" he said, \"That's your patella tendon. A healthy one should be…\""
+description: 'I stared at the computer screen filled with MRI images as the orthopedist used the mouse to expand the measuring tool. "You see this?" he said, "That''s your patella tendon. A healthy one should be…"'
 source: substack
 originalUrl: "https://ameliaboone.substack.com/p/maybe-your-body-isnt-cut-out-for"
 tags:
