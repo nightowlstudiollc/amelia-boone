@@ -1,7 +1,7 @@
 ---
 title: "I said I'd be done with this by 40"
 pubDatetime: 2025-02-16T20:37:46Z
-description: "I sat cross-legged in the corner of the large sectional couch, eyes darting around to the six other women who sat in a circle in the living room with me. "I mean, that's why I'm here before I go to…"
+description: "I sat cross-legged in the corner of the large sectional couch, eyes darting around to the six other women who sat in a circle in the living room with me. \"I mean, that's why I'm here before I go to…\""
 source: substack
 originalUrl: "https://ameliaboone.substack.com/p/i-said-id-be-done-with-this-by-40"
 tags:
