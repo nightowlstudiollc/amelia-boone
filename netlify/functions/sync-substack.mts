@@ -89,7 +89,6 @@ ${markdownBody}
       const status = (err as { status?: number }).status;
       if (status === 422) {
         // File already exists (concurrent execution) — skip silently
-        console.log(`Skip (already exists): ${filename}`);
       } else {
         throw err;
       }
