@@ -1,0 +1,4 @@
+2026-03-11T18:21:35.503916Z  INFO ralph: Creating scratchpad directory: /Users/andrewrich/Developer/client/amelia-boone/.ralph/agent
+2026-03-11T18:21:35.504742Z  INFO ralph: Spawning subprocess for TUI mode child_args=["-c", "ralph.yml", "run", "--rpc", "-P", "/Users/andrewrich/Downloads/PLAN_amelia_cccli.md"]
+2026-03-11T18:21:35.504941Z  INFO ralph: TUI subprocess stderr redirected to log file log_file=/Users/andrewrich/Developer/client/amelia-boone/.ralph/diagnostics/logs/ralph-2026-03-11T11-21-35-504-92545.log
+2026-03-11T18:21:35.506043Z  INFO ralph: TUI running in subprocess RPC mode
