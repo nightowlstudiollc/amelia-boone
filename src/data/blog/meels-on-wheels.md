@@ -18,9 +18,9 @@ Dead last.
 
 Which I couldn't understand. I was an athletic kid. I played club level traveling soccer and ASA softball. I ran the hell out of the soccer field for 90 minutes at a time; I was the all-star pitcher on our champion little league team.
 
-But for the life of me, I could not sprint. I was sloooooooow.*
+But for the life of me, I could not sprint. I was sloooooooow.\*
 
-And it continued. My high school softball coach nicknamed me "Meels on Wheels" simply because it took me SO. DAMN. LONG. to get around the bases.  I would manage to reach full speed between third and home. My inability to sprint the bases led to incredible headfirst sliding abilities, which was the only thing that saved my ass half the time, but frightened my parents and my coaches that were depending on me to be standing to pitch.
+And it continued. My high school softball coach nicknamed me "Meels on Wheels" simply because it took me SO. DAMN. LONG. to get around the bases. I would manage to reach full speed between third and home. My inability to sprint the bases led to incredible headfirst sliding abilities, which was the only thing that saved my ass half the time, but frightened my parents and my coaches that were depending on me to be standing to pitch.
 
 And despite years of speedwork, of agility drills, and of sprints, I'm still going to lose every time when it comes to sheer sprints. And even 400ms, 1600ms, hell - even 5ks. My legs do not want to turn over that fast, and my body and my mind hate the maximal effort and quick bursts. I'd rather run a 100-miler than do 400m or 800m repeats. Watching me sprint is comical, or so I've been told.
 
@@ -62,4 +62,4 @@ Vegas was uncomfortable, then I anticipate that this is going to be incredibly u
 
 But I wouldn't ask for anything else. I know my strengths; it's time to work on my weaknesses. It's time to get out of the comfort zone. It's time to run like hell.
 
-*Caveat: I imagine the 4 of you that read my blog are like "really? you win races, stop saying that you are slow." Fair point. But of the fitness components, speed/power are my weak links. By far.
+\*Caveat: I imagine the 4 of you that read my blog are like "really? you win races, stop saying that you are slow." Fair point. But of the fitness components, speed/power are my weak links. By far.

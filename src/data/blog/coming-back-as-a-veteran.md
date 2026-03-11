@@ -15,7 +15,7 @@ The racing season hasn't exactly started off with a bang. After missing the Spar
 
 Well, that's what I signed up for, right? Fair point. Last year the Winter Death Race was held a month later-beginning of March, and it was a particularly balmy weekend (need I remind you of the sports bra burpee pics? No. Thank God. Because I can't get over those either). I went in scared out of my mind, with no idea what to expect.
 
-So this year should be easier, yes? Having finished two Death Races, it should be old hat to me by now. Yet the butterflies are still there, the unknown still lingers, and my biggest foe-the cold-is alive and kicking.*
+So this year should be easier, yes? Having finished two Death Races, it should be old hat to me by now. Yet the butterflies are still there, the unknown still lingers, and my biggest foe-the cold-is alive and kicking.\*
 
 I don't doubt my ability to finish a Death Race. And I don't doubt my ability to finish this Death Race. What I doubt is my body's ability to last outside in single digit weather for 24+ hours. What I start to fear is giving in because I can no longer control my body, I can no longer feel anything, and I can no longer move my toes. Perhaps because I've seen so many people go down from hypothermia, but despite never being a victim, I have an irrational fear of it.
 
@@ -39,4 +39,4 @@ See you soon, Pittsfield. It's been too long.
 
 (Can we get some bikram in this joint this year?!)
 
-*Hi Andy & Joe! You wanted to know my weaknesses??
+\*Hi Andy & Joe! You wanted to know my weaknesses??

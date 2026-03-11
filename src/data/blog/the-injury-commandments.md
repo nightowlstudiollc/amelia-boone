@@ -118,8 +118,6 @@ I will sometimes be running and have a sudden flash of what I think is pain thro
 
 [![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_0340-169x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_0340.jpg)Err on the side of rest
 
- 
-
 So how have I worked through this? Honestly, not well, but the number one thing I’ve found that helps is to log EVERY niggle and ache and pain during training. And if a niggle continues on for more than a few runs, I adjust and address it (often in the form of taking an extra prophylactic rest day or two). You won’t lose fitness from a few extra days of rest or cross-training, but you can nip niggles _before_ they become nags _before_ they become “break yo’ effin’ bones.”
 
 **(8) There 's no such thing as a straight line**

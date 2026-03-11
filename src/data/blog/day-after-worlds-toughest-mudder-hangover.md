@@ -30,5 +30,5 @@ But let's get to the not-so-important and meaningful things: the "random thought
 (11) This is my first semi-serious race injury. I thought it was a sprained ankle, but the swelling has migrated to the top of my foot. Crossing my fingers there are no broken bones. Ice and rest for the time being, and you all know how I hate rest. Hate it.  
 (12) I still cry after races. This time, I made it successfully away from the race track and through a shower without breaking down into sobs. But as soon as I got on the phone with the parents, the flood gates opened.  
 (13) I did not break the 2nd place streak. I mean, I won for women, but I still came in second to Pak. Not that I even thought I could get within a lap of him, let alone less than 10 minutes. In other words, I'll take it.  
-(14) Running alone blows. It's lonely out there. Thankfully, I kept myself company by singing this on repeat for 24 hours. Check it out: THIS IS F*CKIN AWESOME.  
+(14) Running alone blows. It's lonely out there. Thankfully, I kept myself company by singing this on repeat for 24 hours. Check it out: THIS IS F\*CKIN AWESOME.  
 (15) Watch out boys, we're coming for you. 1300 competitors, only 100 of them women. Second and third place OVERALL held down by women. You figure out the rest.

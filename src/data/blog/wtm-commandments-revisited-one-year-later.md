@@ -61,7 +61,7 @@ Best spot for it? coming down the backside of Everest. I made a point of throwin
 
 (9) Thou shalt not stop for bathroom breaks
 
-That's what wetsuits are for. And that massive sinkhole of sh*t in the woods. Though, for the love of God, I hope if you had to take a dump on the course, you stopped. Otherwise I'm blaming you for whatever nasty eye infections I come down with.
+That's what wetsuits are for. And that massive sinkhole of sh\*t in the woods. Though, for the love of God, I hope if you had to take a dump on the course, you stopped. Otherwise I'm blaming you for whatever nasty eye infections I come down with.
 
 (10) Thou shall never travel alone
 

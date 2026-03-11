@@ -39,7 +39,7 @@ So what is it, exactly, that I fear about my own return to racing?
 
 _I fear that I won’t be able to get back to the athlete I once was_. The pre-femur Amelia.
 
-(I've hesitated to write this because it may come across as "woe the poor competitive athlete - she's afraid she can't wiiiiiin anymore. Boo-f*ckin-Hoo." Some of you may be thinking that, and - well - fair enough - I can't change that. But regardless of your competitive level, we all experience times of overwhelming self-doubt in our lives, both in sport and beyond. We've all had times where we fret over an ability to live up to expectations, whether real or created by the constructs of our own minds)
+(I've hesitated to write this because it may come across as "woe the poor competitive athlete - she's afraid she can't wiiiiiin anymore. Boo-f\*ckin-Hoo." Some of you may be thinking that, and - well - fair enough - I can't change that. But regardless of your competitive level, we all experience times of overwhelming self-doubt in our lives, both in sport and beyond. We've all had times where we fret over an ability to live up to expectations, whether real or created by the constructs of our own minds)
 
 I’ve danced with this devil of overwhelming self-doubt and lack of confidence for the past few months, and it took my ever-wise and amazing friend [Caroline Burckle](https://www.instagram.com/caroburckle/) to set me straight.
 
@@ -65,7 +65,7 @@ So this is me, paying my respects to the old Amelia. To the athlete she was (she
 
 But more importantly, this is me embracing the athlete I currently am, and the athlete I will be.
 
-And I’m scared as f*ck.
+And I’m scared as f\*ck.
 
 But I’m only scared because I’ve let (what I perceive) as other people’s expectations drive my timeline. Drive my athletic career. I swore up and down I wouldn’t push, that I’d respect my body and race again when I was ready, not when other people wanted me to be ready.
 

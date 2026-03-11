@@ -30,7 +30,7 @@ Ten weeks came and went and I still couldn’t run. Hell, I was still on crutche
 
 I’ve had a lot of injured athletes reach out to me this past year, and the #1 thing I tell them is that it DOES get easier. You’ll go in waves where some days will be awful and others you’ll feel just fine, but overall, the first week or two is the worst. So have patience and faith.
 
-**(2) The goal was never to get back to “where I was.” And until I accepted that, I couldn’t heal.******
+**(2) The goal was never to get back to “where I was.” And until I accepted that, I couldn’t heal.\*\*\*\***
 
 In my (http://www.ameliabooneracing.com/blog/worldstoughestmudder/when-will-you-be-back/), I alluded to the fact that I had a “setback” in my recovery. I was purposely vague (and that killed me, but that’s for a different blog post - coming soon!) for many reasons, but it was the overwhelming feeling of shame that lead me from hiding the truth: in the beginning of September, 4 weeks coming off of crutches for the femoral stress fracture, we discovered a second stress fracture. That meant another 12 week sentence of no impact, of no running.
 
@@ -72,7 +72,7 @@ I’ve only started this process in 2016, and at this point, I don’t have answ
 
 **(7) When you’ve hit rock bottom, you find your true support system**
 
-When you are on top of the world, everyone wants to be your friend. Sponsors line up, awards are piled on, and praise is non-stop. Those are the easy times. But when you can’t compete, when you aren’t on TV crushing races, you become acutely aware of how easy it is to be “forgotten.” How quickly people move onto the “next thing.” And how fickle of a mistress “fame” can be. ****
+When you are on top of the world, everyone wants to be your friend. Sponsors line up, awards are piled on, and praise is non-stop. Those are the easy times. But when you can’t compete, when you aren’t on TV crushing races, you become acutely aware of how easy it is to be “forgotten.” How quickly people move onto the “next thing.” And how fickle of a mistress “fame” can be. \*\*\*\*
 
 [![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/15419538_10211694079452341_3253556644744961618_o-300x232.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/15419538_10211694079452341_3253556644744961618_o.jpg)Team Four Eyes - I've known them since WTM 2011, and they are still my favs
 
@@ -80,7 +80,7 @@ But the upside of the fickleness is that you suddenly are able to realize who re
 
 [![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/15068447_968045919967913_1557371847538466430_o-300x225.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/15068447_968045919967913_1557371847538466430_o.jpg)Ain't no family like a BeetElite family
 
-And of course, I’m grateful and thankful for having sponsors that stuck with me and believed in me even when I couldn’t represent them in races – [Reebok](http://www.reebok.com), [BeetElite](https://www.humann.com/push-harder-achieve-greater/), [RockTape](http://www.rocktape.com), [Premiere Spine & Sport](http://www.premierespineandsport.com), Spartan – thank you for continuing to believe in me as a person and as an athlete.****
+And of course, I’m grateful and thankful for having sponsors that stuck with me and believed in me even when I couldn’t represent them in races – [Reebok](http://www.reebok.com), [BeetElite](https://www.humann.com/push-harder-achieve-greater/), [RockTape](http://www.rocktape.com), [Premiere Spine & Sport](http://www.premierespineandsport.com), Spartan – thank you for continuing to believe in me as a person and as an athlete.\*\*\*\*
 
 **(8) It’s ok to admit you aren’t ok (or that you need help)**
 

@@ -12,11 +12,11 @@ draft: false
 featured: false
 ---
 
-It has been almost two months since I received the ok to cast the crutches to the curb.Two months since I re-entered the world of bipedalism after three long months with the sticks. And two months since the first person asked me "so, you'll be racing  next weekend?"
+It has been almost two months since I received the ok to cast the crutches to the curb.Two months since I re-entered the world of bipedalism after three long months with the sticks. And two months since the first person asked me "so, you'll be racing next weekend?"
 
 [!(http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/09/IMG_1704-200x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/09/IMG_1704.jpg)This sums up my existence for 3+ months.
 
-I had gone from three months of no weight-bearing of any type, and I was constantly asked if I would be running  race the following weekend. I'm no doctor, but I'm fairly certain that's not how rehab works.
+I had gone from three months of no weight-bearing of any type, and I was constantly asked if I would be running race the following weekend. I'm no doctor, but I'm fairly certain that's not how rehab works.
 
 Believe me - I wish it did. Life would be so much easier if the body and mind were in sync. Unfortunately, as any athlete who has ever gone through a major injury knows, that's not how the game works.
 
@@ -58,7 +58,7 @@ Needless to say, this year has been one athletic disappointment after another. A
 
 I've focused so much on "coming back," that perhaps I failed to see what I needed to do was use the time to redefine to the sport for me. As my incredible friend [Caroline Burckle](http://carolineburckle.com) suggested, the opportunity to start new. Not go back to what "once was."
 
-So to 2017, we look. I'll spend the last few months of this year, focusing on getting healthy and fixing mechanics without pressure or deadlines.* And while it may still eat at my soul while doing it, I'll still be out there, cheering on. Because even though those racing shoes are taking a much longer break than I ever anticipated, racing and the community are still inextricable parts of who I am. And what I love. And I'm not letting anyone or anything take that away from me.
+So to 2017, we look. I'll spend the last few months of this year, focusing on getting healthy and fixing mechanics without pressure or deadlines.\* And while it may still eat at my soul while doing it, I'll still be out there, cheering on. Because even though those racing shoes are taking a much longer break than I ever anticipated, racing and the community are still inextricable parts of who I am. And what I love. And I'm not letting anyone or anything take that away from me.
 
 **See you next year.**
 
@@ -68,4 +68,4 @@ So to 2017, we look. I'll spend the last few months of this year, focusing on ge
 
 (and this song is everything to me right now)
 
-*And I have to do that stereotypical athlete things and give a HUGE thank you to the sponsors and supporters that have continued to stick with me through this - Reebok, [Beet Elite](https://www.humann.com/amelia-boone/), [Rock Tape](http://www.rocktape.com) , Dr. Brink and the crew at [Premiere Spine & Sport](http://www.premierespineandsport.com), the Spartan Pro Team for letting me be a diva on crutches, and Union Wine (even though they aren't my sponsor) for making wine in a can. Because, wine in a can.
+\*And I have to do that stereotypical athlete things and give a HUGE thank you to the sponsors and supporters that have continued to stick with me through this - Reebok, [Beet Elite](https://www.humann.com/amelia-boone/), [Rock Tape](http://www.rocktape.com) , Dr. Brink and the crew at [Premiere Spine & Sport](http://www.premierespineandsport.com), the Spartan Pro Team for letting me be a diva on crutches, and Union Wine (even though they aren't my sponsor) for making wine in a can. Because, wine in a can.

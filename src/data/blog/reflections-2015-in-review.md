@@ -61,7 +61,7 @@ I've never been great at change. I freak out. I try to embrace it. But I second 
 
 So while I'm learning to embrace change (and get better at dealing with it), there are certain things I'm ok with…
 
-**I 'm never going to be super regimented or dogmatic about my ****nutrition. And that 's ok. **
+**I 'm never going to be super regimented or dogmatic about my \*\***nutrition. And that 's ok. \*\*
 
 [![12309725_10153406128873897_8031255880614300080_o](http://ameliabooneracing.info/wp-content/uploads/2015/12/12309725_10153406128873897_8031255880614300080_o-134x300.jpg)](http://ameliabooneracing.info/2015/12/reflections-2015-in-review/12309725_10153406128873897_8031255880614300080_o/)Oh you know…just eating a Krispy Kreme mid WTM
 
@@ -75,8 +75,8 @@ So get off your "holier-than-thou" clean eating train and recognize that, hey - 
 
 In more self-love type of news…
 
-**You are not your race results. The people that matter don 't give two flying flips how you finished in any given race. Or any race at all. ****  
-**
+**You are not your race results. The people that matter don 't give two flying flips how you finished in any given race. Or any race at all. \*\***  
+\*\*
 
 I met up for coffee with three of my best friends from high school when I was back in Oregon for Christmas. We chatted about our lives. Where we've been this past year. Where we're going. Not once did one of these strong woman, whom I call my best friends, ask about how I did at a particular race. Because really, they don't care. They love me for Amelia, as their friend - not Amelia, the OCR athlete.
 

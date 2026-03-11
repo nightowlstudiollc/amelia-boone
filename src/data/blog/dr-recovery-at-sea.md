@@ -27,7 +27,7 @@ And I hate it. I mean, post-DR I said I was relieved, and excited to get back to
 
 I lied. I totally lied. Because I'm lost as hell, and looking for the next thing.
 
-Yes, I know there are plenty of races out there this summer/fall. Unfortunately, friends aren't too keen on me skipping their weddings to go run through mud. Conflicts abound, and I hate it. Every race I want to attend (including the glorious Ultra Beast that I get depressed thinking about missing) has a dear friend pledging their eternal love to some poor schmuck (kidding! love you guys) on that same weekend.*
+Yes, I know there are plenty of races out there this summer/fall. Unfortunately, friends aren't too keen on me skipping their weddings to go run through mud. Conflicts abound, and I hate it. Every race I want to attend (including the glorious Ultra Beast that I get depressed thinking about missing) has a dear friend pledging their eternal love to some poor schmuck (kidding! love you guys) on that same weekend.\*
 
 So yes, it's a contradiction: I'm burnt out on DR-stuff, but I'm yearning to jump back into that world at the same time (acknowledging, of course, that standard Spartan Races and Tough Mudders are apples and oranges to the DR).
 
@@ -35,4 +35,4 @@ So what do I do? I wake up, I go to Crossfit, I go to work, I hang out, I play v
 
 Perhaps it will become clear in time. Perhaps I need this break. Perhaps I will drive myself loony. But for the time being, I suppose I should try to be "normal."
 
-*Weddings are blessed events, I swear. To my friends getting married, there's nowhere I'd rather be than getting wasted at your wedding, inappropriately hitting on your younger brother/cousin/sister in law/priest, and making a fool of myself on the dance floor. It's just shitty luck in terms of scheduling.
+\*Weddings are blessed events, I swear. To my friends getting married, there's nowhere I'd rather be than getting wasted at your wedding, inappropriately hitting on your younger brother/cousin/sister in law/priest, and making a fool of myself on the dance floor. It's just shitty luck in terms of scheduling.

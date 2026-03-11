@@ -17,8 +17,6 @@ The last thing I expected as a result of the Spartan Race World Championship was
 
 [![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/10/IMG_0821-240x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/10/IMG_0821.jpg)Post surgery. For the record, not a painkiller smile
 
- 
-
 And I remember the exact moment where I went “oh shit. World’s Toughest Mudder” … the event that (http://www.ameliabooneracing.com/blog/uncategorized/the-ten-commandments-of-worlds-toughest-mudder-part-i/) the one event (http://www.ameliabooneracing.com/blog/uncategorized/worlds-toughest-mudder-2015-revolution/), was a month post-surgery. This entire season, I’d always had it in my sights: because I had to miss it last year, and because of my history with it, it had always (quietly) been my “A” race this year. And I was going into it with the lofty goal of being the first woman to break the 100-mile mark at the race.
 
 Sitting there in the urgent care room in Truckee, I called my friend [Caroline](https://www.instagram.com/caroburckle/) and sobbed "I can't miss this race two years in a row…I CAN'T."
@@ -37,8 +35,6 @@ But it's just that - a script. A story. A construct I've created in my head that
 
 [![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/10/IMG_0849-300x225.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/10/IMG_0849.jpg)An unplanned pigpen style
 
- 
-
 Newsflash: apparently I don't control the universe.
 
 So, once again, I'm giving myself permission to write a new story, to rewrite the script in my head. Just because I've never sat out WTM for more than one year in a row doesn't mean I can't. Just because I swore up and down last year that I'd be back for WTM 2017 doesn't mean I'm a failure if I'm not. Frankly, holding onto past expectations only serves to blind us from opportunities that may open up elsewhere.
@@ -49,14 +45,12 @@ So, once again, I'm giving myself permission to write a new story, to rewrite th
 
 [![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/10/IMG_2685-300x231.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/10/IMG_2685.jpg)Let's be honest - "having" to do this ain't so bad
 
- 
-
 And the thrill of new challenges is where I thrive. It’s what brought me into obstacle racing, it’s what lead me to sign up for the first World’s Toughest Mudder in 2011, it’s what kept me awake and kicking in the woods for 3+ days during multiple [Death Races](http://www.ameliabooneracing.com/blog/uncategorized/death-race-truths/). That thrill has led me down this crazy path I’ve come to call life these past 7 years. I faced down in the unknown in the obstacle racing world, and I’ve done pretty well. Maybe it’s time to go explore something at which I could fail miserably: as much as that scares me, it’s also what intrigues me.
 
 As humans, I think it’s natural to look for signs in life to gain a sense of direction when lost. Perhaps the shattered pinky was the involuntary nudge I needed to shift goals for a bit – to have the courage to explore something new. For as much as I’ve preached the value of being able to pivot in life, it’s time I apply to that to my own for a bit.
 
 Transition periods are a scary, nebulous time, because they are inevitably tied to a feeling of loss. We believe that if we are moving away from something, we are giving it up. We see letting go as a sign of failure. **In reality, we should see transition as a sign of opportunity, and a mechanism of growth**. By holding on to something when it’s not serving us, we remain stagnant. And by letting one thing go (even if temporarily), we are making room for something else. We are embracing the unknown, and growing as a result for opening ourselves to those possibilities.
 
-Obstacle racing will always be there, and I’m not going anywhere (sorry folks, can’t get rid of me!). WTM may have to wait, but my love for it still burns brightly. As [Randy Pausch](https://www.cmu.edu/randyslecture/) said, " It's not about the cards you're dealt, but how you play the hand." I'd take it a step further and say it's also about how you REACT to that hand. So I’m taking these cards and pirouetting like a motherf*cker.
+Obstacle racing will always be there, and I’m not going anywhere (sorry folks, can’t get rid of me!). WTM may have to wait, but my love for it still burns brightly. As [Randy Pausch](https://www.cmu.edu/randyslecture/) said, " It's not about the cards you're dealt, but how you play the hand." I'd take it a step further and say it's also about how you REACT to that hand. So I’m taking these cards and pirouetting like a motherf\*cker.
 
 See you on the trails.
