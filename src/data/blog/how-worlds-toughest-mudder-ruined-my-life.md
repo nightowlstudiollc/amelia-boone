@@ -7,6 +7,7 @@ originalUrl: "https://www.ameliabooneracing.com/blog/uncategorized/how-worlds-to
 tags:
   - racing
 draft: false
+featured: true
 ---
 
 The second ever World’s Toughest Mudder is rapidly approaching on November 17th. It’s not technically a perfect one-year anniversary, since TMHQ moved the race up a month this year, but on that day, it will be 11 months since the beginning.
