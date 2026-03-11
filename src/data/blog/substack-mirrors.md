@@ -53,7 +53,7 @@ At first, all I felt was judgment and criticism towards that woman staring back 
 
 And I began to learn that I hadn't avoided mirrors my whole life because of discomfort with my body: I avoided them because I was uncomfortable with being with myself.
 
-I love others hard. I'm fiercely loyal and I don't give up on people (sometimes to a fault). But for most of my life, I never pointed that inwards. I seek safety and security and love, but I've always sought that externally. And, for better or worse, nothing is secure when it involves external factors. Months in that closet taught me one thing: at the end of the day, I have myself - myself for the rest of my life.  That is the ONE thing in life that is certain. So I better make peace with that woman reflecting back at me in the mirror. And beyond making peace, love her ferociously.
+I love others hard. I'm fiercely loyal and I don't give up on people (sometimes to a fault). But for most of my life, I never pointed that inwards. I seek safety and security and love, but I've always sought that externally. And, for better or worse, nothing is secure when it involves external factors. Months in that closet taught me one thing: at the end of the day, I have myself - myself for the rest of my life. That is the ONE thing in life that is certain. So I better make peace with that woman reflecting back at me in the mirror. And beyond making peace, love her ferociously.
 
 That mirror in that empty apartment in April 2020 was where I started.
 
