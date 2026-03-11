@@ -5,6 +5,7 @@
 !/src
 !/public
 public/pagefind
+.github/workflows/claude-code-review.yml
 !/.github
 !tsconfig.json
 !astro.config.ts
