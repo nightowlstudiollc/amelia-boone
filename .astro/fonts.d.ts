@@ -1,4 +1,4 @@
 declare module 'astro:assets' {
 	/** @internal */
-	export type CssVariable = (["--font-google-sans-code"])[number];
+	export type CssVariable = (["--font-inter","--font-lora"])[number];
 }
