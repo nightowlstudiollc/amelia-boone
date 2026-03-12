@@ -2,17 +2,26 @@
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
 ---
 
 <Layout title="Contact | Amelia Boone">
   <Header />
+  <Breadcrumb />
   <main id="main-content" class="app-layout py-12">
     <h1 class="mb-2 text-3xl font-bold">Get in Touch</h1>
     <p class="mb-8 opacity-75">
       For speaking inquiries, media requests, or general correspondence.
     </p>
 
-    <form class="max-w-lg space-y-5">
+    <form
+      name="contact"
+      method="POST"
+      action="/contact/thanks"
+      data-netlify="true"
+      class="max-w-lg space-y-5"
+    >
+      <input type="hidden" name="form-name" value="contact" />
       <div>
         <label for="name" class="mb-1 block text-sm font-medium">Name</label>
         <input
@@ -20,6 +29,7 @@ import Footer from "@/components/Footer.astro";
           id="name"
           name="name"
           autocomplete="name"
+          required
           class="w-full rounded border border-border bg-background px-3 py-2 text-sm focus:outline-accent"
           placeholder="Your name"
         />
@@ -31,6 +41,7 @@ import Footer from "@/components/Footer.astro";
           id="email"
           name="email"
           autocomplete="email"
+          required
           class="w-full rounded border border-border bg-background px-3 py-2 text-sm focus:outline-accent"
           placeholder="you@example.com"
         />
@@ -43,6 +54,7 @@ import Footer from "@/components/Footer.astro";
           id="message"
           name="message"
           rows={5}
+          required
           class="w-full rounded border border-border bg-background px-3 py-2 text-sm focus:outline-accent"
           placeholder="What's on your mind?"></textarea>
       </div>
