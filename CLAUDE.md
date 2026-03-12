@@ -56,14 +56,21 @@ featured: false                      # only true for ~4-5 top posts total
 
 **Substack content**: ~20 posts from RSS at `https://ameliaboone.substack.com/feed`. Free posts only. Hourly Netlify scheduled function (`netlify/functions/sync-substack.mts`) auto-syncs new posts via GitHub API.
 
+**Substack images**: Hotlinked from `substackcdn.com` — do NOT download. 18 image references across Substack posts, all on `substackcdn.com`. URLs are stable as long as her Substack account is active. Decision logged 2026-03-11.
+
+**Footnotes**: Substack posts use two styles — `[N](#footnote-N)` anchor links (render as clickable) and plain `[N]` text (render as literal text, readable). Both are acceptable. No further action needed as of 2026-03-11.
+
 ## Page Structure
 
 ```
-/                   → index.astro (landing: hero, 4 featured posts, archive callout)
-/blog               → blog/index.astro (unified feed, reverse chronological, all sources)
-/blog/[slug]        → blog/[...slug].astro
+/                   → index.astro (landing: 4 recent posts in hero, "Worth Reading" featured section)
+/posts              → blog/index.astro (unified feed, reverse chronological, all sources)
+/posts/[slug]       → blog/[...slug].astro
 /about              → about.astro
-/contact            → contact.astro (stub, non-functional form)
+/contact            → contact.astro (Netlify Forms enabled)
+/contact/thanks     → contact/thanks.astro (post-submit success page)
+/race-schedule      → race-schedule.astro (full race history 2011–2018)
+/press              → press.astro (podcasts, articles, media coverage)
 ```
 
 ## Current Status (as of 2026-03-11)
