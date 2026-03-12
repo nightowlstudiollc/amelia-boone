@@ -6,7 +6,7 @@ source: substack
 originalUrl: "https://ameliaboone.substack.com/p/are-athletes-obligated-to-speak-up"
 tags:
   - essays
-draft: false
+draft: true
 featured: false
 ---
 
