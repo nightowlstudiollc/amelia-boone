@@ -14,7 +14,7 @@ featured: false
 
 It has been almost two months since I received the ok to cast the crutches to the curb.Two months since I re-entered the world of bipedalism after three long months with the sticks. And two months since the first person asked me "so, you'll be racing next weekend?"
 
-[!(http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/09/IMG_1704-200x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/09/IMG_1704.jpg)This sums up my existence for 3+ months.
+[!(/images/wp/2016/09/IMG_1704-200x300.jpg)](/images/wp/2016/09/IMG_1704.jpg)This sums up my existence for 3+ months.
 
 I had gone from three months of no weight-bearing of any type, and I was constantly asked if I would be running race the following weekend. I'm no doctor, but I'm fairly certain that's not how rehab works.
 
@@ -30,7 +30,7 @@ But in the back of my mind, a little voice whispered "what if…what IF you coul
 
 I tried to reign those thoughts in, as I dutifully progressed on the elliptical and stair master according to "the plan." As I started with simple single leg strengthening - lunges and squats and glute bridges for days on end. And as I slowly (or so I told myself) reintroduced impact.
 
-!(http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/09/IMG_1677-258x300.jpg)Take it easy on crutches? Who would have thought that would have been a wise idea…
+!(/images/wp/2016/09/IMG_1677-258x300.jpg)Take it easy on crutches? Who would have thought that would have been a wise idea…
 
 But from that first run (if you can call it that), things weren't feeling "right." I told myself it was just my body readjusting to bipedalism. After all, my left side bore the brunt of all my weight for 3+ months. (if you think about it, crutching is really just hopping repeatedly on one leg….and it's not like I "took it easy"). The amount of muscle atrophy I had experienced was substantial, but I was confident it'd come back. Besides, I felt fantastic - cross-training (hi ski erg!) had kept my cardiovascular condition up and I had energy to spare.
 
@@ -50,7 +50,7 @@ When I went down with the femur in late April, it was never in the realm of poss
 
 It pains me to admit that I suffered from unrealistic rehab expectations. Anyone I talk to would tell me I had NO business thinking about racing Tahoe or WTM. Of course, I didn't listen to those "mere mortals." Ironically, those unrealistic expectations are probably responsible for some of my greatest victories in this sport. But these past few weeks I've had to come to terms with how those expectations have also worked to my detriment, and worked against me getting back to 100% healthy.
 
-!(http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/09/IMG_1095-e1474576216357-225x300.jpg)I'm working on forgiveness.
+!(/images/wp/2016/09/IMG_1095-e1474576216357-225x300.jpg)I'm working on forgiveness.
 
 I didn't want to have to learn this lesson twice. I swore up and down I'd do rehab the right way, and not be the asshole that bungles the return. But sometimes you have to go several rounds before the K.O. Before you learn your lesson. Sometimes, that lesson is just more patience and rest. And learning that, despite pressures I feel to get back as quickly as possible, if I want to be in this for the long haul (which I obviously do), I need to give my body the time it needs to mend fully and wholly.
 

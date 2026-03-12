@@ -16,7 +16,7 @@ featured: false
 
 I found myself asking that question several times throughout 2015. Ok, maybe on an (almost) daily basis. (And then it'd be followed by hours of trying to get "Bohemian Rhapsody" out of my head)
 
-[!(http://ameliabooneracing.info/wp-content/uploads/2015/12/cropped-IMG_0616-300x300.jpg)](http://ameliabooneracing.info/cropped-img_0616-jpg/)But, no, seriously - 2015 was a trip. Tumultuous at times, but so incredibly, freaking awesome at others. I constantly have to remind myself to take a look back at the last few years and really take in and embrace the sideways turn my life took back in 2011, and where it's brought me to today - the highs, the lows, and sometimes, the utter ridiculousness.
+[!(/images/wp/2015/12/cropped-IMG_0616-300x300.jpg)](http://ameliabooneracing.info/cropped-img_0616-jpg/)But, no, seriously - 2015 was a trip. Tumultuous at times, but so incredibly, freaking awesome at others. I constantly have to remind myself to take a look back at the last few years and really take in and embrace the sideways turn my life took back in 2011, and where it's brought me to today - the highs, the lows, and sometimes, the utter ridiculousness.
 
 But as the sport continues to grow and evolve (and actually be defined as "a sport"), I'd like to think I continue to grow and evolve with it. And I do so, in part, by taking stock of what has happened, and letting that help shape my future.
 
@@ -34,7 +34,7 @@ I can't emphasize this enough. Before World's Toughest Mudder this year, [Matt B
 
 For the last few years, I've maintained that, "hey guys - I'm not a runner." I trained primary with CrossFit. I ran maybe 15-20 miles a week. I'd only run one road race before in my life. I didn't own a Garmin. I had no idea what a tempo run was, and hadn't set foot on a track since I finished dead last in the 100m dash in middle school.
 
-[![11232075_465636863599762_8541655321833689892_n](http://ameliabooneracing.info/wp-content/uploads/2015/12/11232075_465636863599762_8541655321833689892_n-227x300.jpg)](http://ameliabooneracing.info/2015/12/reflections-2015-in-review/pics)Pretty hard to deny the "runner" part of me after this
+[![11232075_465636863599762_8541655321833689892_n](/images/wp/2015/12/11232075_465636863599762_8541655321833689892_n-227x300.jpg)](http://ameliabooneracing.info/2015/12/reflections-2015-in-review/pics)Pretty hard to deny the "runner" part of me after this
 
 But that's not to say I didn't _enjoy_ running. I always have. I just hated running in Chicago. Because you had one 18 mile stretch of flat, FLAT ground, and that was about it. But this year, I finally had the opportunity to get back on the trails, trails like I grew up running and hiking and backpacking in the Northwest. And I rediscovered that love. That feeling of pure joy climbing up a mountain (I  
 still hate the running down).  
@@ -63,7 +63,7 @@ So while I'm learning to embrace change (and get better at dealing with it), the
 
 **I 'm never going to be super regimented or dogmatic about my \*\***nutrition. And that 's ok. \*\*
 
-[![12309725_10153406128873897_8031255880614300080_o](http://ameliabooneracing.info/wp-content/uploads/2015/12/12309725_10153406128873897_8031255880614300080_o-134x300.jpg)](http://ameliabooneracing.info/2015/12/reflections-2015-in-review/12309725_10153406128873897_8031255880614300080_o/)Oh you know…just eating a Krispy Kreme mid WTM
+[![12309725_10153406128873897_8031255880614300080_o](/images/wp/2015/12/12309725_10153406128873897_8031255880614300080_o-134x300.jpg)](http://ameliabooneracing.info/2015/12/reflections-2015-in-review/12309725_10153406128873897_8031255880614300080_o/)Oh you know…just eating a Krispy Kreme mid WTM
 
 One of the questions I loathe the most in interviews is when someone asks me to describe my diet. I generally answer with "you don't want to know." Look, I've tried. I tried to go Paleo. I tried ketosis. I think the idea of being a fat-adapted athlete sounds phenomenal. [  
 ](http://ameliabooneracing.info/2015/12/reflections-2015-in-review/11250155_10207521667377748_6655225377286607554_n/) [  
@@ -82,7 +82,7 @@ I met up for coffee with three of my best friends from high school when I was ba
 
 I think Ryan Atkins said it brilliantly in a post leading up to Spartan World Championships: when we are SO caught up in our sport, when it seems like EVERYONE is focused on one race, you lose sight of the fact that 99% of people out there don't care. The result of a race doesn't change who you are as a person. And who you are as a person is what matters to those in life that actually matter.
 
-[![IMG_0156](http://ameliabooneracing.info/wp-content/uploads/2015/12/IMG_0156-300x300.jpg)](http://ameliabooneracing.info/2015/12/reflections-2015-in-review/img_0156/)My family for the past six Christmases. They love me regardless of race results. And we need to get my Dad a new sweater.
+[![IMG_0156](/images/wp/2015/12/IMG_0156-300x300.jpg)](http://ameliabooneracing.info/2015/12/reflections-2015-in-review/img_0156/)My family for the past six Christmases. They love me regardless of race results. And we need to get my Dad a new sweater.
 
 As to deal with the people in life that definitely DON'T matter…
 
@@ -90,7 +90,7 @@ As to deal with the people in life that definitely DON'T matter…
 
 The internet is a funny place. It’s full of good – you can make great connections, learn super cool stuff, and hell – change the course of your life. But It also can be an extraordinarily awful place, with people feeling super confident in speaking their minds, shielded by distance and behind a computer screen. I’ve run into many situations this year where people have said, well…less than flattering things. Nevermind that 99% of comments or a post or a picture that someone has shared are super complimentary, I will fixate on that one bad thing. For example, a picture that Spartan posted of me crossing the finish line after winning the NJ Super, and one ashole who commented “weird body.” Despite everyone else congratulating me, all I could do was fixate on that one idiot. My immediate reaction is to defend – it was an awkward angle (it was), I was jumping over fire (I was), and yeah, I’m kinda built like a ruler (my waist and hips are pretty much the same size). But if I feed the internet trolls, if I acknowledge it, what is that going to accomplish?
 
-[![11428177_10152834793986861_5613212595232884315_o-2](http://ameliabooneracing.info/wp-content/uploads/2015/12/11428177_10152834793986861_5613212595232884315_o-2-300x200.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/12/11428177_10152834793986861_5613212595232884315_o-2.jpg)This is not the picture in question. But this is my favorite race picture of the year. And how I feel about the peanut gallery.
+[![11428177_10152834793986861_5613212595232884315_o-2](/images/wp/2015/12/11428177_10152834793986861_5613212595232884315_o-2-300x200.jpg)](/images/wp/2015/12/11428177_10152834793986861_5613212595232884315_o-2.jpg)This is not the picture in question. But this is my favorite race picture of the year. And how I feel about the peanut gallery.
 
 Along those lines, there seem to be a new crop of “OCR commentators,” or, as I’ve called them, the “OCR peanut gallery.” They think it’s fair game to comment on people’s performance in a race. “WHAT HAPPENED OUT THERE?” for instance. Or “WHY DIDN’T YOU WIN?” Well, gee sir. There were hundreds of people in a race and only one can win and sometimes that person isn’t you. How about you – did you win?
 
@@ -102,7 +102,7 @@ But even when people get you down, just remember…
 
 2015\. Let's see…I was on the cover of [Runner's World](http://www.runnersworld.com/runners-stories/the-obstacle-course-race-superstar). I was mentioned in Christopher McDougall's (http://www.amazon.com/Natural-Born-Heroes-Mastered-Endurance/dp/0307594963). Tim Ferriss let me ramble for an hour and a half on his (http://fourhourworkweek.com/2015/12/22/amelia-boone/). I won some (http://www.mudrunguide.com/2015/12/2015-best-of-ocr-winners-announced/) and popular (http://obstacleracingmedia.com/ocr-news/orm-best-2015-poll-results/) about best OCR athletes and what not. I claimed my third World's Toughest Mudder win. I was the Spartan Points Champion. I randomly appeared on NBC Sports late at night. I filmed a second Spartan TV show (teams!). I did a photo shoot with JJ Watt. I went to Wrestlemania. And Summer Slam. And the Super Bowl (for the second year in a row).
 
-[![11731605_10100800968594342_7751413757747576661_o](http://ameliabooneracing.info/wp-content/uploads/2015/12/11731605_10100800968594342_7751413757747576661_o-300x300.jpg)](http://ameliabooneracing.info/2015/12/reflections-2015-in-review/11731605_10100800968594342_7751413757747576661_o/)And he's like "who the EFF is this girl? And why does she seem to like Russell Wilson so much?"
+[![11731605_10100800968594342_7751413757747576661_o](/images/wp/2015/12/11731605_10100800968594342_7751413757747576661_o-300x300.jpg)](http://ameliabooneracing.info/2015/12/reflections-2015-in-review/11731605_10100800968594342_7751413757747576661_o/)And he's like "who the EFF is this girl? And why does she seem to like Russell Wilson so much?"
 
 Hot damn, I've done some freaking cool things in the past year. If I believed in hash tagging "blessed," I suppose this would be the place where I would do it. But I try to not be a social media asshole, so I won't.
 

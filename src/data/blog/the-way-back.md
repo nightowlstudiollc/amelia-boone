@@ -31,4 +31,4 @@ Am I nervous? Extremely. Do I feel ready? Not exactly. Am I back in "race shape"
 
 Hello Sparta. I've missed you.
 
-[![Photo credit: Scott Kenneally](http://ameliabooneracing.info/wp-content/uploads/2015/07/IMG_6363-300x168.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/IMG_6363.jpg)Photo credit: Scott Kenneally
+[![Photo credit: Scott Kenneally](/images/wp/2015/07/IMG_6363-300x168.jpg)](/images/wp/2015/07/IMG_6363.jpg)Photo credit: Scott Kenneally

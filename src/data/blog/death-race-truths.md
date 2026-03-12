@@ -16,7 +16,7 @@ draft: false
 Andy and Joe should really keep a running tally of the number of times racers complain “but this isn’t FAIR.” Newsflash, buttercup: NOTHING about the DR is fair. In fact, it’s designed to be completely and totally unfair, in every manner possible.
 
 <figure id="attachment_38" class="wp-caption alignleft" aria-describedby="caption-attachment-38" style="width: 225px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/21362_10200201993240311_717334551_n.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/21362_10200201993240311_717334551_n-225x300.jpg" class="size-medium wp-image-38" loading="lazy" decoding="async" srcset="http://www.ameliabooneracing.com/blog/wp-content/uploads/2015/07/21362_10200201993240311_717334551_n-225x300.jpg 225w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2015/07/21362_10200201993240311_717334551_n.jpg 720w" sizes="auto, (max-width: 225px) 100vw, 225px" width="225" height="300" alt="Easy wood to chop. Not pictured: young birch. Not easy to chop. " /></a>
+<a href="/images/wp/2015/07/21362_10200201993240311_717334551_n.jpg"><img src="/images/wp/2015/07/21362_10200201993240311_717334551_n-225x300.jpg" class="size-medium wp-image-38" loading="lazy" decoding="async" srcset="/images/wp/2015/07/21362_10200201993240311_717334551_n-225x300.jpg 225w, /images/wp/2015/07/21362_10200201993240311_717334551_n.jpg 720w" sizes="auto, (max-width: 225px) 100vw, 225px" width="225" height="300" alt="Easy wood to chop. Not pictured: young birch. Not easy to chop. " /></a>
 <figcaption>Easy wood to chop. Not pictured: young birch. Not easy to chop.</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ Because that’s where you put the nail in your DNF coffin -when you let the “
 Or, depending on how you look at it, everyone who puts themselves out there and attempts it wins. Or, a third option – Joe and Andy are the winners. But I find it funny when I walk back into the office after a DR and people ask “did you win?” Little do they know that the answer is so much more complex than a yes or no.
 
 <figure id="attachment_96" class="wp-caption aligncenter" aria-describedby="caption-attachment-96" style="width: 300px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/1004741_10201125372484023_723460838_n.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/1004741_10201125372484023_723460838_n-300x200.jpg" class="size-medium wp-image-96" loading="lazy" decoding="async" width="300" height="200" alt="Life vests are excellent barb wire protection" /></a>
+<a href="/images/wp/2015/07/1004741_10201125372484023_723460838_n.jpg"><img src="/images/wp/2015/07/1004741_10201125372484023_723460838_n-300x200.jpg" class="size-medium wp-image-96" loading="lazy" decoding="async" width="300" height="200" alt="Life vests are excellent barb wire protection" /></a>
 <figcaption>Life vests are excellent barb wire protection</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ While in the past, there have been places and “winners” at DRs. 2012 SDR, fo
 **(3) The only person you are accountable to is yourself**
 
 <figure id="attachment_101" class="wp-caption alignleft" aria-describedby="caption-attachment-101" style="width: 169px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/1048709_10200184582325049_1652949473_o.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/1048709_10200184582325049_1652949473_o-169x300.jpg" class="size-medium wp-image-101" loading="lazy" decoding="async" width="169" height="300" alt="The DR also believes in social responsibility: sometimes you will be asked to carry trash" /></a>
+<a href="/images/wp/2015/07/1048709_10200184582325049_1652949473_o.jpg"><img src="/images/wp/2015/07/1048709_10200184582325049_1652949473_o-169x300.jpg" class="size-medium wp-image-101" loading="lazy" decoding="async" width="169" height="300" alt="The DR also believes in social responsibility: sometimes you will be asked to carry trash" /></a>
 <figcaption>The DR also believes in social responsibility: sometimes you will be asked to carry trash</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ How you conduct yourself at the DR is oftentimes representative of how you condu
 I’ve heard multiple times throughout several Death Races, that “so
 
 <figure id="attachment_102" class="wp-caption alignright" aria-describedby="caption-attachment-102" style="width: 225px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/1057196_663866413628233_198355620_n.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/1057196_663866413628233_198355620_n-225x300.jpg" class="size-medium wp-image-102" loading="lazy" decoding="async" width="225" height="300" alt="Rule #1: Always look cool while lifting heavy shit" /></a>
+<a href="/images/wp/2015/07/1057196_663866413628233_198355620_n.jpg"><img src="/images/wp/2015/07/1057196_663866413628233_198355620_n-225x300.jpg" class="size-medium wp-image-102" loading="lazy" decoding="async" width="225" height="300" alt="Rule #1: Always look cool while lifting heavy shit" /></a>
 <figcaption>Rule #1: Always look cool while lifting heavy shit</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ That element of the DR has been forever changed. And I’d be willing to gamble 
 **(7) You will be REALLY uncomfortable**
 
 <figure id="attachment_104" class="wp-caption alignleft" aria-describedby="caption-attachment-104" style="width: 218px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/1060769_10201139842285759_588720962_n.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/1060769_10201139842285759_588720962_n-300x200.jpg" class="wp-image-104" loading="lazy" decoding="async" width="218" height="145" alt="I&#39;m smiling but you can&#39;t tell from the amount of CRAP in my eyes" /></a>
+<a href="/images/wp/2015/07/1060769_10201139842285759_588720962_n.jpg"><img src="/images/wp/2015/07/1060769_10201139842285759_588720962_n-300x200.jpg" class="wp-image-104" loading="lazy" decoding="async" width="218" height="145" alt="I&#39;m smiling but you can&#39;t tell from the amount of CRAP in my eyes" /></a>
 <figcaption>I’m smiling but you can’t tell from the amount of CRAP in my eyes</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ You will smell something awful. Your skin will itch. You will chafe in places yo
 But there’s always a 1%. Ignore those assholes, and focus on the
 
 <figure id="attachment_95" class="wp-caption alignright" aria-describedby="caption-attachment-95" style="width: 169px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/1001464_10200201980559994_763634224_n.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/1001464_10200201980559994_763634224_n-169x300.jpg" class="size-medium wp-image-95" loading="lazy" decoding="async" width="169" height="300" alt="Peter showing me how heavy his pack was when wet. Peter is also one of the coolest people you&#39;ll ever meet. " /></a>
+<a href="/images/wp/2015/07/1001464_10200201980559994_763634224_n.jpg"><img src="/images/wp/2015/07/1001464_10200201980559994_763634224_n-169x300.jpg" class="size-medium wp-image-95" loading="lazy" decoding="async" width="169" height="300" alt="Peter showing me how heavy his pack was when wet. Peter is also one of the coolest people you&#39;ll ever meet. " /></a>
 <figcaption>Peter showing me how heavy his pack was when wet. Peter is also one of the coolest people you’ll ever meet.</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ And this is all from people who ask for nothing in return, who do it just becaus
  
 
 <figure id="attachment_105" class="wp-caption aligncenter" aria-describedby="caption-attachment-105" style="width: 300px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/1060964_10201139842365761_885562416_n.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/1060964_10201139842365761_885562416_n-300x200.jpg" class="size-medium wp-image-105" loading="lazy" decoding="async" width="300" height="200" alt="Googles courtesy of someone&#39;s crew because my eyes got so bad. I subsequently lost them, and I owe you. I&#39;m sorry. " /></a>
+<a href="/images/wp/2015/07/1060964_10201139842365761_885562416_n.jpg"><img src="/images/wp/2015/07/1060964_10201139842365761_885562416_n-300x200.jpg" class="size-medium wp-image-105" loading="lazy" decoding="async" width="300" height="200" alt="Googles courtesy of someone&#39;s crew because my eyes got so bad. I subsequently lost them, and I owe you. I&#39;m sorry. " /></a>
 <figcaption>Googles courtesy of someone’s crew because my eyes got so bad. I subsequently lost them, and I owe you. I’m sorry.</figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ So in the 24, 48, 72 hours that you race, each one of these shortcomings will re
 I announced my retirement to anyone who would listen before the DR even began this summer. This was my swan song, my farewell. Been there, done that, with nothing left to prove to myself or to others. I maintained that all throughout the race, and for the first day or so after.
 
 <figure id="attachment_103" class="wp-caption alignright" aria-describedby="caption-attachment-103" style="width: 300px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/1058703_10201139842245758_1502322903_n.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/1058703_10201139842245758_1502322903_n-300x200.jpg" class="size-medium wp-image-103" loading="lazy" decoding="async" width="300" height="200" alt="DR: Selective memory abounds" /></a>
+<a href="/images/wp/2015/07/1058703_10201139842245758_1502322903_n.jpg"><img src="/images/wp/2015/07/1058703_10201139842245758_1502322903_n-300x200.jpg" class="size-medium wp-image-103" loading="lazy" decoding="async" width="300" height="200" alt="DR: Selective memory abounds" /></a>
 <figcaption>DR: Selective memory abounds</figcaption>
 </figure>
 

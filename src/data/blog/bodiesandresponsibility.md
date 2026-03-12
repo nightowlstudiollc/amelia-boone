@@ -38,7 +38,7 @@ So while eating disorders are not about bodies, I’m going to address this beca
 
 Let’s take this picture of me.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/08/IMG_4446-819x1024.jpg)Doing my best Baywatch impersonation. Nah, this was just after swimming through a pond mid-race in 2018
+![](/images/wp/2019/08/IMG_4446-819x1024.jpg)Doing my best Baywatch impersonation. Nah, this was just after swimming through a pond mid-race in 2018
 
 If you didn’t know about my eating disorder, many folks would say this is the product of discipline and being an athlete.
 
@@ -52,7 +52,7 @@ While I understand there is controversy around the “set point” theory, the c
 
 So how does this relate to the media? Because I know how detrimental diet culture and body ideals are to our society, where is my responsibility? For example, should I have said to Runner’s World “sure, I can be on the cover, but just to let you know, I have an eating disorder and my body could be a product of it?”
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/08/fullsizeoutput_4b7-767x1024.jpeg)My Runner's World cover in 2015. Can I be proud of this? Or should I be ashamed?
+![](/images/wp/2019/08/fullsizeoutput_4b7-767x1024.jpeg)My Runner's World cover in 2015. Can I be proud of this? Or should I be ashamed?
 
 It’s something I’ve wrestled with internally a lot. While I was at Opal, I was asked to be part of a photo shoot for one of my sponsors. I spent MANY process groups crying over it. Am I causing harm by being photographed in my body, I asked? I felt the guilt. It’s gnawed at me.
 

@@ -12,7 +12,7 @@ draft: false
 > \(1\) Thou shall respect the power of neoprene
 
 <figure id="attachment_6" class="wp-caption alignright" aria-describedby="caption-attachment-6" style="width: 243px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/tent-1.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/tent-1-300x228.jpg" class="wp-image-6" loading="lazy" decoding="async" srcset="http://www.ameliabooneracing.com/blog/wp-content/uploads/2015/07/tent-1-300x228.jpg 300w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2015/07/tent-1.jpg 568w" sizes="auto, (max-width: 243px) 100vw, 243px" width="243" height="185" alt="All stripping down was done separately" /></a>
+<a href="/images/wp/2015/07/tent-1.jpg"><img src="/images/wp/2015/07/tent-1-300x228.jpg" class="wp-image-6" loading="lazy" decoding="async" srcset="/images/wp/2015/07/tent-1-300x228.jpg 300w, /images/wp/2015/07/tent-1.jpg 568w" sizes="auto, (max-width: 243px) 100vw, 243px" width="243" height="185" alt="All stripping down was done separately" /></a>
 <figcaption>All stripping down was done separately</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ Of course everyone asks about chafing. Lube up, people, and you will be fine: Bo
 > \(2\) Thou shall dry off completely between laps
 
 <figure id="attachment_7" class="wp-caption alignright" aria-describedby="caption-attachment-7" style="width: 247px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/neoprene-1.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/neoprene-1-300x290.jpg" class="wp-image-7" loading="lazy" decoding="async" srcset="http://www.ameliabooneracing.com/blog/wp-content/uploads/2015/07/neoprene-1-300x290.jpg 300w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2015/07/neoprene-1.jpg 470w" sizes="auto, (max-width: 247px) 100vw, 247px" width="247" height="239" alt="What two wetsuits and a hood look like" /></a>
+<a href="/images/wp/2015/07/neoprene-1.jpg"><img src="/images/wp/2015/07/neoprene-1-300x290.jpg" class="wp-image-7" loading="lazy" decoding="async" srcset="/images/wp/2015/07/neoprene-1-300x290.jpg 300w, /images/wp/2015/07/neoprene-1.jpg 470w" sizes="auto, (max-width: 247px) 100vw, 247px" width="247" height="239" alt="What two wetsuits and a hood look like" /></a>
 <figcaption>What two wetsuits and a hood look like</figcaption>
 </figure>
 
