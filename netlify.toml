@@ -7,3 +7,24 @@
 
 [functions]
   node_bundler = "esbuild"
+
+# Redirects from old ameliabooneracing.com URL structure
+[[redirects]]
+  from = "/raceschedule.html"
+  to = "/race-schedule"
+  status = 301
+
+[[redirects]]
+  from = "/news.html"
+  to = "/press"
+  status = 301
+
+[[redirects]]
+  from = "/aboutme.html"
+  to = "/about"
+  status = 301
+
+[[redirects]]
+  from = "/support.html"
+  to = "/"
+  status = 301
