@@ -1,6 +1,6 @@
 # Amelia Boone
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/amelia-boone-archive/deploy-status)](https://app.netlify.com/projects/amelia-boone-archive/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dd31fbad-e423-40b9-b573-d244d5631d59/deploy-status)](https://app.netlify.com/projects/amelia-boone-archive/deploys)
 
 Personal blog for Amelia Boone — obstacle racing champion, ultrarunner, attorney, and writer.
 
