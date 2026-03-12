@@ -1,0 +1,21 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+---
+
+<Layout title="Message Sent | Amelia Boone">
+  <Header />
+  <main id="main-content" class="app-layout py-20 text-center">
+    <h1 class="mb-4 text-3xl font-bold">Message received.</h1>
+    <p class="mb-8 text-sm opacity-70">
+      Thanks for reaching out — I'll get back to you as soon as I can.
+    </p>
+    <a
+      href="/"
+      class="text-sm underline decoration-dashed underline-offset-4 hover:text-accent"
+      >← Back to home</a
+    >
+  </main>
+  <Footer />
+</Layout>
