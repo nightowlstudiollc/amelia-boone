@@ -1,6 +1,6 @@
 import type { Props } from "astro";
 import IconMail from "@/assets/icons/IconMail.svg";
-import IconRss from "@/assets/icons/IconRss.svg";
+import IconSubstack from "@/assets/icons/IconSubstack.svg";
 import IconInstagram from "@/assets/icons/IconInstagram.svg";
 import IconLinkedin from "@/assets/icons/IconLinkedin.svg";
 import { SITE } from "@/config";
@@ -17,7 +17,7 @@ export const SOCIALS: Social[] = [
     name: "Substack",
     href: "https://ameliaboone.substack.com",
     linkTitle: `${SITE.title} on Substack`,
-    icon: IconRss,
+    icon: IconSubstack,
   },
   {
     name: "Instagram",

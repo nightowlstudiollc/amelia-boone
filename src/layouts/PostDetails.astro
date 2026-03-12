@@ -123,6 +123,21 @@ const nextPost =
 
     <ShareLinks />
 
+    {
+      post.data.source === "substack" && post.data.originalUrl && (
+        <div class="my-6">
+          <a
+            href={post.data.originalUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-sm text-accent/80 underline decoration-dashed underline-offset-4 hover:text-accent"
+          >
+            Read comments and join the discussion on Substack →
+          </a>
+        </div>
+      )
+    }
+
     <hr class="my-6 border-dashed" />
 
     <!-- Previous/Next Post Buttons -->
