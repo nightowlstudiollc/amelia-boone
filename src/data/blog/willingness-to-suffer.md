@@ -12,7 +12,7 @@ draft: false
 The typical interview question will go something like this: “So why do you think you are successful in obstacle racing?”
 
 <figure id="attachment_77" class="wp-caption alignright" aria-describedby="caption-attachment-77" style="width: 195px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/478268_999005597642_2078109868_o.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/478268_999005597642_2078109868_o-300x200.jpg" class="wp-image-77" loading="lazy" decoding="async" width="195" height="130" alt="Might as well look good doing it" /></a>
+<a href="/images/wp/2015/07/478268_999005597642_2078109868_o.jpg"><img src="/images/wp/2015/07/478268_999005597642_2078109868_o-300x200.jpg" class="wp-image-77" loading="lazy" decoding="async" width="195" height="130" alt="Might as well look good doing it" /></a>
 <figcaption>Might as well look good doing it</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ I’m not the fastest, and I’m not the strongest, but I’m REALLY good at suf
 Perhaps almost too good.\*
 
 <figure id="attachment_87" class="wp-caption alignleft" aria-describedby="caption-attachment-87" style="width: 187px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/625494_10200286700546597_1481458478_n.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/625494_10200286700546597_1481458478_n-300x200.jpg" class="wp-image-87" loading="lazy" decoding="async" width="187" height="124" alt="The ultimate in suffering" /></a>
+<a href="/images/wp/2015/07/625494_10200286700546597_1481458478_n.jpg"><img src="/images/wp/2015/07/625494_10200286700546597_1481458478_n-300x200.jpg" class="wp-image-87" loading="lazy" decoding="async" width="187" height="124" alt="The ultimate in suffering" /></a>
 <figcaption>The ultimate in suffering</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Anyway, just like with races, I shine at long, high rep, panic-inducing WODs. Gi
 I am, by all measurements, an extremely mediocre Crossfitter (sorry – “CrossFit athlete”). But with two workouts in this year’s CrossFit Open – the first and the last, I excelled, even with a max snatch and a max thruster 50-75% of the most women CrossFit athletes out there. So what was it about those two?
 
 <figure id="attachment_197" class="wp-caption alignright" aria-describedby="caption-attachment-197" style="width: 221px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/unnamed.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/unnamed-300x185.jpg" class="wp-image-197" loading="lazy" decoding="async" width="221" height="136" alt="14.5&#39;ing it" /></a>
+<a href="/images/wp/2015/07/unnamed.jpg"><img src="/images/wp/2015/07/unnamed-300x185.jpg" class="wp-image-197" loading="lazy" decoding="async" width="221" height="136" alt="14.5&#39;ing it" /></a>
 <figcaption>14.5’ing it</figcaption>
 </figure>
 
@@ -55,12 +55,12 @@ And yes, it totally explains the Death Races. And World’s Toughest Mudder.
 I’ve heard people ask: “how do I get better at obstacle racing?” Or Death Racing, whatevs. Sure, you can give answers about training and nutrition, but from my perspective – it’s the mental side that everyone should hone. It’s the setting aside of boundaries, the mental grit to not just survive, but to compete.
 
 <figure id="attachment_116" class="wp-caption alignleft" aria-describedby="caption-attachment-116" style="width: 118px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/10177312_10152017402816861_7393812002028576126_n.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/10177312_10152017402816861_7393812002028576126_n-200x300.jpg" class="wp-image-116" loading="lazy" decoding="async" width="118" height="176" alt="Bloody knees Ex. A" /></a>
+<a href="/images/wp/2015/07/10177312_10152017402816861_7393812002028576126_n.jpg"><img src="/images/wp/2015/07/10177312_10152017402816861_7393812002028576126_n-200x300.jpg" class="wp-image-116" loading="lazy" decoding="async" width="118" height="176" alt="Bloody knees Ex. A" /></a>
 <figcaption>Bloody knees Ex. A</figcaption>
 </figure>
 
 <figure id="attachment_93" class="wp-caption alignright" aria-describedby="caption-attachment-93" style="width: 117px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/923572_10151976874781861_6616241238975558322_n.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/923572_10151976874781861_6616241238975558322_n-200x300.jpg" class="wp-image-93" loading="lazy" decoding="async" width="117" height="175" alt="Bloody knees Ex. B" /></a>
+<a href="/images/wp/2015/07/923572_10151976874781861_6616241238975558322_n.jpg"><img src="/images/wp/2015/07/923572_10151976874781861_6616241238975558322_n-200x300.jpg" class="wp-image-93" loading="lazy" decoding="async" width="117" height="175" alt="Bloody knees Ex. B" /></a>
 <figcaption>Bloody knees Ex. B</figcaption>
 </figure>
 

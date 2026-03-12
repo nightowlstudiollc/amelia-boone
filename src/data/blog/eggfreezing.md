@@ -92,7 +92,7 @@ It’s now Day 21 post-retrieval. My boobs stopped hurting about Day 17 (phew!),
 Trade-offs of a successful egg retrieval = awful recovery
 
 <figure class="aligncenter size-medium">
-<a href="http://www.ameliabooneracing.com/blog/wp-content/uploads/2021/12/bloating-scaled.jpg"><img src="http://www.ameliabooneracing.com/blog/wp-content/uploads/2021/12/bloating-225x300.jpg" class="wp-image-1005" loading="lazy" decoding="async" srcset="http://www.ameliabooneracing.com/blog/wp-content/uploads/2021/12/bloating-225x300.jpg 225w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2021/12/bloating-768x1024.jpg 768w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2021/12/bloating-1152x1536.jpg 1152w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2021/12/bloating-1536x2048.jpg 1536w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2021/12/bloating-scaled.jpg 1920w" sizes="auto, (max-width: 225px) 100vw, 225px" width="225" height="300" /></a>
+<a href="/images/wp/2021/12/bloating-scaled.jpg"><img src="/images/wp/2021/12/bloating-225x300.jpg" class="wp-image-1005" loading="lazy" decoding="async" srcset="/images/wp/2021/12/bloating-225x300.jpg 225w, /images/wp/2021/12/bloating-768x1024.jpg 768w, /images/wp/2021/12/bloating-1152x1536.jpg 1152w, /images/wp/2021/12/bloating-1536x2048.jpg 1536w, /images/wp/2021/12/bloating-scaled.jpg 1920w" sizes="auto, (max-width: 225px) 100vw, 225px" width="225" height="300" /></a>
 <figcaption>the bloat is real</figcaption>
 </figure>
 

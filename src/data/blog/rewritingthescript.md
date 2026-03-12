@@ -15,7 +15,7 @@ Someone once asked me what I thought was the one marker of a successful person: 
 
 The last thing I expected as a result of the Spartan Race World Championship was a shattered pinky and surgery two days later to insert plates and screws. I remember being oddly calm in the urgent care room in Truckee, because “it’s just a pinky - this is dumb,” I thought, and “at least I can still run”. I remember my mood starting to change when the urgent care doc looked at the x-rays and said I needed to see a surgeon ASAP, and further crumble when the surgeon gave me the verdict – full weight bearing on the hand (i.e., hanging from a bar, doing pull-ups, etc) would be 3 months. Um…come again?
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/10/IMG_0821-240x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/10/IMG_0821.jpg)Post surgery. For the record, not a painkiller smile
+[![](/images/wp/2017/10/IMG_0821-240x300.jpg)](/images/wp/2017/10/IMG_0821.jpg)Post surgery. For the record, not a painkiller smile
 
 And I remember the exact moment where I went “oh shit. World’s Toughest Mudder” … the event that (http://www.ameliabooneracing.com/blog/uncategorized/the-ten-commandments-of-worlds-toughest-mudder-part-i/) the one event (http://www.ameliabooneracing.com/blog/uncategorized/worlds-toughest-mudder-2015-revolution/), was a month post-surgery. This entire season, I’d always had it in my sights: because I had to miss it last year, and because of my history with it, it had always (quietly) been my “A” race this year. And I was going into it with the lofty goal of being the first woman to break the 100-mile mark at the race.
 
@@ -33,17 +33,17 @@ This one stung because I had already written the script in my head: in 2013, I s
 
 But it's just that - a script. A story. A construct I've created in my head that THIS is how my story should look, and THIS is how life should play out.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/10/IMG_0849-300x225.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/10/IMG_0849.jpg)An unplanned pigpen style
+[![](/images/wp/2017/10/IMG_0849-300x225.jpg)](/images/wp/2017/10/IMG_0849.jpg)An unplanned pigpen style
 
 Newsflash: apparently I don't control the universe.
 
 So, once again, I'm giving myself permission to write a new story, to rewrite the script in my head. Just because I've never sat out WTM for more than one year in a row doesn't mean I can't. Just because I swore up and down last year that I'd be back for WTM 2017 doesn't mean I'm a failure if I'm not. Frankly, holding onto past expectations only serves to blind us from opportunities that may open up elsewhere.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/15540761_10154859270654066_5087633178230342096_o-197x300.jpg)WORLD'S TOUGHEST CHEERLEADER
+![](/images/wp/2016/12/15540761_10154859270654066_5087633178230342096_o-197x300.jpg)WORLD'S TOUGHEST CHEERLEADER
 
 [Dealing with injury and setbacks ](http://www.ameliabooneracing.com/blog/uncategorized/the-injury-commandments/)is a natural part of being an athlete, and sure, I’ve had my licks. What’s morphed over these past two years is how I choose to view it. As much as I mourn this loss, I’m also relishing the alternate path that’s opened up as a result. Yes, I can’t compete in obstacle races right now. Fortunately (KNOCK ON WOOD NO JINX), my legs still work. Ever since I went down with the case of the femurs, I’ve made it quite clear that there’s an itch I have to scratch – the glorious, beautiful, ultra running itch, and the many gnarly races that go along with that (cough, maybe a go at re-qualifying for[ Western States](http://www.ameliabooneracing.com/blog/rehab/finding-joy-in-the-dns/)?). So while I may be giving up one goal (i.e., 100 miles at WTM), it’s making room for a different one. While it may feel like a loss, I’m choosing to frame it as a shift.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/10/IMG_2685-300x231.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/10/IMG_2685.jpg)Let's be honest - "having" to do this ain't so bad
+[![](/images/wp/2017/10/IMG_2685-300x231.jpg)](/images/wp/2017/10/IMG_2685.jpg)Let's be honest - "having" to do this ain't so bad
 
 And the thrill of new challenges is where I thrive. It’s what brought me into obstacle racing, it’s what lead me to sign up for the first World’s Toughest Mudder in 2011, it’s what kept me awake and kicking in the woods for 3+ days during multiple [Death Races](http://www.ameliabooneracing.com/blog/uncategorized/death-race-truths/). That thrill has led me down this crazy path I’ve come to call life these past 7 years. I faced down in the unknown in the obstacle racing world, and I’ve done pretty well. Maybe it’s time to go explore something at which I could fail miserably: as much as that scares me, it’s also what intrigues me.
 

@@ -26,7 +26,7 @@ In 2011, a little under1000 people lined up at the start. 2012, a few hundred mo
 
 Personally, I'm looking forward to have more people out there to help pass the time.
 
-![981152_10151657200134066_1564172388_o](http://ameliabooneracing.info/wp-content/uploads/2015/07/981152_10151657200134066_1564172388_o-300x200.jpg)If only the starting like was like this #nowetsuitneeded
+![981152_10151657200134066_1564172388_o](/images/wp/2015/07/981152_10151657200134066_1564172388_o-300x200.jpg)If only the starting like was like this #nowetsuitneeded
 
 So chill out, everyone - numbers, lack of qualifications, etc. - WTM will still be the WTM we love and hate. (oddly enough, the most outspoken critics appear to be people that have never even run a WTM. I'm not even going to go there.)
 
@@ -36,7 +36,7 @@ Of the WTM changes, the only one that bothers me is the one that no one is talki
 
 I hate support crews. I hate the concept of them. I've always hated that the Death Race allows them (that's an entirely different and very entertaining rant). I firmly believe that (1) they get in the way; (2) they make the race less about the racer's abilities; (3) take away a key element of what makes WTM so hard: self-sufficiency and strategy.
 
-[![Foraging in the tent during WTM 2011](http://ameliabooneracing.info/wp-content/uploads/2015/07/396948_804544688862_1274350569_n-300x225.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/396948_804544688862_1274350569_n.jpg)Foraging in the tent during WTM 2011
+[![Foraging in the tent during WTM 2011](/images/wp/2015/07/396948_804544688862_1274350569_n-300x225.jpg)](/images/wp/2015/07/396948_804544688862_1274350569_n.jpg)Foraging in the tent during WTM 2011
 
 If you have someone in your pit area prepping warm food and drink, drying out your clothes, etc., it could be a game changer. In the past, I've had to strategize how to lay out clothes, lay out nutrition, make sure that wet clothes don't freeze between laps.\*
 

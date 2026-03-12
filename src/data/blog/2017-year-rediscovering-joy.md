@@ -42,7 +42,7 @@ Note to self: the first two happened. The third didn’t.
 
 It’s a difficult thing for any athlete to fall off the podium, to no longer be the one that everyone fears, and to feel like your best days are behind you. I won’t lie – it’s an extremely humbling process, and one that I’m still working through. But by racing through these emotions and these fears, I learned something else: there’s great freedom in it as well. **Freedom in realizing your expectations are only constructs you create in your own head.** Freedom is learning that the world keeps spinning regardless of what that finish time says. And hell – a bit of freedom in being the underdog.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/04/10410435_10152204357971861_7493999043821618865_n-300x200.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/04/10410435_10152204357971861_7493999043821618865_n.jpg)
+[![](/images/wp/2017/04/10410435_10152204357971861_7493999043821618865_n-300x200.jpg)](/images/wp/2017/04/10410435_10152204357971861_7493999043821618865_n.jpg)
 
 **_I Am Not Broken (so stop waiting for the other shoe to drop)_**
 
@@ -60,7 +60,7 @@ Confession: I’ve had more MRIs this year that ever before (the MRI techs knew 
 
 But I can’t run to get an MRI every time something hurts for more than a few days – it’s frankly kind of shameful (and really…REALLY expensive). And it’s embarrassing to admit that the woman who made a name for herself in fighting through and loving pain was suddenly so debilitated by it. So a few months ago, I made a promise to myself to remember that I am strong. Pains will come and go, but I can’t live in fear of being sidelined again for another year. That other shoe doesn't HAVE to drop (but if it does, I'll deal with it then, instead of projecting into the future). Now, when something flares, I’ll often repeat “I am not broken” along with other “affirmations" (written in my running log - thanks [Coach David](https://swaprunning.com)!) and it’s rather amazing how well it works. Injuries will happen, but I refuse to let the fear of injury debilitate me any longer.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_3469-300x169.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_3469.jpg)The early return to running miles in the dark (thanks Coach David for capturing!)
+[![](/images/wp/2017/08/IMG_3469-300x169.jpg)](/images/wp/2017/08/IMG_3469.jpg)The early return to running miles in the dark (thanks Coach David for capturing!)
 
 **_Joy is not found in the accomplishment, but the journey_**
 
@@ -76,7 +76,7 @@ I was missing the point all along – I was failing to embrace the things that t
 
 It seems so simple now, and perhaps many of you realized this a long time ago (fine, fine - I’m late to the party). But it’s applicable across so many aspects of my life well beyond racing, and I’m determined to not lose sight of this.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/12/23471953_10155864084400970_4701330484556433701_n-300x225.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/12/23471953_10155864084400970_4701330484556433701_n.jpg)I couldn't race World's Toughest Mudder, but this was one of the highlights of my year
+[![](/images/wp/2017/12/23471953_10155864084400970_4701330484556433701_n-300x225.jpg)](/images/wp/2017/12/23471953_10155864084400970_4701330484556433701_n.jpg)I couldn't race World's Toughest Mudder, but this was one of the highlights of my year
 
 **_There is No “Comeback”_**
 
@@ -94,7 +94,7 @@ It’s rather funny – I finished 11th in the Spartan Race World Championships,
 
 I don’t get it right all the time, and yes, it’s something I’m still facing down and tackling head on. But slowly, I’m learning to run my own race, both on the course and in life. And throughout that, “race happy” will continue to be my motto.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/12/IMG_1338-300x225.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/12/IMG_1338.jpg)
+[![](/images/wp/2017/12/IMG_1338-300x225.jpg)](/images/wp/2017/12/IMG_1338.jpg)
 
 ………..
 

@@ -46,6 +46,6 @@ As scary as this all is, I’m actually excited to tackle it. I’m excited to g
 
 Life is pretty grand when you let the water guide you.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/03/Screen-Shot-2019-03-18-at-10.11.58-AM.png)
+![](/images/wp/2019/03/Screen-Shot-2019-03-18-at-10.11.58-AM.png)
 
 As always, a **HUGE** thank you to my sponsors who have stuck by me through the ups and downs: [HumanN](http://humann.com), [Ultimate Direction](http://ultimatedirection.com), [Altra](http://altrarunning.com), [Sufferfest Beer](http://sufferfestbeer.com), [Big Spoon Roasters](http://bigspoonroasters.com), [Rocktape](http://rocktape.com), [Goodr](http://goodr.com), and [Pete & Gerry’s](http://peteandgerrys.com). As a sponsored athlete, being injured is one of the worst feelings when you think about telling them (especially when you’ve JUST signed on…sorry Altra…). But these companies are rockstars, and I’m so thankful they support me in every aspect of my life. And to Dr. Brink at[ Premiere Spine & Sport,](http://premierespineandsport.com) who has served as an invaluable resource in learning about movement and my body. And, of course, to [Coach David Roche](http://swaprunning.com): he’s always tried to rein me in (sometimes I don’t listen…and look what happens), but more importantly, he’s been the biggest advocate of me as a human being, not as a runner. I can’t imagine a better coach to have in my corner.

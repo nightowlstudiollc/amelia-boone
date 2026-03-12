@@ -12,7 +12,7 @@ featured: false
 
 On April 26th of this year, a few days after the whole "broken femur" thing started, I picked up a copy of Cheryl Strayed's book "Brave Enough." I flipped to a page, and this stared at me:
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/IMG_2624-e1482874498510-225x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/IMG_2624-e1482874498510.jpg)
+[![](/images/wp/2016/12/IMG_2624-e1482874498510-225x300.jpg)](/images/wp/2016/12/IMG_2624-e1482874498510.jpg)
 
 I promptly ripped this page (and one more, which you'll see if you make it all the way through this novel of a post) and taped it to my bathroom mirror, as a theme for my recovery journey. Granted, the journey has been much longer than I anticipated, but can be summed up with two themes: gratitude and acceptance.
 
@@ -24,7 +24,7 @@ When I first heard the diagnosis of “femoral stress fracture,” I felt like m
 
 But then, a funny thing happened as the days and weeks went by – it got easier. The tears dried. The violent waves of anger brought on by seeing someone running down the road lessened, and I adapted to a “new normal.” It’s like I’d gotten through the runner’s “withdrawals,” and the urges subsided.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/15540761_10154859270654066_5087633178230342096_o-197x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/15540761_10154859270654066_5087633178230342096_o.jpg)I became REALLY good at cheering this year.
+[![](/images/wp/2016/12/15540761_10154859270654066_5087633178230342096_o-197x300.jpg)](/images/wp/2016/12/15540761_10154859270654066_5087633178230342096_o.jpg)I became REALLY good at cheering this year.
 
 Ten weeks came and went and I still couldn’t run. Hell, I was still on crutches. When all was said and done, it was December 1st, not just 10 weeks, but 7+ **months** before running started again. A length of time I never thought imaginable - yet, here I am. Out of shape, with lots of muscle lost, but still kicking.
 
@@ -42,7 +42,7 @@ But what I realized is that while I couldn’t ignore the physical injury, I did
 
 …sometimes a TV microphone gets shoved in your face and you say, “hey, why not?” I certainly didn’t expect this year to turn into the year of OCR commentary, but it somehow did, and it was by far, the best thing that could have happened. I don’t pretend to be any good at it, but hot damn - it was a blast. Starting with ESPN and Battlefrog in the spring, SNY with Civilian Military Combine in September, some semi-suspect Facebook live stream hosting for Spartan, and finishing it out with the 24-hour Tough Mudder livestream and hosting the CBS Sports World’s Toughest After Show…phew.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/FullSizeRender-16-300x253.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/FullSizeRender-16.jpg)Some ESPN commentating
+[![](/images/wp/2016/12/FullSizeRender-16-300x253.jpg)](/images/wp/2016/12/FullSizeRender-16.jpg)Some ESPN commentating
 
 Suffice it to say I had absolutely ZERO idea what I was getting myself into, and I definitely look at some of the footage and cringe, but, aside from the TV makeup, I kinda like this gig. I hope this little sport of our sticks around so I have something to do when I’m long past my racing days. Or I’ll just have to convince a sports channel to let me talk about football all day instead.
 
@@ -50,7 +50,7 @@ Suffice it to say I had absolutely ZERO idea what I was getting myself into, and
 
 From the first day of my injury, I received the standard line over and over again from well-meaning folks: “this is a great time to pick up a new interest or hobby!” “Sure,” I replied, through gritted teeth, contemplating whether it was acceptable to slap said person across the face. And I thought about – I tossed around ideas, I started a few things here and there, but it all felt so…(http://www.ameliabooneracing.com/blog/rehab/identity-injury-and-the-athlete/). I was going through the motions merely because other people said that was “the thing to do.” So eff it – once I gave myself permission to NOT have to pick up the ukulele or underwater basket weaving, I felt so much freer. Sometimes you don’t HAVE to fill the time spent not training. Sometimes the best use of that time is just to be.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/IMG_2900-300x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/IMG_2900.jpg)Really, I just like the pretty quotes that the Calm app gives me. This one hits home
+[![](/images/wp/2016/12/IMG_2900-300x300.jpg)](/images/wp/2016/12/IMG_2900.jpg)Really, I just like the pretty quotes that the Calm app gives me. This one hits home
 
 Though I will say that, amidst much kicking and screaming I did start a daily meditation practice. Most days, I really suck at it – my mind wanders, I get bored, sometimes I fall asleep (oops). But one of the best things it’s taught me is the value of observing how I’m feeling without judgment. I’m well-known for hopping on the[ never-ending merry go-round of self-flagellation](http://www.ameliabooneracing.com/blog/rehab/identity-injury-and-the-athlete/). Meditation has taught me to observe how I’m feeling as a bystander, and how to stop berating myself because I SHOULD be feeling a different way. Or how I SHOULD be doing a different thing, such as “picking up a new hobby”.
 
@@ -74,11 +74,11 @@ I’ve only started this process in 2016, and at this point, I don’t have answ
 
 When you are on top of the world, everyone wants to be your friend. Sponsors line up, awards are piled on, and praise is non-stop. Those are the easy times. But when you can’t compete, when you aren’t on TV crushing races, you become acutely aware of how easy it is to be “forgotten.” How quickly people move onto the “next thing.” And how fickle of a mistress “fame” can be. \*\*\*\*
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/15419538_10211694079452341_3253556644744961618_o-300x232.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/15419538_10211694079452341_3253556644744961618_o.jpg)Team Four Eyes - I've known them since WTM 2011, and they are still my favs
+[![](/images/wp/2016/12/15419538_10211694079452341_3253556644744961618_o-300x232.jpg)](/images/wp/2016/12/15419538_10211694079452341_3253556644744961618_o.jpg)Team Four Eyes - I've known them since WTM 2011, and they are still my favs
 
 But the upside of the fickleness is that you suddenly are able to realize who really DOES matter in your life. You see that some “friendships” are nothing more than folks being “fans” when you are dominating, but are quick to forget you when you are no longer at the top. So I spent this past year reprioritizing relationships, and focusing on those that have been with me through thick and thin, or who may have come into my life only recently, but have taught me so much about life, resilience, and what really matters. Such as my high school girlfriends (hi Angelfish!) who could give two shits if I run through mud or not – they love me as the orange-haired, frozen-yogurt scooping show choir nerd who would happily let them trash the back of my ’86 Volvo. Or my “OG” racing friends from back in the World’s Toughest Mudder Jersey days – we started as a small, strange little family, and to this day, we still are. And of course, my sister and parents and extended family who will be there for me, always, regardless. It's tough for me to accept support from people, as I've always preached that you need to rely on yourself (ha - as I told Tim Ferriss on his podcast: "No one owes you anything.") But it is certainly nice when folks do let you lean on them.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/15068447_968045919967913_1557371847538466430_o-300x225.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/15068447_968045919967913_1557371847538466430_o.jpg)Ain't no family like a BeetElite family
+[![](/images/wp/2016/12/15068447_968045919967913_1557371847538466430_o-300x225.jpg)](/images/wp/2016/12/15068447_968045919967913_1557371847538466430_o.jpg)Ain't no family like a BeetElite family
 
 And of course, I’m grateful and thankful for having sponsors that stuck with me and believed in me even when I couldn’t represent them in races – [Reebok](http://www.reebok.com), [BeetElite](https://www.humann.com/push-harder-achieve-greater/), [RockTape](http://www.rocktape.com), [Premiere Spine & Sport](http://www.premierespineandsport.com), Spartan – thank you for continuing to believe in me as a person and as an athlete.\*\*\*\*
 
@@ -86,7 +86,7 @@ And of course, I’m grateful and thankful for having sponsors that stuck with m
 
 I’m not exactly the most warm and fuzzy person. And for me, admitting that I need help has always been a sign of weakness, of failure. I’ll never forgot the first time I was confronted with talking out the garbage while on crutches – being the stubborn asshole that I am, instead of asking a neighbor to help me, I attempted to do it myself, and ended up falling and landing awkwardly on the broken femur. Well-done, Amelia. Bravo.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/IMG_1704-2-200x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/IMG_1704-2.jpg)One of those times I probably should have asked for help (but thanks for the pic, Scott Keneally!)
+[![](/images/wp/2016/12/IMG_1704-2-200x300.jpg)](/images/wp/2016/12/IMG_1704-2.jpg)One of those times I probably should have asked for help (but thanks for the pic, Scott Keneally!)
 
 So I slowly started to learn how to ask for help. And to swallow my pride and recognize that physically, I wasn’t capable of certain things. What was harder was admitting that, emotionally, I was wasn’t capable of certain things either. For so long, I’ve used my accomplishments to do the talking for me. The podium pictures to show that things are alright. My legs to run me away from my problems on a daily basis. But when you are stripped of your legs and your athletic accomplishments, the only thing left you can use is your voice, which is what I should have been using all along.
 
@@ -100,11 +100,11 @@ People commented on how “great” I was for still coming out and smiling and c
 
 **I, however, do not believe in the easy way.**
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/IMG_2761-e1482875157459-225x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/IMG_2761-e1482875157459.jpg)Had I realized how much fun cheering is in a Simba onesie, I would have got this a LONG time ago.
+[![](/images/wp/2016/12/IMG_2761-e1482875157459-225x300.jpg)](/images/wp/2016/12/IMG_2761-e1482875157459.jpg)Had I realized how much fun cheering is in a Simba onesie, I would have got this a LONG time ago.
 
 And, sure enough, a funny thing happened - like so many other parts of injury, it got easier as the months wore on. Somewhere along the way, the faked smiles and cheers became genuine. The crying fits became fewer and further between (though I will admit that Spartan World Championships and World’s Toughest Mudder were especially rocky). [I no longer dreaded standing on the sidelines](http://www.ameliabooneracing.com/blog/rehab/finding-joy-in-the-dns/). I no longer feared not standing on top of the podium. And I started to really appreciate that no growth happens when you hide your head in the sand.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/07/IMG_1461-300x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/07/IMG_1461.jpg)Best purchase I made all year
+[![](/images/wp/2016/07/IMG_1461-300x300.jpg)](/images/wp/2016/07/IMG_1461.jpg)Best purchase I made all year
 
 **(10) You live**
 
@@ -112,7 +112,7 @@ And, sure enough, a funny thing happened - like so many other parts of injury, i
 
 But you know what? It has been, by far, my most personally fulfilling year ever. Maybe being unable to physically run from my problems forced me to confront them, and do the deep work that is so easy to abandon when times are good. **Maybe I had to be physically weak and broken to become emotionally strong.** And while I don’t have it all figured out, maybe life put a “pause” button in front of me to allow me to do so.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/IMG_2623-e1482875248135-225x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/12/IMG_2623-e1482875248135.jpg)One more from "Brave Enough" - also taped to my bathroom mirror
+[![](/images/wp/2016/12/IMG_2623-e1482875248135-225x300.jpg)](/images/wp/2016/12/IMG_2623-e1482875248135.jpg)One more from "Brave Enough" - also taped to my bathroom mirror
 
 I don’t believe everything happens for a reason. And I certainly don’t believe injury happens for a reason. But I do know that this past year has taught me that, even when your passions and loves are stripped from you, you can still find happy. You can still be complete. You adjust, you reassess, you struggle through the bad times, you celebrate the little victories. And, at the end of the day, you live.
 

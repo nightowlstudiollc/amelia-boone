@@ -19,7 +19,7 @@ Returning to racing.
 
 _I fear my own return to racing._
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/04/943CA3C2-7BDA-4EB4-A378-DF36BFB361AC-300x200.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/04/943CA3C2-7BDA-4EB4-A378-DF36BFB361AC.jpg)Start line jitters (photo courtesy of Kien Lam)
+[![](/images/wp/2017/04/943CA3C2-7BDA-4EB4-A378-DF36BFB361AC-300x200.jpg)](/images/wp/2017/04/943CA3C2-7BDA-4EB4-A378-DF36BFB361AC.jpg)Start line jitters (photo courtesy of Kien Lam)
 
 Since the day I went down with a case of the femurs last April, I’ve been asked on a daily basis “(http://www.ameliabooneracing.com/blog/worldstoughestmudder/when-will-you-be-back/)?” At first the answer was easy – 8 weeks. Maybe 12. As we became aware of just how BAD the (http://www.ameliabooneracing.com/blog/uncategorized/superhuman/)really was, that number grew. Weeks became months. And when I effectively (well, LITERALLY) broke my back trying to “get back” to racing for the 2016 championship season, I threw in the towel. 2017, I said. 2017 was going to be the year - MY year.
 
@@ -59,9 +59,9 @@ It took me three plus years to admit that I was never going to be that “girl h
 
 So this is me, paying my respects to the old Amelia. To the athlete she was (she was a pretty decent one, I'd say)
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/04/465588_999006575682_22530848_o-300x200.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/04/465588_999006575682_22530848_o.jpg)Swollen and barely-able-to-stand 2012 WTM champion Amelia
+[![](/images/wp/2017/04/465588_999006575682_22530848_o-300x200.jpg)](/images/wp/2017/04/465588_999006575682_22530848_o.jpg)Swollen and barely-able-to-stand 2012 WTM champion Amelia
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/04/1236949_10151602442176861_1157743415_n-300x199.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/04/1236949_10151602442176861_1157743415_n.jpg)2013 Spartan World Champion Amelia
+[![](/images/wp/2017/04/1236949_10151602442176861_1157743415_n-300x199.jpg)](/images/wp/2017/04/1236949_10151602442176861_1157743415_n.jpg)2013 Spartan World Champion Amelia
 
 But more importantly, this is me embracing the athlete I currently am, and the athlete I will be.
 
@@ -89,4 +89,4 @@ I fear my own return, but I embrace the challenge of starting over. And I look f
 
 For me, that’s the healthiest place to be.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/04/San-Jose-Spartan-0155-300x200.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/04/San-Jose-Spartan-0155.jpg)Happy Place (Photo courtesy of Scott Keneally)
+[![](/images/wp/2017/04/San-Jose-Spartan-0155-300x200.jpg)](/images/wp/2017/04/San-Jose-Spartan-0155.jpg)Happy Place (Photo courtesy of Scott Keneally)

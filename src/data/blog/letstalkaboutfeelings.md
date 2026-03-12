@@ -38,7 +38,7 @@ During one process group at Opal, I finally let myself grieve the ending of a mu
 
 She didn’t have to be afraid because feelings are beautiful. And there was nothing wrong with her.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/10/IMG_2951-e1570660518763-768x1024.jpg)She felt. A LOT.
+![](/images/wp/2019/10/IMG_2951-e1570660518763-768x1024.jpg)She felt. A LOT.
 
 I picked myself up after several hours and walked to get ice cream. And for the first time in my entire treatment process, I felt my feelings: the good, the uncomfortable, the downright gnarly. I felt like me, again. Like 4-year old Amelia, happily licking on an ice cream cone. Not consumed by fear. Not riddled by anxiety. Just present. BEING.
 

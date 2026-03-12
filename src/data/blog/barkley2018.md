@@ -21,7 +21,7 @@ So sit back, grab your MoonPie and RC Cola, and prepare for a novel (brevity has
 From the very moment I received my condolences and my heart rate returned to normal, the race loomed over everything I did for the next few months, an unspoken adventure to be had. I pivoted my training immediately after Sean O’Brien 100k, but that still gave me less than two months to take a crash course in everything Barkley, from map & compass courses to land nav skills to a focus on vert. An under the radar trip to Frozen Head in February made clear to me how different this terrain is than what I’m used to in California (NB: you can run on the trails, and ONLY the trails, so it’s of limited use, but I felt it was necessary to at least get a feel for the park, the layout, and some major landmarks)
 
 <figure id="attachment_727" class="wp-caption aligncenter" aria-describedby="caption-attachment-727" style="width: 225px">
-<a href="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/zT6VgEKHROmlZXERI54dw-e1522610105666.jpg"><img src="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/zT6VgEKHROmlZXERI54dw-e1522610105666-225x300.jpg" class="wp-image-727 size-medium" loading="lazy" decoding="async" srcset="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/zT6VgEKHROmlZXERI54dw-e1522610105666-225x300.jpg 225w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/zT6VgEKHROmlZXERI54dw-e1522610105666-768x1022.jpg 768w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/zT6VgEKHROmlZXERI54dw-e1522610105666-769x1024.jpg 769w" sizes="auto, (max-width: 225px) 100vw, 225px" width="225" height="300" /></a>
+<a href="/images/wp/2018/04/zT6VgEKHROmlZXERI54dw-e1522610105666.jpg"><img src="/images/wp/2018/04/zT6VgEKHROmlZXERI54dw-e1522610105666-225x300.jpg" class="wp-image-727 size-medium" loading="lazy" decoding="async" srcset="/images/wp/2018/04/zT6VgEKHROmlZXERI54dw-e1522610105666-225x300.jpg 225w, /images/wp/2018/04/zT6VgEKHROmlZXERI54dw-e1522610105666-768x1022.jpg 768w, /images/wp/2018/04/zT6VgEKHROmlZXERI54dw-e1522610105666-769x1024.jpg 769w" sizes="auto, (max-width: 225px) 100vw, 225px" width="225" height="300" /></a>
 <figcaption>lemme tell you – that first time you see the gate, ALL the nerves come out</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Not sure if she was kidding, but I wasn’t.
 Nerves were at an all-time high, but a strange thing happened on Friday when we checked in and got the directions and the map. I suddenly became focused and clear. I was in it, this was happening, and I was ready. While I barely slept in the back of my rental minivan the night before, I felt an odd peace rising the next morning. And when the conch blew at 8:33am, it was game time.
 
 <figure id="attachment_726" class="wp-caption aligncenter" aria-describedby="caption-attachment-726" style="width: 225px">
-<a href="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1153.jpg"><img src="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1153-225x300.jpg" class="wp-image-726 size-medium" loading="lazy" decoding="async" srcset="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1153-225x300.jpg 225w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1153-768x1024.jpg 768w" sizes="auto, (max-width: 225px) 100vw, 225px" width="225" height="300" /></a>
+<a href="/images/wp/2018/04/IMG_1153.jpg"><img src="/images/wp/2018/04/IMG_1153-225x300.jpg" class="wp-image-726 size-medium" loading="lazy" decoding="async" srcset="/images/wp/2018/04/IMG_1153-225x300.jpg 225w, /images/wp/2018/04/IMG_1153-768x1024.jpg 768w" sizes="auto, (max-width: 225px) 100vw, 225px" width="225" height="300" /></a>
 <figcaption>“Maybe if I just smile the nerves will go away”</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ You know condition are bad when you prefer to go through the saw briars than the
 I’ve been told that looking up at Rat Jaw is a super intimidating. Fortunately, the fog made it so I could only see about 20 feet in front of my face, so the intimidation was going to have to wait for another day. The one redeeming quality of Rat Jaw is it’s the one out and back place where you can pass by runners on the same loop. As we climbed and crawled our way up, figures started to emerge from the fog. Gary, Guillaume, Ally, Jamil – all flying down the mountain. Given the turnaround, by my estimates they were about 45 minutes ahead of us at that point, which, not going to lie, pretty much made me pee my pants with excitement. I knew that meant we were moving solidly, and on track for a 9ish hour loop. Visions of 5 loops danced in my head. And it was here I realized that I had been having a blast the entire time – true Type I fun, and I couldn’t wait to get that first loop in the books.
 
 <figure id="attachment_729" class="wp-caption aligncenter" aria-describedby="caption-attachment-729" style="width: 300px">
-<a href="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1158.jpg"><img src="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1158-300x225.jpg" class="wp-image-729 size-medium" loading="lazy" decoding="async" srcset="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1158-300x225.jpg 300w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1158-768x576.jpg 768w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1158-1024x768.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" width="300" height="225" /></a>
+<a href="/images/wp/2018/04/IMG_1158.jpg"><img src="/images/wp/2018/04/IMG_1158-300x225.jpg" class="wp-image-729 size-medium" loading="lazy" decoding="async" srcset="/images/wp/2018/04/IMG_1158-300x225.jpg 300w, /images/wp/2018/04/IMG_1158-768x576.jpg 768w, /images/wp/2018/04/IMG_1158-1024x768.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" width="300" height="225" /></a>
 <figcaption>Fancy Barkley aid station at Frozen Head tower.</figcaption>
 </figure>
 
@@ -77,9 +77,9 @@ John and I rolled up to the gate, finishing Loop 1 in 10:57, all smiles. “Fun 
 
 The following two videos are post-Loop 1,  handing Laz our pages (courtesy of <a href="https://irun4ultra.org" target="_blank" rel="noopener">Irun4ultra</a>)
 
-<http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/midlap-1-barkley.mp4>
+<a href="/images/wp/2018/04/midlap-1-barkley.mp4">Video: Mid-lap 1</a>
 
-<http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/post-loop-1-2-1.mp4>
+<a href="/images/wp/2018/04/post-loop-1-2-1.mp4">Video: Post-loop 1</a>
 
 “You’re probably not going to break 50, but you can still bust the course record”
 
@@ -118,7 +118,7 @@ That second loop wouldn’t count in the Barkley record books, but it counted in
 It didn’t feel like a DNF – it felt like a victory. A hard-fought victory, defeating the self-doubt demons I wrestled with leading up to the race. And there was no sadness when taps played (sorry I was a bit too giddy…), because in place of sadness, it was a newfound feeling of self-confidence. The fire was lit, and it was time to fan those flames.
 
 <figure id="attachment_732" class="wp-caption aligncenter" aria-describedby="caption-attachment-732" style="width: 300px">
-<a href="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1163.jpg"><img src="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1163-300x225.jpg" class="wp-image-732 size-medium" loading="lazy" decoding="async" srcset="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1163-300x225.jpg 300w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1163-768x576.jpg 768w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/IMG_1163-1024x768.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" width="300" height="225" /></a>
+<a href="/images/wp/2018/04/IMG_1163.jpg"><img src="/images/wp/2018/04/IMG_1163-300x225.jpg" class="wp-image-732 size-medium" loading="lazy" decoding="async" srcset="/images/wp/2018/04/IMG_1163-300x225.jpg 300w, /images/wp/2018/04/IMG_1163-768x576.jpg 768w, /images/wp/2018/04/IMG_1163-1024x768.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" width="300" height="225" /></a>
 <figcaption>The Fab 5 rolling in together</figcaption>
 </figure>
 
@@ -172,7 +172,7 @@ To my fellow 2018 competitors – so great to share adventures with you. To the 
 
 To the old timers sharing stories around the fire. To the fellow women of Barkley out there. To <a href="https://twitter.com/keithdunn" target="_blank" rel="noopener">Keith Dunn</a>, our fearless Tweeter (and lover of musical theatre!) And, of course, to Laz: that’s a fun course you’ve got out there.
 
-[<img src="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/fullsizeoutput_1da2-300x225.jpeg" class="size-medium wp-image-731 aligncenter" loading="lazy" decoding="async" srcset="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/fullsizeoutput_1da2-300x225.jpeg 300w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/fullsizeoutput_1da2-768x576.jpeg 768w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/fullsizeoutput_1da2-1024x768.jpeg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" width="300" height="225" />](http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/fullsizeoutput_1da2.jpeg)
+[<img src="/images/wp/2018/04/fullsizeoutput_1da2-300x225.jpeg" class="size-medium wp-image-731 aligncenter" loading="lazy" decoding="async" srcset="/images/wp/2018/04/fullsizeoutput_1da2-300x225.jpeg 300w, /images/wp/2018/04/fullsizeoutput_1da2-768x576.jpeg 768w, /images/wp/2018/04/fullsizeoutput_1da2-1024x768.jpeg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" width="300" height="225" />](/images/wp/2018/04/fullsizeoutput_1da2.jpeg)
 
 ———-
 
@@ -211,4 +211,4 @@ To the old timers sharing stories around the fire. To the fellow women of Barkle
 - I’ve heard Barkley naysayers chatter about how if a “top” ultrarunner showed up, one who was super fast, they’d just crush it. And that the reason that so few athletes finish is that because no “real” athletes show up. False. False. False. False. I do believe speed is necessary and helpful, but speed alone isn’t going to help you.
 - I swore that if I was in a bad patch, I was going to yell out “THIS IS FUCKING AWESOME” every few minutes. Luckily, I never needed to use it. Because it was awesome (ya can’t stop me from having fun, Laz)
 
-[<img src="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/vW7Zeg5oQZa8QsqXqee7GA-e1522670030415-300x225.jpg" class="alignnone size-medium wp-image-749" loading="lazy" decoding="async" srcset="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/vW7Zeg5oQZa8QsqXqee7GA-e1522670030415-300x225.jpg 300w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/vW7Zeg5oQZa8QsqXqee7GA-e1522670030415-768x576.jpg 768w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/vW7Zeg5oQZa8QsqXqee7GA-e1522670030415-1024x768.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" width="300" height="225" />](http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/vW7Zeg5oQZa8QsqXqee7GA-e1522670030415.jpg)
+[<img src="/images/wp/2018/04/vW7Zeg5oQZa8QsqXqee7GA-e1522670030415-300x225.jpg" class="alignnone size-medium wp-image-749" loading="lazy" decoding="async" srcset="/images/wp/2018/04/vW7Zeg5oQZa8QsqXqee7GA-e1522670030415-300x225.jpg 300w, /images/wp/2018/04/vW7Zeg5oQZa8QsqXqee7GA-e1522670030415-768x576.jpg 768w, /images/wp/2018/04/vW7Zeg5oQZa8QsqXqee7GA-e1522670030415-1024x768.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" width="300" height="225" />](/images/wp/2018/04/vW7Zeg5oQZa8QsqXqee7GA-e1522670030415.jpg)

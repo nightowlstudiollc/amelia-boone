@@ -24,7 +24,7 @@ I had found a new normal.
 
 But somewhere around week 4, frustration began to set in. I **SHOULD** be getting better, I said. And, I was. The random shooting pains when I took a misstep on crutches were no longer there, and the dull ache began to subside. While aquajogging and swimming did nothing for my heart rate, I found I could keep my heart rate up with the erg and AirDyne, and use the pool time to focus on therapeutic movement and people watching while I bobbed along in my (quite fashionable) Aquajogger. **Side note** : I’m not ashamed to admit it – I’ve come to sort of enjoy aqua jogging (errrr… “pool running”)
 
-[![IMG_1017](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/06/IMG_1017-e1464907796354-225x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/06/IMG_1017-e1464907796354.jpg)All the cool kids do it
+[![IMG_1017](/images/wp/2016/06/IMG_1017-e1464907796354-225x300.jpg)](/images/wp/2016/06/IMG_1017-e1464907796354.jpg)All the cool kids do it
 
 So when the doctor told me to transition off of crutches (he was frankly surprised I stuck with it all 4 weeks. #goodAmelia), I gladly accepted. Flung them aside like Crutchie from Newsies, and was ready to declare myself a healed woman. But I found that walking still wasn’t COMPLETELY pain free. I chalked it up to muscle imbalances and lack of use on my right side, thinking that it was muscular pain, and would eventually even out and return to normal. But the more days I walked on it, the more the familiar adductor tightness return, and pain returned in the evenings while sleeping, or during the day while sitting at work.
 
@@ -40,7 +40,7 @@ Eff.
 
 So, the original prognosis, my hopes of soon getting unleashed into the world of weight-bearing, bikes, and ellipticals (who would have thought I’d get excited about using an elliptical?!) have been dashed, and I’ve battened down the hatches for a much longer recovery than I anticipated.
 
-[![IMG_0968](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/06/IMG_0968-300x217.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/06/IMG_0968.jpg)When I was confident I'd be back in record time. Pew pew pew, say the crutches.
+[![IMG_0968](/images/wp/2016/06/IMG_0968-300x217.jpg)](/images/wp/2016/06/IMG_0968.jpg)When I was confident I'd be back in record time. Pew pew pew, say the crutches.
 
 No, I don’t know when I’ll be back to running. And racing. So please don’t ask.
 

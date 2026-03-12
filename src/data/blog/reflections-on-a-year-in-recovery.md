@@ -90,7 +90,7 @@ But what I’ve learned in the past year is how to live according to my _actual_
 Living according to those values drove my move to Colorado. Living according to those values drove my openness and eagerness to connect to other athletes in recovery. Living according to those values drove me to love fiercely, and recognize that the meaningful connection of a few is what fills my soul. 
 
 <figure class="aligncenter size-large">
-<img src="http://www.ameliabooneracing.com/blog/wp-content/uploads/2020/07/fullsizeoutput_3b88-768x1024.jpeg" class="wp-image-967" loading="lazy" decoding="async" srcset="http://www.ameliabooneracing.com/blog/wp-content/uploads/2020/07/fullsizeoutput_3b88-768x1024.jpeg 768w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2020/07/fullsizeoutput_3b88-225x300.jpeg 225w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2020/07/fullsizeoutput_3b88-1152x1536.jpeg 1152w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2020/07/fullsizeoutput_3b88-1536x2048.jpeg 1536w, http://www.ameliabooneracing.com/blog/wp-content/uploads/2020/07/fullsizeoutput_3b88-scaled.jpeg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" width="768" height="1024" />
+<img src="/images/wp/2020/07/fullsizeoutput_3b88-768x1024.jpeg" class="wp-image-967" loading="lazy" decoding="async" srcset="/images/wp/2020/07/fullsizeoutput_3b88-768x1024.jpeg 768w, /images/wp/2020/07/fullsizeoutput_3b88-225x300.jpeg 225w, /images/wp/2020/07/fullsizeoutput_3b88-1152x1536.jpeg 1152w, /images/wp/2020/07/fullsizeoutput_3b88-1536x2048.jpeg 1536w, /images/wp/2020/07/fullsizeoutput_3b88-scaled.jpeg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" width="768" height="1024" />
 <figcaption><em>New trail adventures!</em></figcaption>
 </figure>
 

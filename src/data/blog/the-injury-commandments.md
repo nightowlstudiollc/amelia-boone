@@ -24,13 +24,13 @@ Yet, like with all the writing I do, I always hope that my blunders, screw-ups a
 
 The minute an athlete receives a diagnosis from their doctor or physical therapist, the next question is always “ok, but what CAN I do?” (Bike? Swim? Aquajog? Errr…“deep water run”). It’s natural. We are endorphin junkies, and we are afraid of losing our fitness.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_1453-e1502922100888-225x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_1453-e1502922100888.jpg)Built in crutch-holders…safe Amelia, real safe
+[![](/images/wp/2017/08/IMG_1453-e1502922100888-225x300.jpg)](/images/wp/2017/08/IMG_1453-e1502922100888.jpg)Built in crutch-holders…safe Amelia, real safe
 
 I did it. I fractured my femur, and the next day, I was in the pool, swimming with a pull buoy between my legs for as long as my bored mind could take staring at the line on the pool floor through my tears. I started Assault-biking with one-leg and arms only and ski-erging sitting down (which I did for sometimes an hour-plus, every day). I did sets of pull-ups until failure and push-ups on one leg. I clung to fitness in every way possible. And it worked. When I came off of crutches from the femur, I was rearing to go: my fitness was there, but my muscles, tendons, and bones were not ready for the impact yet. And within 3 weeks, I was down again with a second stress fracture – this time in the sacrum.
 
 With the sacral stress fracture, I tried a different approach on the advice of [Mario Fraioli](https://mariofraioli.com), who was kind enough to speak to me about his experiences with multiple sacral stress fractures. Guess what he recommended?
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/FullSizeRender-20-240x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/FullSizeRender-20.jpg)My unpopular opinion: aqua jogging is BS.
+[![](/images/wp/2017/08/FullSizeRender-20-240x300.jpg)](/images/wp/2017/08/FullSizeRender-20.jpg)My unpopular opinion: aqua jogging is BS.
 
 No cross-training. Rest. Completely.
 
@@ -46,7 +46,7 @@ Two things, however, that I wish I had done but didn’t. First, keep up with yo
 
 This one is counterinituitive. When you go from 100 mile weeks to…nothing, the temptation as an athlete is to cut way back on intake because you are no longer putting in long training days. We all fear weight gain with injury. What I wish I had known, and what I wish I had realized, is that it’s greatly beneficial to actually gain a bit of fat and weight during injury. My coach, [David Roche](http://someworkallplay.blogspot.com), uses the term “get squishy” – not only can the extra food and weight help with healing, but it also helps reset adrenalines and hormones that are probably beaten down from months and years of hard training. Use injury as a reset.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_0501-300x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_0501.jpg)Stuff your face like you are mid-100k race
+[![](/images/wp/2017/08/IMG_0501-300x300.jpg)](/images/wp/2017/08/IMG_0501.jpg)Stuff your face like you are mid-100k race
 
 I did not do this. In fact, I actually lost weight during injury because of my inability to use my legs (and later, my upper body). I’ve always built muscle really quickly in my legs, and it came off just as quickly. With the sacral stress fracture, I had to stop lifting anything heavier than a box of Pop-Tarts, so my upper body atrophied as well. I should have welcomed some extra fat, but instead, I just…withered.
 
@@ -70,7 +70,7 @@ And then, a rest day…you’re kidding right?
 
 No, no I’m not. For the first few weeks, runs were 1-2 miles, every 3rd day, then every other day. Paces were no faster than a 9:30min/mile. As coach reminded me, we are not “running,” we are getting the body used to impact again. Getting used to pounding. Getting the muscles and tendons and bones to strengthen and respond.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_3469-300x169.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_3469.jpg)Mid pre-dawn 3 miler
+[![](/images/wp/2017/08/IMG_3469-300x169.jpg)](/images/wp/2017/08/IMG_3469.jpg)Mid pre-dawn 3 miler
 
 These runs weren't glamorous. There were no epic scenery shots, no mountain summits. Most were done pre-sunrises, around a 1/3mile dirt track, barely breaking a sweat. But I had to trust the process.
 
@@ -100,7 +100,7 @@ So I started running, and soon realized that simultaneously starting a (1) retur
 
 What would have been smarter? Start with strength. When I was cleared for impact, ideally I should have started with squats, deadlifts, and plyometrics – the basics of a strength program. (Side note: I ALWAYS did my PT exercises, but those have been mainly unweighted and, well…PT movements…). And after getting comfortable with those and rebuilding that strength, then focused on running and impact.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_2811-225x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_2811.jpg)PT is great, but I needed weight (both on my body and lifting)
+[![](/images/wp/2017/08/IMG_2811-225x300.jpg)](/images/wp/2017/08/IMG_2811.jpg)PT is great, but I needed weight (both on my body and lifting)
 
 6+ months out from the final negative MRI, I’m still struggling to find a balance between it all – I’m still well-aware that both my upper and lower body strength has not returned to pre-injury levels. Would it have come back quicker had I not jumped immediately into running? I can’t say for sure, but I think it would have been wiser.
 
@@ -116,7 +116,7 @@ Real talk: nope, that shit is real.
 
 I will sometimes be running and have a sudden flash of what I think is pain through the sacrum, and then it will disappear. Or through the femur as I’m going down a steep descent. Is it in my head, or is it real? Honestly, I don’t know. But if it’s momentary and then settles, then I feel ok going on. The fact that they both seem to flare up before races also indicates a lot is in the brain.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_0340-169x300.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_0340.jpg)Err on the side of rest
+[![](/images/wp/2017/08/IMG_0340-169x300.jpg)](/images/wp/2017/08/IMG_0340.jpg)Err on the side of rest
 
 So how have I worked through this? Honestly, not well, but the number one thing I’ve found that helps is to log EVERY niggle and ache and pain during training. And if a niggle continues on for more than a few runs, I adjust and address it (often in the form of taking an extra prophylactic rest day or two). You won’t lose fitness from a few extra days of rest or cross-training, but you can nip niggles _before_ they become nags _before_ they become “break yo’ effin’ bones.”
 
@@ -124,7 +124,7 @@ So how have I worked through this? Honestly, not well, but the number one thing 
 
 Rebuilding is going to be a maddeningly frustrating process of two steps forward, one step back (hell, sometimes it's one step forward, three steps back). And there's going to be a bunch of stop and starts. Since I was cleared to return to running ~8months ago, I've had at least 5 stints where I had to take anywhere from 3 days to 2 weeks off from running to address little injuries (fondly referred to as "niggles") that popped up along the way. Each time, I would be thrown back into a pit of despair that I was once again broken for the long-term, that I was going to perpetually be THAT "injured girl," and that what little fitness I had built was now wasting away.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_0451-300x225.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_0451.jpg)Some starts and stops with various foot freak outs and niggles
+[![](/images/wp/2017/08/IMG_0451-300x225.jpg)](/images/wp/2017/08/IMG_0451.jpg)Some starts and stops with various foot freak outs and niggles
 
 And it's even tougher to look around at social media and at other athletes and think "hell, they NEVER get injured" or "they never seem to miss a day" (aside from a planned rest day!)…ergo "WTF IS WRONG WITH ME." Whether or not it's true, I've chosen to tell myself that hey - EVERY athlete has to take a few days off here and there to "get things right." And in rebuilding, it's probably going to be even more than normal. There is no straight line - just a messy, twisted, muddled path that we are all trying to figure out. Just remember that (https://www.instagram.com/restdaybrags/) and short breaks are part of the plan, after all.
 
@@ -146,7 +146,7 @@ Because of the sacral stress fracture, I feared pulling any type of weights from
 
 And it’s not just the tire. I was scared of a bucket carry – of 60lbs of rocks up a mountain. How ironic is that? My very favorite obstacle, the one that I have become known for, was the one that has prevented me, along with said tire, from returning to run a Spartan Race.
 
-[![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_0318-300x261.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2017/08/IMG_0318.jpg)That bucket scared me. But each time, it gets easier.
+[![](/images/wp/2017/08/IMG_0318-300x261.jpg)](/images/wp/2017/08/IMG_0318.jpg)That bucket scared me. But each time, it gets easier.
 
 Or, let’s take the case of the femurs: one of the many contributing factors to my femur fracture was the amount of steep descents I was doing (in preparation for Western States, I told myself). So my coach (#SWAP4LYFE) and I have been limited my descending in these past few months because of the toll it takes on your bones and the impact forces it puts through your femur.
 
