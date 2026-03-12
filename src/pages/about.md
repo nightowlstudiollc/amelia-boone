@@ -16,3 +16,5 @@ She now writes _Race Ipsa Loquitur_ on Substack — personal essays on what it m
 **Currently:** Writing. Running. Figuring it out.
 
 **Find her writing:** [ameliaboone.substack.com](https://ameliaboone.substack.com)
+
+**Race history:** [Full results, 2011–2018](/race-schedule)
