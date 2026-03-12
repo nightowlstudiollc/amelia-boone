@@ -77,9 +77,9 @@ John and I rolled up to the gate, finishing Loop 1 in 10:57, all smiles. “Fun 
 
 The following two videos are post-Loop 1,  handing Laz our pages (courtesy of <a href="https://irun4ultra.org" target="_blank" rel="noopener">Irun4ultra</a>)
 
-<a href="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/midlap-1-barkley.mp4">Video: Mid-lap 1</a>
+<a href="/images/wp/2018/04/midlap-1-barkley.mp4">Video: Mid-lap 1</a>
 
-<a href="http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/04/post-loop-1-2-1.mp4">Video: Post-loop 1</a>
+<a href="/images/wp/2018/04/post-loop-1-2-1.mp4">Video: Post-loop 1</a>
 
 “You’re probably not going to break 50, but you can still bust the course record”
 
