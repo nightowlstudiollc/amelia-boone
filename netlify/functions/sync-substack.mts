@@ -112,7 +112,7 @@ function htmlToMarkdown(html: string): string {
     .replace(/<h3[^>]*>(.*?)<\/h3>/gi, "### $1\n\n")
     .replace(/<p[^>]*>(.*?)<\/p>/gis, "$1\n\n")
     .replace(/<strong[^>]*>(.*?)<\/strong>/gi, "**$1**")
-    .replace(/<em[^>]*>(.*?)<\/em>/gi, "*$1*")
+    .replace(/<em[^>]*>(.*?)<\/em>/gi, "_$1_")
     .replace(/<a[^>]*href="([^"]*)"[^>]*>(.*?)<\/a>/gi, "[$2]($1)")
     .replace(/<img[^>]*src="([^"]*)"[^>]*alt="([^"]*)"[^>]*\/?>/gi, "![$2]($1)")
     .replace(/<img[^>]*src="([^"]*)"[^>]*\/?>/gi, "![]($1)")
@@ -126,6 +126,7 @@ function htmlToMarkdown(html: string): string {
     .replace(/&#8230;/g, "…")
     .replace(/&#8220;/g, "\u201C")
     .replace(/&#8221;/g, "\u201D")
+    .replace(/[ \t]+$/gm, "")
     .replace(/\n{3,}/g, "\n\n")
     .trim();
 }
