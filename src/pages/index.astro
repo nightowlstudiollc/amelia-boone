@@ -10,7 +10,8 @@ import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 
 const posts = await getCollection("blog");
 const sortedPosts = getSortedPosts(posts);
-const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
+const recentPosts = sortedPosts.slice(0, 4);
+const highlightPosts = sortedPosts.filter(({ data }) => data.featured);
 ---
 
 <Layout>
@@ -59,18 +60,18 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
         </div>
       </div>
 
-      <!-- Featured posts — inside the hero so photo shows behind -->
+      <!-- Recent posts — inside the hero so photo shows behind -->
       {
-        featuredPosts.length > 0 && (
+        recentPosts.length > 0 && (
           <div
-            id="featured"
+            id="recent"
             class="relative z-10 ml-6 max-w-md rounded-t-2xl border border-white/10 bg-black/20 px-4 pt-8 pb-6 text-white/90 backdrop-blur-xl sm:ml-12"
           >
             <h2 class="text-2xl font-semibold tracking-wide text-white">
               Recent Writing
             </h2>
             <ul>
-              {featuredPosts.map(data => (
+              {recentPosts.map(data => (
                 <Card variant="h3" {...data} />
               ))}
             </ul>
@@ -84,6 +85,20 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
         )
       }
     </section>
+
+    <!-- Worth Reading / Highlights -->
+    {
+      highlightPosts.length > 0 && (
+        <section class="app-layout py-10">
+          <h2 class="mb-4 text-xl font-semibold">Worth Reading</h2>
+          <ul>
+            {highlightPosts.map(data => (
+              <Card {...data} />
+            ))}
+          </ul>
+        </section>
+      )
+    }
 
     <!-- Archive callout — below the hero, normal page background -->
     <section class="app-layout py-12">
