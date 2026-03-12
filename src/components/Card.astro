@@ -3,6 +3,7 @@ import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@/utils/slugify";
 import { getPath } from "@/utils/getPath";
 import Datetime from "./Datetime.astro";
+import IconSubstack from "@/assets/icons/IconSubstack.svg";
 
 type Props = {
   variant?: "h2" | "h3";
@@ -39,7 +40,8 @@ const sourceLabel =
     <Datetime {...props} />
     {
       sourceLabel && (
-        <span class="rounded border border-accent/30 px-1.5 py-0.5 text-xs font-medium text-accent/70">
+        <span class="flex items-center gap-1 rounded border border-accent/30 px-1.5 py-0.5 text-xs font-medium text-accent/70">
+          {source === "substack" && <IconSubstack class="size-3" />}
           {sourceLabel}
         </span>
       )
