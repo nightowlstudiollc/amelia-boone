@@ -26,7 +26,7 @@ I spent all of 2017 just being ecstatic to be back on a race course – fulfilli
 
 And how did I get there? As I wrote about, (http://www.ameliabooneracing.com/blog/ultramarathons/barkley2018/) was a crucial component of this. I failed miserably by anyone’s standards – a big, fat DNF. Yet I count it as one of my proudest race performances ever. I allowed myself to try. I gave myself permission to fail. And I learned that success and failure are only measured by how you define it, and I alone had the power to change those definitions.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/12/IMG_1163-1024x768.jpg)The most smiley failure
+![](/images/wp/2018/12/IMG_1163-1024x768.jpg)The most smiley failure
 
 It hasn’t been an overnight process, but I keep coming back to something my coach, [David Roche](https://swaprunning.com), wrote in my log: “Your best is never enough unless it’s always enough.” So I’ve taken to writing down the following reminders: _Winning isn’t success. Success isn’t winning. Failure isn’t losing. Losing isn’t failure. _
 
@@ -46,7 +46,7 @@ In September, my season unexpectedly grinded to a sudden halt. I had to face my 
 
 If I’m 100% honest with myself, I let the constant fear of re-injury the past two years cloud some of my joy running and racing. I have a nasty habit in many areas of my life of constantly, as I always put it, “waiting for the other shoe to drop.” I've spent so much energy resisting, and praying that I'd stay injury-free. I can do all the injury-prevention things in the world, as I’ve been doing (rest days, rehab exercises, strength work), but sometimes your number is still going to get called. Fretting over the \_anticipation \_of injury, however, is wasted energy. This isn't the first time, and it isn't the last, but I can choose to not fear it, and accept it as the inevitable process of riding the ridge.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/12/55970353341__AC735407-983F-400F-A04A-74516AA291CC-1-300x225.jpg)If I have to wear a boot, I will pass on the pants THANKYOUVERYMUCH
+![](/images/wp/2018/12/55970353341__AC735407-983F-400F-A04A-74516AA291CC-1-300x225.jpg)If I have to wear a boot, I will pass on the pants THANKYOUVERYMUCH
 
 Injury is part of being an athlete, and you can’t always predict them. Heck, you can’t always prevent them. And hell, even doctors sometimes miss them (it took 3 MRIs and a CT scan to figure out that we weren’t dealing with ligaments - I had completely snapped a metatarsal in half…I know, I can’t explain it either).
 
@@ -62,7 +62,7 @@ In complete honesty, this is really uncomfortable for me. In fact, a lot of the 
 
 And I’m not done yet. I’ve still got a big piece of letting go to do, and I’m looking forward to tackling that in 2019 (well, and let’s be honest – for the rest of my life). Because it’s not just handling the freefall when the rope has been cut, it’s working up the courage to voluntarily let go and trust that another one will appear.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2018/12/IMG_1271-300x300.jpg)Peace out 2018
+![](/images/wp/2018/12/IMG_1271-300x300.jpg)Peace out 2018
 
 No year-end reflections would be complete without acknowledging the support and sacrifice of those who keep me ever-working towards my goals: [HumanN](http://www.humann.com), [Ultimate Direction](https://ultimatedirection.com), [Rocktape](http://rocktape.com), [Sufferfest Beer](http://sufferfestbeer.com), Dr. Justin Brink of[ Premiere Spine & Sport](http://www.premierespineandsport.com) (seriously – can’t thank him enough for his outside-the-box thinking), [Goodr](https://goodr.com), [Big Spoon Roasters](https://bigspoonroasters.com), and Reebok. While my partnership with Reebok ended recently, I’m forever thankful to them for the last 5 years and taking a chance working with a 30-something attorney in the emerging sport of obstacle racing. But more importantly than any sponsor (sorry, I know y’all pay the bills and shit), I’m thankful for the ever-constant love of my family and friends. I think I’ve taken for granted those close to me for so long, and I spent a lot of 2018 committed to nurturing those relationships – when we look back at all of this, those are the ones that matter.
 

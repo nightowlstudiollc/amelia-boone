@@ -12,7 +12,7 @@ featured: false
 ---
 
 At my grandma's 90th birthday party following the Pacific Northwest Spartan Sprint, I found myself  
-in a conversation with a family friend, who I hadn't seen in years, trying to explain the race I had just run that morning. Granted, I'm not known for being able to express coherently when speaking (yes yes, and I'm an attorney…bla bla bla), but I found myself saying things like this:[![1268103_166267906897843_1342804676_o](http://ameliabooneracing.info/wp-content/uploads/2015/07/1268103_166267906897843_1342804676_o-300x220.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1268103_166267906897843_1342804676_o.jpg)
+in a conversation with a family friend, who I hadn't seen in years, trying to explain the race I had just run that morning. Granted, I'm not known for being able to express coherently when speaking (yes yes, and I'm an attorney…bla bla bla), but I found myself saying things like this:[![1268103_166267906897843_1342804676_o](/images/wp/2015/07/1268103_166267906897843_1342804676_o-300x220.jpg)](/images/wp/2015/07/1268103_166267906897843_1342804676_o.jpg)
 
 "So it's a trail race, typically pretty hilly, and you have a few dozen obstacles on the way - climbing over walls, crawling under barb wire, dragging tires, etc."
 
@@ -36,13 +36,13 @@ In a conversation that I had the other day with an athlete in an established spo
 
 **Well-run races.** Like every other (what could become a) fad, obstacle racing has started to hit a saturation point. Open up your Facebook, and the ads for the ever-multiplying obstacle races fill the sidebar and suggested posts. And with the proliferation of these races beyond the original trifecta of Tough Mudder, Spartan Race, and Warrior Dash, there are bound to be failures (which have already been publicized). People see a business opportunity and jump in, promising big things and failing to deliver. And with every half-ass, shitty obstacle race (whether that be as a result of lame obstacles or struggling to get paid purse money) that people attend, we face a setback in the appearance of legitimacy.
 
-[![Favorite obstacle. Ever.](http://ameliabooneracing.info/wp-content/uploads/2015/07/1185871_10200951744048385_1160293211_n-300x201.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1185871_10200951744048385_1160293211_n.jpg)Favorite obstacle. Ever.
+[![Favorite obstacle. Ever.](/images/wp/2015/07/1185871_10200951744048385_1160293211_n-300x201.jpg)](/images/wp/2015/07/1185871_10200951744048385_1160293211_n.jpg)Favorite obstacle. Ever.
 
 So it was with apprehension that I accepted the gracious invite to attend the inaugural Mud, Guts and Glory outside of Cincinnati the other weekend. And, to my relief and great delight, I was blown away by what they had accomplished there (see race reviews from my fellow athletes Jeff Cain, Muddy Mommy, Dan Krueger, Relentless Forward Commotion), and the heart and dedication they had put into creating a legitimate race. Not to mention they had one of the hardest obstacles I've ever encountered - a delightfully long and super steep monkey bars/salmon ladder/ cage. Talk about grip strength.
 
 Look, I fully admit I'm a "glass half-empty" kind of girl in life. I kept waiting for the "fad" to pass. I was probably one of the last athletes to adopt the term "sport" for obstacle racing, and I still think the talk of it being an Olympic sport is not only misguided (who says being an Olympic sport is the pinnacle of legitimacy? Have we failed to realize that sports like baseball and softball are no longer in the Olympics?), but years away. But small changes over this past year have given me hope. And as obstacle racing gains more publicity - be it Dhani Jones doing an episode for Playbook 360 or NBC Sports televising the upcoming Spartan Championships in Killington - we continue to take baby steps in that direction.
 
-[![Fun having](http://ameliabooneracing.info/wp-content/uploads/2015/07/1077369_10101950735532208_641724160_o-300x200.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1077369_10101950735532208_641724160_o.jpg)Fun having
+[![Fun having](/images/wp/2015/07/1077369_10101950735532208_641724160_o-300x200.jpg)](/images/wp/2015/07/1077369_10101950735532208_641724160_o.jpg)Fun having
 
 In the end, I'm going to keep doing what I love - going out there, racing, kicking ass, and smiling the whole way through. And I'll  
 do that for as long as obstacle racing sticks around, which I'm completely confident it will. Being out there on the trails and obstacles is where I'm the happiest, and that's independent of whether we obtain widespread recognition and legitimacy. We may just get there. I sure as hell think we can do a lot better that steeplechase. Glass half-full.

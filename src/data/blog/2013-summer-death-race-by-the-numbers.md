@@ -11,7 +11,7 @@ draft: false
 featured: false
 ---
 
-[![Wood chopped: less than usual](http://ameliabooneracing.info/wp-content/uploads/2015/07/1044440_10201124180214217_672631471_n-300x200.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1044440_10201124180214217_672631471_n.jpg)Wood chopped: less than usual
+[![Wood chopped: less than usual](/images/wp/2015/07/1044440_10201124180214217_672631471_n-300x200.jpg)](/images/wp/2015/07/1044440_10201124180214217_672631471_n.jpg)Wood chopped: less than usual
 
 Participants registered: 390  
 Participants that started the race: 206  
@@ -30,7 +30,7 @@ Miles swam: 2
 Legal advice given out re: avoiding a speeding ticket: 1  
 Coconut waters consumed: 3 (I'm smart here, people)
 
-[![Not this kid again](http://ameliabooneracing.info/wp-content/uploads/2015/07/1010512_589397087758887_926957057_n-300x200.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1010512_589397087758887_926957057_n.jpg)Not this kid again
+[![Not this kid again](/images/wp/2015/07/1010512_589397087758887_926957057_n-300x200.jpg)](/images/wp/2015/07/1010512_589397087758887_926957057_n.jpg)Not this kid again
 
 Hours spent with Sedlak: too many  
 Buckets of gravel carried: 11  
@@ -51,7 +51,7 @@ Bottles of eyewash used: 2
 Saplings felled: 8  
 Webbing straps that broke: 5
 
-[![Rocks carried over Bloodroot: 1](http://ameliabooneracing.info/wp-content/uploads/2015/07/1039497_10200712980161773_1524398746_o-200x300.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1039497_10200712980161773_1524398746_o.jpg)Rocks carried over Bloodroot: 1
+[![Rocks carried over Bloodroot: 1](/images/wp/2015/07/1039497_10200712980161773_1524398746_o-200x300.jpg)](/images/wp/2015/07/1039497_10200712980161773_1524398746_o.jpg)Rocks carried over Bloodroot: 1
 
 Ax covers lost: 1  
 General Store sandwiches consumed: 3  
@@ -69,7 +69,7 @@ Mosquito bites counted: 37
 Number of those in my scalp: 14  
 Naps took in the bikram studio hammock post-race: 1
 
-[![Naps taken postrace and before I started drafting a motion: 1](http://ameliabooneracing.info/wp-content/uploads/2015/07/photo-225x300.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/photo.jpg)Naps taken postrace and before I started drafting a motion: 1
+[![Naps taken postrace and before I started drafting a motion: 1](/images/wp/2015/07/photo-225x300.jpg)](/images/wp/2015/07/photo.jpg)Naps taken postrace and before I started drafting a motion: 1
 
 Times uttered "I'm never coming back": ad infinitum  
 Death Race finishes: 3

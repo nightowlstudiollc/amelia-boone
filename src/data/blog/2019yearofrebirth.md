@@ -34,7 +34,7 @@ Over Christmas last year, I was in Palm Springs for a gathering of my extended f
 
 Through the midst of one teary fit, I told my parents and sister that something had to give. And I remember spending the time between Christmas and New Year’s calling multiple eating disorder treatment facilities. I reread my [2018 year-end reflections](http://www.ameliabooneracing.com/blog/uncategorized/2018-the-year-of-letting-go/) the other day, and to my surprise:
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/12/Screen-Shot-2019-12-25-at-6.47.27-PM-1024x655.png)_From my year end blog post last year_
+![](/images/wp/2019/12/Screen-Shot-2019-12-25-at-6.47.27-PM-1024x655.png)_From my year end blog post last year_
 
 Honestly, I was in a such a low state at the end of 2018, I don’t even remember foreshadowing all of this. But I had already set the wheels in motions, and I knew what needed to be done. So perhaps by throwing that cryptic message in there, I was fortifying myself for the leap of faith that was required to make a change.
 
@@ -64,7 +64,7 @@ I continue to use curiosity on a daily basis to journal about difficult feelings
 
 I went into Bigs Backyard this year only putting in 30-40 miles per week. I went into World’s Toughest Mudder not having touched an obstacle course for over a year. I ran a trail championship 10k having done ZERO speed work and knowing my leg speed was nowhere near that of the other women. And while there was a lot of ego swallowing involved in all of those, each experience was incredibly meaningful, independent of the results. I needed Bigs to start rebuilding confidence in my body. I needed World’s Toughest Mudder to come home to a family I missed so dearly. I didn’t **need or want** results from those races. I needed and wanted feelings. A few years ago, I would never go into a race knowing that I wasn’t there to compete for the win. I’d never go into a race knowing that I was likely going to pull the plug at some point. I’m still not quite sure it sits right with me, but it was fascinating to me to see what comes up in those moments and those situations.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/10/IMG_1494-1024x821.jpg)After calling my race at Bigs. Clearly crushing it
+![](/images/wp/2019/10/IMG_1494-1024x821.jpg)After calling my race at Bigs. Clearly crushing it
 
 And the most fascinating part? Aside from a few days of some minor regrets about Bigs, DNF’ing caused me very little anguish. In fact, the 12 hours after I stopped at WTM were probably the most fulfilling 12 hours of my year: helping others, giving hugs, hanging out in the pit.
 

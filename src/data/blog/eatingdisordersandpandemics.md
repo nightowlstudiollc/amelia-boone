@@ -42,7 +42,7 @@ I’m trying to view this time as a period for growth. In treatment, we learned 
 
 Long periods of injury in my past have forced me to uncouple my eating disorder from my activity levels, but I’m well-aware it’s not always as simple as that. I will fully admit that when the gyms and pools closed, I started getting a bit anxious. For a while now, I’ve been super low running mileage with a hefty dose of cross-training that required gyms and pool access. I didn’t know how exactly I was going to train now as my options dwindled. I’ve found some fun in getting creative, and I’ve been spending a lot of time outside going for leisurely walks/hikes (alone!) instead of my swim routine.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2020/03/HA7X0x7pR2nhERgXr2vA-768x1024.jpg)_Easy time on feet walking/hiking, and decompressing_
+![](/images/wp/2020/03/HA7X0x7pR2nhERgXr2vA-768x1024.jpg)_Easy time on feet walking/hiking, and decompressing_
 
 If lack of options is stressing you out, again, ask why? Do you feel like you don’t deserve to eat if you aren’t moving? Why is that? Is exercise actually a crutch to enable you to eat? Are you able to feed yourself appropriately regardless of your level of movement?
 
@@ -60,7 +60,7 @@ And if you are eating chocolate cake for breakfast and Fritos for dinner because
 
 Eating disorders thrive in silence and secret. One of the first thing we learn in recovery is to “out” yourself. One of the things I’ve found the most helpful in mine is eating with other people as much as possible to provide accountability. That all kinda hits the fan when we are told we can’t eat with others, can’t go to restaurants, can’t BE with people.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2020/03/IMG_3138-576x1024.png)_We can 't run around in the mud together. But we can cheersies together!_
+![](/images/wp/2020/03/IMG_3138-576x1024.png)_We can 't run around in the mud together. But we can cheersies together!_
 
 Luckily, technology is amazing. I highly recommend FaceTime meals with other people as an option. Find a buddy (or 10!) who is willing to support. If you do have another person in your household, talk to them. Ask for accountability. Ask to eat together as much as possible.
 
@@ -72,7 +72,7 @@ A global pandemic kinda shat on my vision of what this would look like: I imagin
 
 That’s all on pause right now, and I realize I’ve felt a lot of grief around that. I worry that my desire to connect and build community will wane as we wait out shelter-in-place. I worry that the stress of a global pandemic will affect my relationships (because, let’s be honest, we are all coping in strange ways that aren’t necessarily how we would cope or act in other times).
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2020/03/RkXYohQCR9Wp9TP6OU4ww-768x1024.jpg)_New home trails_
+![](/images/wp/2020/03/RkXYohQCR9Wp9TP6OU4ww-768x1024.jpg)_New home trails_
 
 So, once again, I’m trying to reframe this: this pandemic is actually a grand adventure. It’s uncharted territory. It enables us to be creative, to really evaluate what is important and what matters in life. It forces us to come to terms with our own mortality and what we want from life. And it’s going to make a WHOLE lot of what we have always taken for granted very precious to us.
 

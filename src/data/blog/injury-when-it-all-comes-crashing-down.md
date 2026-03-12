@@ -18,7 +18,7 @@ Unfortunately, it always seems like life has other plans for you. Maybe a remind
 
 This email arrived in my inbox yesterday morning. Two days ago, it would have been opened with excitement, cheer, a bit of nervousness, but smiles. But yesterday, I glanced at the subject line and broke down in tears.
 
-![IMG_0914-1](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/04/IMG_0914-1-169x300.png)
+![IMG_0914-1](/images/wp/2016/04/IMG_0914-1-169x300.png)
 
 You see, I won't be running Western States this year. I won't be running my trails at Rancho tomorrow morning. I won't be running the first NBC Spartan Race next weekend in Montana.
 
@@ -36,7 +36,7 @@ I get it - I get it - a wee bit melodramatic, Amelia. After all, "it's just a ra
 
 But, perhaps worse than the feeling of loss was the overwhelming feeling of guilt. Overuse injuries are tricky buggers, because you feel like you have no one to blame but yourself. For someone who sits there and constantly preaches "prehab! strengthening! balance!" to then someone manage to CRACK THE STRONGEST BONE IN HER BODY swept me up in feelings of shame and embarrassment. I SWORE I had done everything right - I got a coach, and we carefully monitored and slowly increased my mileage. I kept up with my rehab, with my strengthening, with my soft tissue work. A recent DEXAscan revealed normal bone density, and I've never had stress fracture issues before (to preempt the peanut gallery screaming at me to "take my calcium!!"). I took rest days. I ran easy most of the time. Honestly, I was feeling the most pain free I'd felt in a long time. Life was great, training was fantastic, and I was getting ready to rock and roll (using the oh-so-coveted and fantastic hashtag #seeyouinsquaw)
 
-[![IMG_0855](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/04/IMG_0855-300x200.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/04/IMG_0855.jpg)All the happiness. Running pain free, less than 2 weeks ago.
+[![IMG_0855](/images/wp/2016/04/IMG_0855-300x200.jpg)](/images/wp/2016/04/IMG_0855.jpg)All the happiness. Running pain free, less than 2 weeks ago.
 
 But after 48 hours of a wine, sobbing, and ice cream-induced haze, I cut myself off. Allowed grieving period was over, and now it's time to pick myself up, and time to move on. I can't undo the fracture in my femur, but I can decide how I'm going to view it. Because I realize that injury is, unfortunately, the risk we take as athletes - the collateral damage that comes from pushing the boundaries, from attempting to walk on the edge of greatness. We push ourselves hard - our minds and our bodies - and sometimes even all of the best laid training plans can't stop the freak things from happening. It's the cumulative results of years of wear and tear, and sometimes, a sign that it's time to stop and rebuild.
 

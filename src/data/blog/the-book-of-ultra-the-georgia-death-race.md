@@ -9,7 +9,7 @@ tags:
 draft: false
 ---
 
-Obstacle racing has been fantastic. [<img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/image31-300x225.jpg" class="size-medium wp-image-135 alignright" loading="lazy" decoding="async" width="300" height="225" alt="image3(1)" />](http://ameliabooneracing.info/wp-content/uploads/2015/07/image31.jpg)
+Obstacle racing has been fantastic. [<img src="/images/wp/2015/07/image31-300x225.jpg" class="size-medium wp-image-135 alignright" loading="lazy" decoding="async" width="300" height="225" alt="image3(1)" />](/images/wp/2015/07/image31.jpg)
 
 But last fall (fresh off of knee surgery), I was looking for something different. A new challenge, a new venture. Having made a brief foray into competitive CrossFit at Regionals last year, I realized that lifting heavy things for just a few minutes at a time probably wasn’t my wheelhouse. So when I sat down to think about what I love the MOST about OCR, I realized it’s running up and down mountains (or the Death Race, where all I wanted to do was hike up and down Bloodroot endlessly).
 
@@ -18,7 +18,7 @@ So why not try something where I’m doing just that? Let’s write a new chapte
 PREFACE
 
 <figure id="attachment_133" class="wp-caption alignright" aria-describedby="caption-attachment-133" style="width: 184px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/image1.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/image1-225x300.jpg" class="wp-image-133" loading="lazy" decoding="async" width="184" height="245" alt="Race start at Amicalola Falls. Up the steps. I like steps. " /></a>
+<a href="/images/wp/2015/07/image1.jpg"><img src="/images/wp/2015/07/image1-225x300.jpg" class="wp-image-133" loading="lazy" decoding="async" width="184" height="245" alt="Race start at Amicalola Falls. Up the steps. I like steps. " /></a>
 <figcaption>Race start at Amicalola Falls. Up the steps. I like steps.</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Enter the Georgia Death Race. 68 miles, 40,000 feet of elevation change. And an 
 And then it was about…the first of January when I realize “holy shit – I’m actually going to have to put in some miles.” This was promptly followed by, “holy shit, it’s 3 degrees outside.” Fail \#1: not having the foresight to realize that, when signing up for an ultra in mid-march, you are going to have to put in 25 mile runs in the single or negative digits. ThankyouverymuchChicago.
 
 <figure id="attachment_146" class="wp-caption alignright" aria-describedby="caption-attachment-146" style="width: 196px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/IMG_4186.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/IMG_4186-300x225.jpg" class="wp-image-146" loading="lazy" decoding="async" width="196" height="147" alt="It&#39;s much worse than it looks" /></a>
+<a href="/images/wp/2015/07/IMG_4186.jpg"><img src="/images/wp/2015/07/IMG_4186-300x225.jpg" class="wp-image-146" loading="lazy" decoding="async" width="196" height="147" alt="It&#39;s much worse than it looks" /></a>
 <figcaption>It’s much worse than it looks</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Let us begin.
 Part I: Cruisin’ (Miles 1-37)
 
 <figure id="attachment_153" class="wp-caption alignright" aria-describedby="caption-attachment-153" style="width: 245px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/IMG_7925.jpeg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/IMG_7925-300x225.jpeg" class="wp-image-153" loading="lazy" decoding="async" width="245" height="184" alt="Contemplating my toenails that would later go missing" /></a>
+<a href="/images/wp/2015/07/IMG_7925.jpeg"><img src="/images/wp/2015/07/IMG_7925-300x225.jpeg" class="wp-image-153" loading="lazy" decoding="async" width="245" height="184" alt="Contemplating my toenails that would later go missing" /></a>
 <figcaption>Contemplating my toenails that would later go missing</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Somewhere after the first drop bag stop at Mile 30, I started to notice my ribs 
 better.
 
 <figure id="attachment_147" class="wp-caption alignright" aria-describedby="caption-attachment-147" style="width: 191px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/IMG_4190.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/IMG_4190-225x300.jpg" class="wp-image-147" loading="lazy" decoding="async" width="191" height="255" alt="I&#39;m smiling. My insides are not." /></a>
+<a href="/images/wp/2015/07/IMG_4190.jpg"><img src="/images/wp/2015/07/IMG_4190-225x300.jpg" class="wp-image-147" loading="lazy" decoding="async" width="191" height="255" alt="I&#39;m smiling. My insides are not." /></a>
 <figcaption>I’m smiling. My insides are not.</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ By then, night was falling. And the rain picked up, and the fog was still there.
 Rolling into the finish line, just before midnight, I praised our sweet baby Jesus that I had made it through. While I lost well over an hour with…issues…it didn’t matter anymore. Because for even those awful, painful 10-15 miles, every second was love. And seeing Kandy, who had finished two hours before me, still sitting there at the finish line, waiting for me to come through? I knew I had found a sport like none other.
 
 <figure id="attachment_134" class="wp-caption alignright" aria-describedby="caption-attachment-134" style="width: 239px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/image21.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/image21-239x300.jpg" class="size-medium wp-image-134" loading="lazy" decoding="async" width="239" height="300" alt="At the finish with Kandy. I&#39;m muddy because I fell. A lot. " /></a>
+<a href="/images/wp/2015/07/image21.jpg"><img src="/images/wp/2015/07/image21-239x300.jpg" class="size-medium wp-image-134" loading="lazy" decoding="async" width="239" height="300" alt="At the finish with Kandy. I&#39;m muddy because I fell. A lot. " /></a>
 <figcaption>At the finish with Kandy. I’m muddy because I fell. A lot.</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Namely, sigh, maaaaybe I can’t fuel for ultras like I do for World’s Toughes
 And two…the diaphragm/rib issues were likely caused by a clinched-too-tight hydration pack. I’ve had a rub that is prone to subluxation in the past, and combining the breathing, jarring downhills, pack tightness, and later, nonstop dry heaving, I displaced that rib real good. Count me as one of the only people to sustain an upper body injury at a running race.
 
 <figure id="attachment_142" class="wp-caption alignright" aria-describedby="caption-attachment-142" style="width: 300px">
-<a href="http://ameliabooneracing.info/wp-content/uploads/2015/07/IMG_2979.jpg"><img src="http://ameliabooneracing.info/wp-content/uploads/2015/07/IMG_2979-300x225.jpg" class="size-medium wp-image-142" loading="lazy" decoding="async" width="300" height="225" alt="Why yes - I did just complete your fitness test. " /></a>
+<a href="/images/wp/2015/07/IMG_2979.jpg"><img src="/images/wp/2015/07/IMG_2979-300x225.jpg" class="size-medium wp-image-142" loading="lazy" decoding="async" width="300" height="225" alt="Why yes - I did just complete your fitness test. " /></a>
 <figcaption>Why yes – I did just complete your fitness test.</figcaption>
 </figure>
 

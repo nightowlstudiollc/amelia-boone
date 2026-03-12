@@ -20,7 +20,7 @@ As someone who has been fortunately injury-free for a long time, it's been devas
 
 About a month ago, I pulled out of the Omaha Spartan Sprint 10 minutes before the Elite heats started after being seized by hip pain and debilitating sciatica. Since then, it's been a month-long endeavor in pinpointing the cause and battling ever-present nerve pain. All signs point to some combination of pelvic misalignment, SI joint, and piriformis issues (back is cool, ohthankyouJesus). Some days I wake up fine, other days every step sends shooting pains down my legs into my feet (and the leg choice seems to rotate). X-rays, MRIs, ART, countless physical therapy sessions later, I'm making steady progress thanks to a combination of incredibly boring, seemingly wussy strengthening exercises and enduring torturous weekly sessions of my hips and legs being abused by dry needles. In fact, I was pretty confident about my WTM prospects until I suffered a flare up this past weekend, and I'm back to nowhere close to 100%. I've managed a few 2 or 3 mile runs, only to be stopped short by seizing pain or a completely numb leg. On the bright side, I'm learning how better "not to drown." (hot damn, swimming is HARD. And boring. I have utmost respect for all you swimmers out there).
 
-[![I'm blaming the article title for jinxing me](http://ameliabooneracing.info/wp-content/uploads/2015/07/1400351_226378927525558_739818251_o-300x300.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1400351_226378927525558_739818251_o.jpg)I'm blaming the article title for jinxing me
+[![I'm blaming the article title for jinxing me](/images/wp/2015/07/1400351_226378927525558_739818251_o-300x300.jpg)](/images/wp/2015/07/1400351_226378927525558_739818251_o.jpg)I'm blaming the article title for jinxing me
 
 Oh, the irony: the so-called "Queen of Pain" is now in immense pain. Amelia Boone is now crippled from the simple act of sitting at her desk for 10 hours a day or walking 2 miles to work.
 
@@ -32,7 +32,7 @@ So what do I do? All signs point to "sit out." Aside from the fact that I could 
 
 I wish I could just go out to WTM, run a few laps for "fun," and be fine with that. But as someone reminded me the other day, I don't have that luxury, because "people expect me to win." In other words, "if I'm not going out to win, it's not worth going out at all."
 
-[![2011: the days when it was all "fun" (oh, blissful naivete)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1457077_538595206227001_558633841_n-200x300.jpg)](http://ameliabooneracing.info/wp-content/uploads/2015/07/1457077_538595206227001_558633841_n.jpg)2011: the days when it was all "fun"  
+[![2011: the days when it was all "fun" (oh, blissful naivete)](/images/wp/2015/07/1457077_538595206227001_558633841_n-200x300.jpg)](/images/wp/2015/07/1457077_538595206227001_558633841_n.jpg)2011: the days when it was all "fun"  
 (oh, blissful naivete)
 
 HOLD UP - it's not? With that comment, it really hit me: this is not what I signed up for when I got into this a few years ago. What happened to to obstacle racing being a stress release for me? Of being a hobby, a pastime, a fun outlet? I suppose that all went out the window when I started winning. Somewhere along the way, amidst sponsorship offers, magazine articles, and documentaries, I lost myself. (or, to quote Macklemore - "lost the compass where self is").

@@ -42,13 +42,13 @@ In theory, there are two ways in which you can reach your limits in Bigs that wo
 
 But while all this loomed in the back of my mind, my first and foremost goal was to be present and enjoy the race. And as we took off on our first loop around Laz and Sandra’s (beautiful!) backyard, I recognized that wasn’t going to be that hard to do: the trail was beautiful, and the company was stellar. Coupled with the joy of just being out in the arena, the hours flew by.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/10/IMG_1421.jpg)Guilluame probably thinking "why is this silly girl running right now?" PC: IRun4Ultra
+![](/images/wp/2019/10/IMG_1421.jpg)Guilluame probably thinking "why is this silly girl running right now?" PC: IRun4Ultra
 
 Night fell, and we switched to the road out-and-back. Admittedly, I dreaded this part: I do probably 1% of my training on road, and rarely ever wear road running shoes. To my surprise, I actually found myself enjoying the road more than the trail. Perhaps it was because I had more room to stride out and run at my own pace, perhaps it was throwing in headphones and dancing to the greatest hits of the Backstreet Boys and Britney Spears, or perhaps it was some fantastic conversations (especially a great loop with my SWAP teammates Don and Liz!), but I loved the road. And as the night wore on, I realized I was getting nearer and nearer to a huge goal of mine for the race: complete my first 100 miler (and another unintended goal – I technically almost completed my first road marathon in the process!).
 
 In chatting with folks, I learned I was the only runner who had never run a hundred miler (which does make me question why Laz let me in in the first place…). The accolades of my fellow runners were ridiculously impressive, and I was honored to run amongst them. But the coolest part is how excited they were for me when I finally hit that 100 mile mark on the last road loop. Maggie, Liz, and a few others ran ahead to even make a finishing tunnel for me in the middle of the race. In case you are wondering, THAT’S the type of amazing folk Laz gets in his backyard.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/10/IMG_7234-768x1024.jpg)Me telling Laz I hit my first 100 miler. His response: "now go run another 100" 🙂 (PC: Jenn Coker)
+![](/images/wp/2019/10/IMG_7234-768x1024.jpg)Me telling Laz I hit my first 100 miler. His response: "now go run another 100" 🙂 (PC: Jenn Coker)
 
 However, it wasn’t all rainbows and unicorns. Started about mile 30, my feet started going to shit. It honestly surprised me because I’ve never had foot care issues before – I’m pretty meticulous about proper socks, lubrication, etc. But for whatever reason – perhaps it was the humidity, perhaps it was some rookie mistakes on my part, or perhaps it was the fact that my feet just haven’t toughened up enough – they became a nightmare. We triaged the blisters, and they honestly weren’t too painful, but the thing that proved to be my downfall was an odd heat rash that started enveloping my feet. The bottoms of my feet started to feel like I was running on hot pokers.
 
@@ -68,11 +68,11 @@ She’s right. In fact, I’d argue that the harder thing for me in this race is
 
 So that text was EXACTLY what I needed to get my head unstuck and focus on perhaps the most fulfilling part of the adventure: the next 33 hours of cheering on and supporting other runners, especially my incredible friend Maggie Guterl (who I have to thank, like so many others do, for being the one who encouraged me to run this race in the first place). In case you’ve been living under a rock and haven’t heard, she won like the fucking boss she is.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/10/6m0KSOWlQ8CwF2IHOvSNQ-e1572223600278-768x1024.jpg)Have we talked about how amazing this woman is? And no, I'm not just talking about her sunglasses
+![](/images/wp/2019/10/6m0KSOWlQ8CwF2IHOvSNQ-e1572223600278-768x1024.jpg)Have we talked about how amazing this woman is? And no, I'm not just talking about her sunglasses
 
 I’m aware I can’t find the words to adequately express the magic that happens in the Cantrell backyard: the camaraderie, the stories, the testament to the human spirit. The fact that you have racers who run 100, 150, 200 miles and then, after stopping, jump into crew and help out without second thought. It’s the most delightful non-race race I’ve ever been a part of. And as a crew of us gathered on Tuesday morning to help clean up and break down everything in the Backyard, I came to realize I never wanted it to end.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/10/IMG_1457-1-768x1024.jpg)Laz and Big holding court the next day after we cleaned everything up. Such a highlight.
+![](/images/wp/2019/10/IMG_1457-1-768x1024.jpg)Laz and Big holding court the next day after we cleaned everything up. Such a highlight.
 
 So thank you, Laz, for giving me a chance. And thank you Sandra for being the glue that clearly holds everything together (we love you!). And to good Mike and bad Mike and Bill and all the other Backyarders, you are the best. And CLEARLY to the best crew ever, Jenn Coker and Gina Fioroni.
 
@@ -88,7 +88,7 @@ So, my biggest learnings/takeaways:
 
 - as much as I hated it, a caffeine taper works. Used caffeine for the first time at around hour 18 (in the form of Run Gum, which I tried for the first time since I wasn’t sure how my gut would react to liquid caffeine sources), and man, I was FLYING. So going to do the caffeine taper for any longer race from now on.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/10/IMG_7228-1024x768.jpg)Bread and butter and a game of "mobility tool or sex toy" PC: Jenn Coker
+![](/images/wp/2019/10/IMG_7228-1024x768.jpg)Bread and butter and a game of "mobility tool or sex toy" PC: Jenn Coker
 
 People have asked: “will you return?” If given the chance, absolutely. I’m not positive if it’s a race format in which I will ever excel, but that’s probably the reason I’d keep coming back. It’s a chance for mastery, and a chance for learning. And it gives me a year to shore up my body and actually be in a position to where I'm confident I can hang for 250+ miles. I have faith in my ability to do it, and I look forward to the challenge. And that challenge has always been what fuels me.
 

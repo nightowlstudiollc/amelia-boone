@@ -19,7 +19,7 @@ So why did it feel so horrible? And why did it bother me throughout the race, an
 
 Because "chicking" shouldn't be a big deal.
 
-[![374989_10151349184811861_2037082691_n](http://www.ameliabooneracing.com/blog/wp-content/uploads/2013/05/374989_10151349184811861_2037082691_n-300x200.jpg)](http://www.ameliabooneracing.com/blog/wp-content/uploads/2013/05/374989_10151349184811861_2037082691_n.jpg)
+[![374989_10151349184811861_2037082691_n](/images/wp/2013/05/374989_10151349184811861_2037082691_n-300x200.jpg)](/images/wp/2013/05/374989_10151349184811861_2037082691_n.jpg)
 
 I don't know the origin of the term "chicked," but if you are in any type of runners circle, the term gets thrown around. It's the idea of a woman passing a man, beating a man. It was created, I believe, as a term of empowerment, and I think serves that purpose well - you can see this in groups like the ever-expanding "Spartan Chicked," which is an incredible forum for female obstacle racers to provide advice, tips, encouragement, and support for each other.
 

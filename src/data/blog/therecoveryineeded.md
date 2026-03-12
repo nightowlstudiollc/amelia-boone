@@ -20,13 +20,13 @@ So in April, I took a leave of absence from work and headed to Seattle, where I�
 
 I resisted more intensive treatment for so long because this isn’t my first rodeo – I was first diagnosed with anorexia nervosa at the age of 16. It started with a month-long hospitalization over Thanksgiving and Christmas in 1999 and spanned the rest of high school and college, with stints in various levels of treatment including a stay in a residential facility immediately post-college.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/07/fullsizeoutput_2f3e-656x1024.jpeg)I spent Thanksgiving and Christmas in the hospital when I was 16. 99% of the time I was on bedrest, so being wheeled to see Santa was actually an occasion worth smiling for.
+![](/images/wp/2019/07/fullsizeoutput_2f3e-656x1024.jpeg)I spent Thanksgiving and Christmas in the hospital when I was 16. 99% of the time I was on bedrest, so being wheeled to see Santa was actually an occasion worth smiling for.
 
 As a result of being in and out of treatment and being very visibly physically ill, I spent the vast majority of my youth as “the sick girl.” It’s a chapter in my life I haven’t talked about publicly, because it was an identity I was eager to shed. After my stay in residential treatment post-college, the disorder seemed to quiet. Finding myself in a solid state of recovery, I promised myself I’d move on. So I stopped talking about it. I went to law school, became an attorney, and buried the disorder in my past.
 
 When I started racing and gaining attention for my athletic accomplishments, I didn’t talk about it during interviews. I didn’t mention it during my rise to dominance in obstacle racing. I didn’t tell interviewers who asked me about my athletic background that the reason I didn’t play sports in college was because I was too sick and weak to even walk up stairs, let alone play sports. I didn’t mention that my friends and family spent those years worried if I’d wake up in the morning. I didn’t want to “dwell in the past,” I told myself. In my mind, it was a chapter of my life that had passed, and one that maaaaaaybe I would speak about when the time was “right,” but I could never figure out when that would be. I was racing strong, running strong, feeling strong, and, in my mind, I no longer identified with the disorder.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2016/02/IMG_0482.jpg)2015\. I remember this finish line photo - I had just won the Spartan National Series and should have been thrilled and proud. But a comment from a dude about my "weird body" led me to pick apart my body for hours and actually de-tag myself from this photo.
+![](/images/wp/2016/02/IMG_0482.jpg)2015\. I remember this finish line photo - I had just won the Spartan National Series and should have been thrilled and proud. But a comment from a dude about my "weird body" led me to pick apart my body for hours and actually de-tag myself from this photo.
 
 The reality is while I no longer defined my world around my eating disorder identity, for all of those years, I hadn’t let go of it fully. I hung on to disordered thoughts and eating habits. The only difference now was that I had sport to fixate on instead. And I was at the top of the obstacle racing world. I was a “normal" BMI, I was muscular, and I was winning every race, so it was easy to minimize my disordered relationship with food. It was easy to compartmentalize the thoughts and say “hush, I’ll deal with you later,” or to think that there actually wasn’t a problem because I was performing so well. It was ok to have a different diet or eating patterns because “I was an athlete.” It was ok to compare my body to other female athletes on the start line and to covet their abs, because that’s just “what women do.” It was acceptable to dehydrate myself and starve myself before cover shoots was part of the gig. As long as I was competing and winning, “just managing” with food didn’t seem like that big of deal. I was getting away with it. So clearly, there was no problem.
 
@@ -48,7 +48,7 @@ I knew these things.
 
 And at times, I thought I was succeeding in changing things.
 
-![](http://www.ameliabooneracing.com/blog/wp-content/uploads/2019/07/fullsizeoutput_2b01-1024x1024.jpeg)A few days before the calcaneal stress fracture and hitting bottom. Pop-Tarts couldn't save me here.
+![](/images/wp/2019/07/fullsizeoutput_2b01-1024x1024.jpeg)A few days before the calcaneal stress fracture and hitting bottom. Pop-Tarts couldn't save me here.
 
 But with the (http://www.ameliabooneracing.com/blog/uncategorized/dont-fight-the-water/) two weeks before Barkley this year, I hit bottom. With sport taken from me, I looked around at all the things that had propped up my “management” of the eating disorder, and realized my disorder was all I had left.
 

@@ -1,0 +1,7 @@
+
+Done. Downloaded: 311, Skipped (cached): 0, Files rewritten: 39
+
+Note: The "Downloaded: 0" in the second run reflects that all 311 images were already
+on disk from a prior session run. The script correctly skipped re-downloading them.
+Final state: 311 images in public/images/wp/, 39 markdown files rewritten.
+Failed: none.
