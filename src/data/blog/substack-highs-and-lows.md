@@ -62,14 +62,14 @@ Several hours later I sat in the bottom of the 1950&#8217;s shower tub at our Ai
 
 Thanks for reading Race Ipsa Loquitur! Subscribe for free to read the ramblings in my head.
 
-[1](#footnote-anchor-1)I still don&#8217;t know the correct label here for myself, and perhaps it doesn&#8217;t matter. Since I wrote about this several years ago, I&#8217;ve had a lot more clarity - more to come in a separate post.
+<a id=”footnote-1”></a>1. I still don&#8217;t know the correct label here for myself, and perhaps it doesn&#8217;t matter. Since I wrote about this several years ago, I&#8217;ve had a lot more clarity - more to come in a separate post.
 
-[2](#footnote-anchor-2)I realize this is a rather shallow heading, and perhaps it should be more like “I corrected a minor slip/relapse with my eating.” Your weight does necessarily correlate with how badly you are struggling, and eating disorders are about so much more than weight. However, I do think weight _is_ important and relevant when it comes to sport, especially in a sport like running when you are subject to impact forces, so to completely gloss over it is doing a disservice to us all. Sometimes, to run healthy, you need to gain weight.
+<a id=”footnote-2”></a>2. I realize this is a rather shallow heading, and perhaps it should be more like “I corrected a minor slip/relapse with my eating.” Your weight does necessarily correlate with how badly you are struggling, and eating disorders are about so much more than weight. However, I do think weight _is_ important and relevant when it comes to sport, especially in a sport like running when you are subject to impact forces, so to completely gloss over it is doing a disservice to us all. Sometimes, to run healthy, you need to gain weight.
 
-[3](#footnote-anchor-3)I will always caveat that yes I do acknowledge that objectively this is the case. That being said, regardless of the size of your body, a person who has struggled with an eating disorder is going to have _feelings_ about gaining weight. Those are valid, but there&#8217;s a lot of nuance in how you talk about it. I believe this acknowledgement is extremely important in personal storytelling and how you thread the needle here.
+<a id=”footnote-3”></a>3. I will always caveat that yes I do acknowledge that objectively this is the case. That being said, regardless of the size of your body, a person who has struggled with an eating disorder is going to have _feelings_ about gaining weight. Those are valid, but there&#8217;s a lot of nuance in how you talk about it. I believe this acknowledgement is extremely important in personal storytelling and how you thread the needle here.
 
-[4](#footnote-anchor-4)Fueling solely with Spring Energy Awesomesauce also really didn&#8217;t help me here. Fuck that company and what they did to so many athletes everywhere.
+<a id=”footnote-4”></a>4. Fueling solely with Spring Energy Awesomesauce also really didn&#8217;t help me here. Fuck that company and what they did to so many athletes everywhere.
 
-[5](#footnote-anchor-5)It&#8217;s funny - in my 25+ years of dealing with this, I have never intentionally tried to lose weight. I would subconsciously restrict out of the fear of gaining weight, but the goal has never been to lose it. The problem is, when it happens, then digging myself out of that hole becomes the issue.
+<a id=”footnote-5”></a>5. It&#8217;s funny - in my 25+ years of dealing with this, I have never intentionally tried to lose weight. I would subconsciously restrict out of the fear of gaining weight, but the goal has never been to lose it. The problem is, when it happens, then digging myself out of that hole becomes the issue.
 
-[6](#footnote-anchor-6)I could try and be more eloquent, but legitimately sometimes those are the best words to describe it.
+<a id=”footnote-6”></a>6. I could try and be more eloquent, but legitimately sometimes those are the best words to describe it.

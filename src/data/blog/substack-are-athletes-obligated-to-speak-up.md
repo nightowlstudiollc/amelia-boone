@@ -59,8 +59,8 @@ For those of you who are speaking out, thank you. I appreciate it, and I know ma
 
 Thanks for reading Race Ipsa Loquitur. Subscribe for free to read the thoughts that tumble around in my head.
 
-[1](#footnote-anchor-1)I&#8217;d like to say “murdered” for both of these given eyewitness accounts, the facts we know, and what the videos show. It looks like murder to me, but the lawyer in me always hesitates to use that label until determined by a court of law. Sadly we will probably never see these perpetrators face the criminal justice system.
+<a id=”footnote-1”></a>1. I&#8217;d like to say “murdered” for both of these given eyewitness accounts, the facts we know, and what the videos show. It looks like murder to me, but the lawyer in me always hesitates to use that label until determined by a court of law. Sadly we will probably never see these perpetrators face the criminal justice system.
 
-[2](#footnote-anchor-2)I put this in quotes because at this point I feel like it&#8217;s no longer politics - it&#8217;s fundamental human rights violations that are happening here in the US.
+<a id=”footnote-2”></a>2. I put this in quotes because at this point I feel like it&#8217;s no longer politics - it&#8217;s fundamental human rights violations that are happening here in the US.
 
-[3](#footnote-anchor-3)of course, I also encourage as a supplement to social media, action in real life. Know your representatives and senators - call them urging them to vote a certain way on issues. Volunteer in your community. Donate money to organizations mobilizing on a larger scale. Attend a local protest. VOTE.
+<a id=”footnote-3”></a>3. of course, I also encourage as a supplement to social media, action in real life. Know your representatives and senators - call them urging them to vote a certain way on issues. Volunteer in your community. Donate money to organizations mobilizing on a larger scale. Attend a local protest. VOTE.

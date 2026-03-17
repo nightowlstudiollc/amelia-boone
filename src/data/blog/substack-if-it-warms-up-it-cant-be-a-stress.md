@@ -86,4 +86,4 @@ May your bones be strong and your stress fracture resume never be as long as min
 
 Thanks for reading Race Ipsa Loquitur! I promise all post won&#8217;t be this depressing.
 
-[1](#footnote-anchor-1)fwiw, I know this isn&#8217;t a good thing. After this most recent one, I&#8217;m making some substantial adjustments in how I&#8217;m approaching training now than I&#8217;m 40+ and realize I can&#8217;t keep doing the stress fracture thing. Stay tuned for more on that!
+<a id="footnote-1"></a>1. fwiw, I know this isn&#8217;t a good thing. After this most recent one, I&#8217;m making some substantial adjustments in how I&#8217;m approaching training now than I&#8217;m 40+ and realize I can&#8217;t keep doing the stress fracture thing. Stay tuned for more on that!

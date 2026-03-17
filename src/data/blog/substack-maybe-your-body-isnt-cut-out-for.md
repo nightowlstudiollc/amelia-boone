@@ -62,8 +62,8 @@ One day I&#8217;ll get there. Today is not that day.
 
 Thanks for reading Race Ipsa Loquitur! Subscribe for free to read the thoughts that tumbling around in my head
 
-[1](#footnote-anchor-1)My one saving grace has been throwing myself into climbing, but my progress there is limited by (1) working around my knee with certain movements, and (2) not being able to take falls due to the risk I slam my knee into the wall. It&#8217;s lovely and I can&#8217;t wait to see where climbing takes me, and I also miss running.
+<a id="footnote-1"></a>1. My one saving grace has been throwing myself into climbing, but my progress there is limited by (1) working around my knee with certain movements, and (2) not being able to take falls due to the risk I slam my knee into the wall. It&#8217;s lovely and I can&#8217;t wait to see where climbing takes me, and I also miss running.
 
-[2](#footnote-anchor-2)I&#8217;m including screenshots here intentionally so as to not mischaracterize the interaction.
+<a id="footnote-2"></a>2. I&#8217;m including screenshots here intentionally so as to not mischaracterize the interaction.
 
-[3](#footnote-anchor-3) Sure, don&#8217;t go run a 100 miler (or a marathon for that matter!) coming off the couch, but there has to be a middle way.
+<a id="footnote-3"></a>3. Sure, don&#8217;t go run a 100 miler (or a marathon for that matter!) coming off the couch, but there has to be a middle way.
