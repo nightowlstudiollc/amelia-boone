@@ -58,7 +58,7 @@ featured: false                      # only true for ~4-5 top posts total
 
 **Substack images**: Hotlinked from `substackcdn.com` — do NOT download. 18 image references across Substack posts, all on `substackcdn.com`. URLs are stable as long as her Substack account is active. Decision logged 2026-03-11.
 
-**Footnotes**: Substack posts use two styles — `[N](#footnote-N)` anchor links (render as clickable) and plain `[N]` text (render as literal text, readable). Both are acceptable. No further action needed as of 2026-03-11.
+**Footnotes**: In-body footnote references use `[N](#footnote-N)` and scroll to `<a id="footnote-N">` anchors at the top of each footnote in the footnote section. The sync function normalizes Substack's footnote back-links (`[N](#footnote-anchor-N)`) into `<a id="footnote-N"></a>N. Text` format automatically. Fixed in 6 archived posts as of 2026-03-16.
 
 ## Page Structure
 
