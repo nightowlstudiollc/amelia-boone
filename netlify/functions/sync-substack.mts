@@ -126,8 +126,14 @@ function htmlToMarkdown(html: string): string {
     .replace(/&#8230;/g, "…")
     .replace(/&#8220;/g, "\u201C")
     .replace(/&#8221;/g, "\u201D")
-    // Fix footnote content lines: [N](#footnote-anchor-N) → <a id="footnote-N"> so body links resolve
-    .replace(/^\[(\d+)\]\(#footnote-anchor-\d*\) */gm, '<a id="footnote-$1"></a>$1. ')
+    // Fix footnote content: [N](#footnote-anchor-N) → block-level anchor matching
+    // the working format used by manually-imported posts. Must be on its own line
+    // (surrounded by blank lines) so Prettier treats it as block HTML and preserves
+    // the double-quoted id attribute without converting to typographic quotes.
+    .replace(
+      /^\[(\d+)\]\(#footnote-anchor-(\d+)\) */gm,
+      '<a href="#footnote-anchor-$2" id="footnote-$1" class="footnote-number">$1</a>\n\n'
+    )
     .replace(/[ \t]+$/gm, "")
     .replace(/\n{3,}/g, "\n\n")
     .trim();

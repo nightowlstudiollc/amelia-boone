@@ -20,9 +20,9 @@ And influencers are posting run outfit selfies.
 
 So the question that&#8217;s been on my mind (and one that has percolated for years, especially since 2020): _if you have an active social media platform, especially a large one, what do you do with that during these times?_
 
-A preliminary matter: if you have a social media account, you have “a platform”, regardless if you have 3 followers or 3 million. But I&#8217;m going to focus here on people who have sizable following and people who tend to update/post regularly, especially about their daily lives beyond a particular niche. I consider myself one of these.
+A preliminary matter: if you have a social media account, you have "a platform", regardless if you have 3 followers or 3 million. But I&#8217;m going to focus here on people who have sizable following and people who tend to update/post regularly, especially about their daily lives beyond a particular niche. I consider myself one of these.
 
-First of all, I do, at a fundamental level, understand why some people, especially athletes, may want to keep “politics”[2](#footnote-2) off their social media platforms. Athlete sponsorships these days are driven by social media engagement and number of followers, not just race results. Speaking out on politics, current events, and human rights issues “outside of your lane” can (and often will!) result in loss of followers, which can hurt sponsorship opportunities. Further, athletes may be worried about their personal views negatively affecting their current sponsorships or future sponsorship opportunities.
+First of all, I do, at a fundamental level, understand why some people, especially athletes, may want to keep "politics"[2](#footnote-2) off their social media platforms. Athlete sponsorships these days are driven by social media engagement and number of followers, not just race results. Speaking out on politics, current events, and human rights issues "outside of your lane" can (and often will!) result in loss of followers, which can hurt sponsorship opportunities. Further, athletes may be worried about their personal views negatively affecting their current sponsorships or future sponsorship opportunities.
 
 While it may seem silly to admit that you have a fear of losing followers, I actually don&#8217;t think it is. It&#8217;s the unfortunate state of our online lives that number of followers can equal influence and power and clout. Regardless of how you feel about it, these things can come in handy at some point. For myself, I know that if one day I write my book I&#8217;ve talked a bunch about but never actually started, having a larger platform would be useful in that regard.
 
@@ -40,11 +40,11 @@ Here&#8217;s where I land:
 
 (2) If you don&#8217;t want to use your platform for these matters, then taking a break from your regular posting is also respectful and prudent depending on what is happening in current events. Even amplifying or reposting other accounts if you can&#8217;t or don&#8217;t want to find your own words is a small step.
 
-(3) If you speak up, accept that you will lose followers - this is the collateral damage. I am personally willing to accept that damage, but I also know I speak from a place of an aging athlete, without sponsors, not looking to get any sponsors, and my account has already been losing followers for years because I just don&#8217;t use it as much anymore (or…I&#8217;m not racing as much, or I&#8217;m an aging woman, or any myriad of reasons). So I recognize it&#8217;s easy for me to say “meh burn it all down”. The calculus for each person might be different. While I might not agree with that, I can understand it.
+(3) If you speak up, accept that you will lose followers - this is the collateral damage. I am personally willing to accept that damage, but I also know I speak from a place of an aging athlete, without sponsors, not looking to get any sponsors, and my account has already been losing followers for years because I just don&#8217;t use it as much anymore (or…I&#8217;m not racing as much, or I&#8217;m an aging woman, or any myriad of reasons). So I recognize it&#8217;s easy for me to say "meh burn it all down". The calculus for each person might be different. While I might not agree with that, I can understand it.
 
 (4) Posting on social media isn&#8217;t useless: it encourages other people to also speak up, to provide solidarity, and gives others courage to do the same. I know I feel buoyed by seeing other people post. And while you might not change anyone&#8217;s mind, if you stay silent and say nothing, then you _definitely_ aren&#8217;t changing anyone&#8217;s mind.
 
-(5) It is extremely privileged to say “I don&#8217;t do politics” or “I prefer to avoid it for my own mental health.” Look, I would 100% prefer the same thing - I think a lot of us would. Our country depends on people caring right now, on not looking away. So I see social media as a chance to do something, anything, at a time where it&#8217;s easy to feel so powerless.[3](#footnote-3) And we are not just talking fiscal policy here - it&#8217;s our human and constitutional rights that are now at stake.
+(5) It is extremely privileged to say "I don&#8217;t do politics" or "I prefer to avoid it for my own mental health." Look, I would 100% prefer the same thing - I think a lot of us would. Our country depends on people caring right now, on not looking away. So I see social media as a chance to do something, anything, at a time where it&#8217;s easy to feel so powerless.[3](#footnote-3) And we are not just talking fiscal policy here - it&#8217;s our human and constitutional rights that are now at stake.
 
 So I&#8217;m talking and will keep talking. And my one hope is that everyone takes a look at their own online presence and critically looks at what is important to them as well. Social media is fickle and fleeting. Living in a world where we retain our democracy and our fundamental human rights? That outweighs all.
 
@@ -59,8 +59,14 @@ For those of you who are speaking out, thank you. I appreciate it, and I know ma
 
 Thanks for reading Race Ipsa Loquitur. Subscribe for free to read the thoughts that tumble around in my head.
 
-<a id=”footnote-1”></a>1. I&#8217;d like to say “murdered” for both of these given eyewitness accounts, the facts we know, and what the videos show. It looks like murder to me, but the lawyer in me always hesitates to use that label until determined by a court of law. Sadly we will probably never see these perpetrators face the criminal justice system.
+<a href="#footnote-anchor-1" id="footnote-1" class="footnote-number">1</a>
 
-<a id=”footnote-2”></a>2. I put this in quotes because at this point I feel like it&#8217;s no longer politics - it&#8217;s fundamental human rights violations that are happening here in the US.
+I&#8217;d like to say "murdered" for both of these given eyewitness accounts, the facts we know, and what the videos show. It looks like murder to me, but the lawyer in me always hesitates to use that label until determined by a court of law. Sadly we will probably never see these perpetrators face the criminal justice system.
 
-<a id=”footnote-3”></a>3. of course, I also encourage as a supplement to social media, action in real life. Know your representatives and senators - call them urging them to vote a certain way on issues. Volunteer in your community. Donate money to organizations mobilizing on a larger scale. Attend a local protest. VOTE.
+<a href="#footnote-anchor-2" id="footnote-2" class="footnote-number">2</a>
+
+I put this in quotes because at this point I feel like it&#8217;s no longer politics - it&#8217;s fundamental human rights violations that are happening here in the US.
+
+<a href="#footnote-anchor-3" id="footnote-3" class="footnote-number">3</a>
+
+of course, I also encourage as a supplement to social media, action in real life. Know your representatives and senators - call them urging them to vote a certain way on issues. Volunteer in your community. Donate money to organizations mobilizing on a larger scale. Attend a local protest. VOTE.
