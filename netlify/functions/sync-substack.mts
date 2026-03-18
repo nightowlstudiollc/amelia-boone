@@ -25,10 +25,27 @@ export default async function handler() {
     throw new Error(`Expected directory listing for ${CONTENT_PATH}, got unexpected response type`);
   }
 
-  const existingSlugs = new Set(
-    existingFiles
-      .filter((f) => f.name.startsWith("substack-"))
-      .map((f) => f.name.replace(".md", ""))
+  const substackFiles = existingFiles.filter((f) => f.name.startsWith("substack-"));
+
+  const existingSlugs = new Set(substackFiles.map((f) => f.name.replace(".md", "")));
+
+  // Build a set of originalUrls already in the repo by reading file contents.
+  // Keying on URL (not filename) means manually-imported files with title-based
+  // slugs are correctly recognised as duplicates of their auto-synced counterparts.
+  const importedUrls = new Set<string>();
+  await Promise.all(
+    substackFiles.map(async (f) => {
+      const { data } = await octokit.repos.getContent({
+        owner: REPO_OWNER,
+        repo: REPO_NAME,
+        path: `${CONTENT_PATH}/${f.name}`,
+      });
+      if ("content" in data && typeof data.content === "string") {
+        const text = Buffer.from(data.content, "base64").toString("utf-8");
+        const match = text.match(/^originalUrl:\s*"([^"]+)"/m);
+        if (match) importedUrls.add(match[1]);
+      }
+    })
   );
 
   let synced = 0;
@@ -37,14 +54,7 @@ export default async function handler() {
     if (!urlSlug) continue;
 
     const filename = `substack-${urlSlug}`;
-    // Skip if exact match exists, or if a manually-imported file with a longer
-    // title-based slug already covers this URL (e.g. "substack-highs-and-lows"
-    // should not be created when "substack-highs-and-lows-the-importance-of-hilo"
-    // already exists for the same post).
-    const alreadyImported = [...existingSlugs].some(
-      s => s === filename || s.startsWith(filename + "-")
-    );
-    if (alreadyImported) continue;
+    if (existingSlugs.has(filename) || importedUrls.has(item.link ?? "")) continue;
 
     const fullContent =
       (item as Record<string, string>)["content:encoded"] ??
