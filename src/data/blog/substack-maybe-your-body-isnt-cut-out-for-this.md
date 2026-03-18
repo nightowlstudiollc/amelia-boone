@@ -6,7 +6,7 @@ source: substack
 originalUrl: "https://ameliaboone.substack.com/p/maybe-your-body-isnt-cut-out-for"
 tags:
   - essays
-draft: false
+draft: true
 featured: false
 ---
 
