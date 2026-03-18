@@ -6,7 +6,7 @@ source: substack
 originalUrl: "https://ameliaboone.substack.com/p/if-it-warms-up-it-cant-be-a-stress"
 tags:
   - essays
-draft: false
+draft: true
 ---
 
 I sat in the orthopedist’s office and rattled off my list of stress fractures: “tibia, femur, sacrum, second metatarsal, calcaneus (three times…), femoral neck.”

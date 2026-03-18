@@ -1,6 +1,3 @@
-// TODO (Andrew): Set GITHUB_TOKEN in Netlify environment variables.
-// Netlify UI > amelia-boone-archive > Site configuration > Environment variables
-
 import type { Config } from "@netlify/functions";
 import Parser from "rss-parser";
 import { Octokit } from "@octokit/rest";
@@ -40,7 +37,14 @@ export default async function handler() {
     if (!urlSlug) continue;
 
     const filename = `substack-${urlSlug}`;
-    if (existingSlugs.has(filename)) continue;
+    // Skip if exact match exists, or if a manually-imported file with a longer
+    // title-based slug already covers this URL (e.g. "substack-highs-and-lows"
+    // should not be created when "substack-highs-and-lows-the-importance-of-hilo"
+    // already exists for the same post).
+    const alreadyImported = [...existingSlugs].some(
+      s => s === filename || s.startsWith(filename + "-")
+    );
+    if (alreadyImported) continue;
 
     const fullContent =
       (item as Record<string, string>)["content:encoded"] ??
