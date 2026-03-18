@@ -6,7 +6,7 @@ source: substack
 originalUrl: "https://ameliaboone.substack.com/p/highs-and-lows"
 tags:
   - essays
-draft: false
+draft: true
 ---
 
 As I rolled through Raspberry 2 aid station, my pacer Cortney asked if it was starting to feel real. I checked my watch, which read 93 miles. “Nah,” I responded, “still too much can go wrong.”
