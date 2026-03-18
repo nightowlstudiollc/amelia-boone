@@ -6,7 +6,7 @@ This page exists as a draft and is ready to go when you have sponsorships or pro
 
 ## What It's For
 
-A dedicated page — titled "Things I Love" — listing gear, food, supplements, or other products you actually use and believe in. Affiliate links or sponsor disclosures can go here instead of cluttering your posts.
+A dedicated page — titled "Things I Love" — listing gear, food, supplements, or other products you actually use and believe in.
 
 ---
 
