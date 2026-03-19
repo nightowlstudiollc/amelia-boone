@@ -7,3 +7,4 @@ dist/
 !.env.example
 .ralph/
 public/pagefind/
+.astro/
