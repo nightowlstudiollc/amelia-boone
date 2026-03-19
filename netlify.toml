@@ -30,6 +30,16 @@
   status = 301
 
 [[redirects]]
+  from = "/blog/"
+  to = "/posts"
+  status = 301
+
+[[redirects]]
+  from = "/blog"
+  to = "/posts"
+  status = 301
+
+[[redirects]]
   from = "/blog/:category/:slug"
   to = "/posts/:slug"
   status = 301
