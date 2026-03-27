@@ -4,12 +4,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Demo site for Amelia Boone (prospective client of Night Owl Studio, LLC). She is an obstacle racing champion / ultrarunner with two separate content sources:
+Site for Amelia Boone (client of Night Owl Studio, LLC). She is an obstacle racing champion / ultrarunner with two separate content sources:
 
 - **WordPress blog** at `ameliabooneracing.com/blog/` — 73 posts (2011–2023), no longer actively updated. Full archive imported.
 - **Substack** at `ameliaboone.substack.com` — newer personal essays (2023–present), ~20 posts
 
-This site consolidates both into a single unified blog, with Substack as the ongoing source. **This is a sales demo**, not a finished product.
+This site consolidates both into a single unified blog, with Substack as the ongoing source.
 
 **Preview URL**: `https://amelia-boone-archive.netlify.app/`
 **GitHub**: `https://github.com/nightowlstudiollc/amelia-boone`
