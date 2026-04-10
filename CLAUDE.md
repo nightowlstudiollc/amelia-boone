@@ -30,14 +30,14 @@ pnpm install            # Install dependencies
 pnpm run dev            # Start dev server at localhost:4321
 pnpm run build          # Build to ./dist/ (astro check → astro build → pagefind → cp index to public/)
 pnpm run preview        # Preview production build locally
-pnpm run format:check   # Check Prettier formatting (CI enforces this)
+pnpm run format:check   # Check Prettier formatting (local pre-commit hook enforces this)
 pnpm exec prettier --write <file>  # Fix formatting for a specific file
-pnpm run lint           # Run ESLint
+pnpm run lint           # Run ESLint (CI enforces this)
 ```
 
 **No test framework** is configured (no Vitest, Jest, etc.). Verification is: `pnpm run build` (type checks + builds) and `pnpm run format:check`.
 
-**Before committing**: Always run `pnpm exec prettier --write <file>` on changed files and verify with `pnpm run format:check` — CI enforces Prettier on all files including blog markdown. Run `pnpm run build` locally before pushing to catch build errors early.
+**Before committing**: The global `prettier` pre-commit hook (`~/.config/pre-commit/config.yaml`) auto-runs `npx prettier --write` on staged JS/TS/JSON/CSS files, so formatting is enforced locally on every commit — CI no longer runs `format:check` (the local hook is the source of truth). Run `pnpm run build` locally before pushing to catch build errors early.
 
 ## Content Architecture
 
