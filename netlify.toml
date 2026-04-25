@@ -43,3 +43,4 @@
   from = "/blog/:category/:slug"
   to = "/posts/:slug"
   status = 301
+# ssl-kick 20260425-004029
