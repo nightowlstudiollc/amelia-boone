@@ -4,7 +4,7 @@
 
 Personal blog for Amelia Boone — obstacle racing champion, ultrarunner, attorney, and writer.
 
-Live at [amelia-boone-archive.netlify.app](https://amelia-boone-archive.netlify.app) (preview; final domain TBD).
+Live at https://ameliabooneracing.com/.
 
 ## How to edit the site
 
