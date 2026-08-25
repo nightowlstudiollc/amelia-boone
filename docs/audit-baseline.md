@@ -25,6 +25,12 @@ Last reviewed: 2026-08-25 (Node 24, astro 5.18.2)
 Every entry below is blocked on a major upgrade tracked in **#54**. If that
 issue is closed and entries remain here, one of the two is out of date.
 
+For whether that upgrade is worth doing, and when, see
+[astro-upgrade-analysis.md](astro-upgrade-analysis.md). Short version: 8 of
+the 9 astro advisories need a feature this site does not use, so the case is
+about staying on a supported line rather than risk. The `sharp` entry is
+separable and already tested.
+
 ### Blocked on the astro 5 -> 7 major upgrade
 
 `package.json` declares `astro ^5.16.6`. Every advisory below is patched only
