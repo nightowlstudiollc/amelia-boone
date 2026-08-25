@@ -11,7 +11,7 @@ Site for Amelia Boone (client of Night Owl Studio, LLC). She is an obstacle raci
 
 This site consolidates both into a single unified blog, with Substack as the ongoing source.
 
-**Preview URL**: `https://amelia-boone-archive.netlify.app/`
+**Site**: `https://ameliabooneracing.com/`
 **GitHub**: `https://github.com/nightowlstudiollc/amelia-boone`
 **Hosting**: Netlify project `amelia-boone-archive` — auto-deploys on push to main
 

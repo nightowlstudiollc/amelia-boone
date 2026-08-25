@@ -1,0 +1,75 @@
+name: Verify Deploy Preview
+
+# Acceptance checks against the deploy Netlify actually published. The build
+# job in ci.yml inspects dist/ on the runner and cannot see the adapter, real
+# HTTP routing, or redirects. See issue #48.
+on:
+  pull_request:
+
+permissions:
+  contents: read
+  statuses: read
+
+jobs:
+  verify-preview:
+    name: Verify deploy preview
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: "☁️ Checkout repository"
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+
+      # Poll the commit status rather than constructing the preview URL by
+      # hand: this distinguishes "still building" from "deploy failed", and
+      # guarantees the checks run against the deploy Netlify published for
+      # this commit.
+      - name: "⏳ Wait for Netlify deploy preview"
+        id: preview
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_SHA: ${{ github.event.pull_request.head.sha }}
+          STATUS_CONTEXT: netlify/ameliabooneracing/deploy-preview
+        run: |
+          set -euo pipefail
+
+          deadline=$(( SECONDS + 600 ))
+
+          while (( SECONDS < deadline )); do
+            status_json="$(gh api \
+              "repos/${GITHUB_REPOSITORY}/commits/${COMMIT_SHA}/status" \
+              --jq ".statuses[] | select(.context == \"${STATUS_CONTEXT}\")" \
+              || true)"
+
+            state="$(printf '%s' "${status_json}" | jq -r '.state // empty')"
+            target="$(printf '%s' "${status_json}" | jq -r '.target_url // empty')"
+
+            case "${state}" in
+              success)
+                if [[ -z "${target}" ]]; then
+                  echo "Deploy preview succeeded but reported no target_url." >&2
+                  exit 1
+                fi
+                echo "Deploy preview ready: ${target}"
+                echo "url=${target}" >> "${GITHUB_OUTPUT}"
+                exit 0
+                ;;
+              failure|error)
+                echo "Netlify deploy preview failed (state=${state})." >&2
+                exit 1
+                ;;
+              *)
+                echo "Waiting for deploy preview (state=${state:-none})..."
+                sleep 15
+                ;;
+            esac
+          done
+
+          echo "Timed out after 10 minutes waiting for the deploy preview." >&2
+          exit 1
+
+      - name: "✅ Check the served site"
+        env:
+          PREVIEW_URL: ${{ steps.preview.outputs.url }}
+        run: ./scripts/check-deploy-preview.sh "$PREVIEW_URL"
