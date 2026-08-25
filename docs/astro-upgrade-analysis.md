@@ -53,7 +53,15 @@ was checked against this codebase rather than counted:
 | GHSA-xr5h-phrj-8vxv | low | Unescaped View Transition animation props | **No** — no custom animation props |
 | GHSA-g7r4-m6w7-qqqr | low | esbuild dev server **on Windows** | **No** — macOS/Linux only, dev-only |
 
-The two that come closest are worth stating precisely rather than dismissing:
+The two that come closest are worth stating precisely rather than dismissing.
+Both counts were taken against the tree on 2026-08-25 and will age -- re-derive
+them before relying on this section:
+
+```bash
+grep -rn 'client:load\|client:visible\|client:idle\|client:only' src/  # must stay empty
+grep -rn 'transition:name' src/
+grep -rn 'server:defer\|define:vars\|<slot name=' src/              # must stay empty
+```
 
 - **`transition:name` is used** in 5 places (`Tag.astro`, `PostDetails.astro`,
   `Main.astro`, `search.astro`, the tag page). The advisory is scoped to
