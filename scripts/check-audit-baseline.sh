@@ -47,6 +47,24 @@ current="$(printf '%s' "${audit_json}" \
   | jq -r '.advisories // {} | to_entries[] | .value.github_advisory_id' \
   | sort -u || true)"
 
+# Cross-check the advisory list against the independent metadata counter. If a
+# future pnpm renames or restructures .advisories, the extraction above yields
+# nothing and every comparison below trivially passes -- the script would
+# report "no advisories outside the baseline" precisely when it had stopped
+# being able to see any. Reading a second field that must agree turns that
+# silent pass into a loud failure.
+reported_total="$(printf '%s' "${audit_json}" \
+  | jq -r '[.metadata.vulnerabilities // {} | to_entries[] | .value] | add // 0')"
+extracted_total="$(printf '%s\n' "${current}" | grep -c . || true)"
+
+if [[ "${reported_total}" -gt 0 && "${extracted_total}" -eq 0 ]]; then
+  printf 'FAIL: pnpm audit reports %s vulnerabilities but no advisory ids could\n' \
+    "${reported_total}" >&2
+  printf 'be parsed from .advisories. The audit JSON schema has probably changed;\n' >&2
+  printf 'this script cannot see advisories any more and must be updated.\n' >&2
+  exit 1
+fi
+
 # New = present in the audit, absent from the doc. These fail the build.
 new_advisories="$(comm -13 <(printf '%s\n' "${accepted}") <(printf '%s\n' "${current}") || true)"
 

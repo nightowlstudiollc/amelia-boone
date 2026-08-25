@@ -49,13 +49,17 @@ jobs:
               --jq ".statuses[] | select(.context == \"${STATUS_CONTEXT}\")" \
               || true)"
 
-            # head -1 guards the multi-row case. The combined status endpoint
-            # (/commits/{sha}/status) collapses to the latest status per
-            # context, so this is one object today -- but /commits/{sha}/statuses
-            # returns full history, and on a re-deploy that is two rows here.
-            # Without the guard, state would be "pending\nsuccess", which matches
-            # no case branch and polls to the deadline on a successful deploy.
-            # See issue #50.
+            # Defensive, not currently load-bearing. The endpoint above is the
+            # SINGULAR /commits/{sha}/status, which collapses to the latest
+            # status per context, so select() yields exactly one object and
+            # head -1 is a no-op today.
+            #
+            # It is here because the plural /commits/{sha}/statuses is one
+            # character away and returns full history instead -- every PR
+            # checked has two rows for this context. Fed that, these two lines
+            # would produce "success\npending", match no case branch below, and
+            # poll to the deadline on a deploy that actually succeeded. Do not
+            # remove this when changing the endpoint. See issue #50.
             state="$(printf '%s' "${status_json}" | jq -r '.state // empty' | head -1)"
             target="$(printf '%s' "${status_json}" | jq -r '.target_url // empty' | head -1)"
 
