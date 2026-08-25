@@ -10,3 +10,33 @@ updates:
       interval: "weekly"
     commit-message:
       prefix: "chore"
+
+  # npm/pnpm dependency updates. Previously absent, which meant no routine
+  # version-update PRs were opened at all against a 30-package tree -- so
+  # dependencies drifted until something forced a bump, and it then arrived
+  # as a multi-major jump against a stale tree. See issue #48.
+  #
+  # Safe to enable only because CI now asserts on build *output*
+  # (scripts/verify-build-output.sh) and on the live deploy preview
+  # (verify-deploy-preview.yml), both of which run on Dependabot PRs. A
+  # collection that silently resolves empty is an Astro warning, not an
+  # error, so an exit-0 build alone would let auto-merge publish an empty
+  # site. Do not enable this in a repo whose CI only checks exit status.
+  #
+  # Majors are not auto-merged: dependabot-auto-merge.yml restricts those to
+  # the nightowlstudiollc namespace, so an astro major waits for a human.
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    commit-message:
+      prefix: "chore"
+    groups:
+      # Batch the low-risk bumps so the weekly PR volume stays reviewable.
+      minor-and-patch:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"

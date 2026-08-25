@@ -56,3 +56,10 @@ jobs:
       # no posts still "succeeds" and Netlify publishes it. See issue #48.
       - name: "✅ Verify build output"
         run: ./scripts/verify-build-output.sh /tmp/build.log
+
+      # Compares pnpm audit against the accepted set in docs/audit-baseline.md
+      # and fails on anything outside it. A count threshold would pass just as
+      # happily when an accepted advisory is swapped for a new critical one.
+      # See issue #48.
+      - name: "🔐 Check audit baseline"
+        run: ./scripts/check-audit-baseline.sh
