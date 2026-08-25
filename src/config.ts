@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://amelia-boone-archive.netlify.app/",
+  website: "https://ameliabooneracing.com/",
   author: "Amelia Boone",
   profile: "https://ameliaboone.substack.com",
   desc: "Obstacle racing champion, ultrarunner, and writer. Essays on sport, suffering, and what comes next.",

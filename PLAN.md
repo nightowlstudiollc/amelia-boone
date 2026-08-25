@@ -35,6 +35,10 @@ Rationale:
 **Hosting**: Netlify project `amelia-boone-archive` (already exists, already linked to GitHub)  
 **Source control**: `https://github.com/nightowlstudiollc/amelia-boone` (already exists)  
 **Preview URL**: `https://amelia-boone-archive.netlify.app/` — this is what gets sent to Amelia  
+> **Superseded 2026-08-24.** The site is live at `https://ameliabooneracing.com/`, and the
+> `amelia-boone-archive.netlify.app` hostname now 404s. The URLs below are left as written
+> because this is a record of what was planned, not current guidance. For the live URL see
+> `CLAUDE.md`; the canonical value is `SITE.website` in `src/config.ts`.  
 **Note**: Both the GitHub repo and Netlify project can be wiped clean — start fresh from empty, don't preserve any prior content
 
 ---
