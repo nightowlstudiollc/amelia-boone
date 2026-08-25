@@ -22,11 +22,13 @@ Anything fixable by a lockfile refresh does **not** belong here. Run
 
 Last reviewed: 2026-08-25 (Node 24, astro 5.18.2)
 
+Every entry below is blocked on a major upgrade tracked in **#54**. If that
+issue is closed and entries remain here, one of the two is out of date.
+
 ### Blocked on the astro 5 -> 7 major upgrade
 
 `package.json` declares `astro ^5.16.6`. Every advisory below is patched only
-in astro 6.x or 7.x, which `^5` cannot reach. Tracked separately as the astro
-major upgrade; see the issue linked from #48.
+in astro 6.x or 7.x, which `^5` cannot reach.
 
 | GHSA | Severity | Patched in |
 |---|---|---|
@@ -47,7 +49,8 @@ major upgrade; see the issue linked from #48.
 
 ### Blocked on a sharp minor-major bump
 
-`package.json` declares `sharp ^0.34.5`; the fix landed in 0.35.0.
+`package.json` declares `sharp ^0.34.5`; the fix landed in 0.35.0. Also
+tracked in #54.
 
 | GHSA | Severity | Patched in |
 |---|---|---|
