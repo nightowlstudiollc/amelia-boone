@@ -79,7 +79,13 @@ printf 'Accepted advisories: %s\n' "${accepted_count}"
 printf 'Reported advisories: %s\n' "${current_count}"
 printf '\n'
 
-if [[ -n "${stale_advisories}" ]]; then
+if [[ "${current_count}" -eq 0 ]]; then
+  # Everything cleared. Listing all ten as individually removable is just
+  # noise; say it once. Expected once the astro major upgrade lands.
+  printf 'NOTE: no advisories reported at all -- the accepted set in %s is\n' \
+    "$(basename "${BASELINE_DOC}")"
+  printf 'now entirely stale and the whole list can be emptied.\n\n'
+elif [[ -n "${stale_advisories}" ]]; then
   printf 'NOTE: accepted advisories no longer reported -- remove them from %s:\n' \
     "$(basename "${BASELINE_DOC}")"
   printf '%s\n' "${stale_advisories}" | sed 's/^/  - /'
