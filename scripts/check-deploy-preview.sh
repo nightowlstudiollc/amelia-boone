@@ -90,6 +90,36 @@ else
   fail "homepage links to only ${home_post_links} individual posts (expected >= ${MIN_HOME_POST_LINKS}; the nav's /posts/ link alone does not count)"
 fi
 
+# --- The advertised og:image must actually resolve ---
+#
+# A page can return 200, look correct, and still advertise a broken social
+# card. That is exactly what issue #53 was: og-amelia.jpg was named in the
+# config but never added to public/, so every link preview 404'd while the
+# homepage itself was fine. Checked here because it is invisible to any
+# assertion that only looks at status codes for routes.
+
+og_image_url="$(printf '%s' "${home_html}" \
+  | grep -o 'property="og:image"[^>]*content="[^"]*"' \
+  | head -1 \
+  | sed -n 's/.*content="\([^"]*\)".*/\1/p' || true)"
+
+if [[ -z "${og_image_url}" ]]; then
+  fail 'homepage advertises no og:image meta tag'
+else
+  # The tag carries an absolute URL built from SITE.website, which points at
+  # production, not this preview. Compare the path against the preview host
+  # so the check tests the deploy under test rather than the live site.
+  og_image_path="${og_image_url#*://}"
+  og_image_path="/${og_image_path#*/}"
+
+  og_status="$(http_status "${og_image_path}")"
+  if [[ "${og_status}" == "200" ]]; then
+    pass "og:image ${og_image_path} returned 200"
+  else
+    fail "og:image ${og_image_path} returned ${og_status} (expected 200) -- link previews will have no image"
+  fi
+fi
+
 # --- Served RSS must carry real items ---
 #
 # Counted with grep -o | wc -l rather than grep -c: the feed is minified

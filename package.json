@@ -2,6 +2,9 @@
   "name": "amelia-boone",
   "type": "module",
   "version": "5.5.1",
+  "engines": {
+    "node": ">=24.0.0"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro check && astro build && pagefind --site dist && cp -r dist/pagefind public/",

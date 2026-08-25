@@ -13,7 +13,9 @@ This site consolidates both into a single unified blog, with Substack as the ong
 
 **Site**: `https://ameliabooneracing.com/`
 **GitHub**: `https://github.com/nightowlstudiollc/amelia-boone`
-**Hosting**: Netlify project `amelia-boone-archive` — auto-deploys on push to main
+**Hosting**: Netlify site slug `ameliabooneracing` — auto-deploys on push to main.
+The deploy-preview commit status is `netlify/ameliabooneracing/deploy-preview`
+and preview URLs are `https://deploy-preview-<PR>--ameliabooneracing.netlify.app`.
 
 ## Tech Stack
 
@@ -145,6 +147,25 @@ Minimal, editorial, slightly outdoorsy. Target feel: Runner's World digital ~202
 ### Checking CI Status
 
 `gh pr view --json statusCheckRollup` and `gh pr checks` both fail with "Resource not accessible by personal access token". Use `gh api repos/nightowlstudiollc/amelia-boone/actions/runs` or `gh run view` instead.
+
+### Netlify Deploy-Preview Status
+
+`verify-deploy-preview.yml` polls the commit status Netlify posts, then runs
+`scripts/check-deploy-preview.sh` against the published preview.
+
+Two things that have already caused wrong conclusions:
+
+- **The site slug is `ameliabooneracing`**, so the status context is
+  `netlify/ameliabooneracing/deploy-preview`. Confirm with
+  `gh api repos/nightowlstudiollc/amelia-boone/commits/<pr-head-sha>/statuses -q '.[].context'`
+  against a **PR head commit** — Netlify posts no deploy-preview status on
+  `main` commits, so checking one there returns nothing and looks like a
+  missing context.
+- **`/commits/{sha}/status` and `/commits/{sha}/statuses` differ.** The
+  singular combined endpoint collapses to the latest status per context (one
+  row); the plural returns full history (two or more rows per context, newest
+  first). Parsing the plural with `jq -r '.state'` yields a multi-line value
+  that matches no `case` branch.
 
 ### Merge Command
 

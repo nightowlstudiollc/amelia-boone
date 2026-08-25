@@ -14,7 +14,11 @@ jobs:
   verify-preview:
     name: Verify deploy preview
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    # 20, not 15: the poll below runs to 10 minutes, and the check script
+    # hits 7 routes with --max-time 30 --retry 2 --retry-delay 3 each, so a
+    # sluggish Netlify could spend several more. At 15 the job hit its own
+    # timeout instead of failing with a usable error. See issue #50.
+    timeout-minutes: 20
     steps:
       - name: "☁️ Checkout repository"
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
@@ -30,6 +34,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_SHA: ${{ github.event.pull_request.head.sha }}
+          # Verified against real PR head commits (#44, #47, #49, #51): this
+          # is exactly the context Netlify posts. The Netlify site slug is
+          # ameliabooneracing -- not the amelia-boone-archive project name.
           STATUS_CONTEXT: netlify/ameliabooneracing/deploy-preview
         run: |
           set -euo pipefail
@@ -42,8 +49,19 @@ jobs:
               --jq ".statuses[] | select(.context == \"${STATUS_CONTEXT}\")" \
               || true)"
 
-            state="$(printf '%s' "${status_json}" | jq -r '.state // empty')"
-            target="$(printf '%s' "${status_json}" | jq -r '.target_url // empty')"
+            # Defensive, not currently load-bearing. The endpoint above is the
+            # SINGULAR /commits/{sha}/status, which collapses to the latest
+            # status per context, so select() yields exactly one object and
+            # head -1 is a no-op today.
+            #
+            # It is here because the plural /commits/{sha}/statuses is one
+            # character away and returns full history instead -- every PR
+            # checked has two rows for this context. Fed that, these two lines
+            # would produce "success\npending", match no case branch below, and
+            # poll to the deadline on a deploy that actually succeeded. Do not
+            # remove this when changing the endpoint. See issue #50.
+            state="$(printf '%s' "${status_json}" | jq -r '.state // empty' | head -1)"
+            target="$(printf '%s' "${status_json}" | jq -r '.target_url // empty' | head -1)"
 
             case "${state}" in
               success)
