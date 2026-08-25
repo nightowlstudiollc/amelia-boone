@@ -20,7 +20,7 @@ Anything fixable by a lockfile refresh does **not** belong here. Run
 
 ## Accepted advisories
 
-Last reviewed: 2026-08-25 (Node 24, astro 5.18.2)
+Last reviewed: 2026-08-25 (Node 24, astro 5.18.2, sharp 0.35.3)
 
 Every entry below is blocked on a major upgrade tracked in **#54**. If that
 issue is closed and entries remain here, one of the two is out of date.
@@ -28,8 +28,8 @@ issue is closed and entries remain here, one of the two is out of date.
 For whether that upgrade is worth doing, and when, see
 [astro-upgrade-analysis.md](astro-upgrade-analysis.md). Short version: 8 of
 the 9 astro advisories need a feature this site does not use, so the case is
-about staying on a supported line rather than risk. The `sharp` entry is
-separable and already tested.
+about staying on a supported line rather than risk. The `sharp` advisory that
+was previously listed here has been fixed and removed.
 
 ### Blocked on the astro 5 -> 7 major upgrade
 
@@ -52,15 +52,6 @@ in astro 6.x or 7.x, which `^5` cannot reach.
 | GHSA | Severity | Package | Patched in |
 |---|---|---|---|
 | GHSA-g7r4-m6w7-qqqr | low | esbuild (astro > esbuild) | >=0.28.1 |
-
-### Blocked on a sharp minor-major bump
-
-`package.json` declares `sharp ^0.34.5`; the fix landed in 0.35.0. Also
-tracked in #54.
-
-| GHSA | Severity | Patched in |
-|---|---|---|
-| GHSA-f88m-g3jw-g9cj | high | >=0.35.0 |
 
 ## Two traps worth knowing (from issue #48)
 

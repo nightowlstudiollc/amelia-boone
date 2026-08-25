@@ -7,8 +7,9 @@ No upgrade was attempted. Nothing in this document changes the site.
 advisory count suggests — 8 of the 9 Astro advisories need a feature this site
 does not use, and the 9th is a dev-server-on-Windows issue. The strongest
 reasons to upgrade are staying on a supported line and clearing a config
-`@ts-ignore`, not risk reduction. There is no urgency. The one item worth doing
-soon is `sharp`, which is independent of Astro and already tested clean.
+`@ts-ignore`, not risk reduction. There is no urgency. The `sharp` advisory that
+shared this issue was independent of Astro and is already fixed (see below --
+it needed a pnpm override, not a direct bump).
 
 ---
 
@@ -22,7 +23,7 @@ soon is `sharp`, which is independent of Astro and already tested clean.
 | @astrojs/rss | 4.0.19 | still 4.x on astro 6 and 7 — no major bump |
 | @astrojs/check | 0.9.10 | latest |
 | adapter | **none** | `output` unset → static; Netlify serves `dist/` |
-| sharp | 0.34.5 | declared `^0.34.5`; fix in 0.35.0 |
+| sharp | 0.35.3 | pinned by a pnpm override; see the sharp section |
 
 Site size: 30 `.astro` files, 19 `.ts` files, ~3,200 LOC, 102 posts, 122 built
 pages, 109 generated OG images, 98 RSS items. Build takes ~40s.
@@ -209,22 +210,43 @@ met.
 
 ---
 
-## The sharp advisory is separable — and already tested
+## The sharp advisory — DONE, and it needed an override
 
-GHSA-f88m-g3jw-g9cj (high, libvips CVEs) is the tenth accepted advisory and has
-**nothing to do with Astro**. `package.json` declares `sharp ^0.34.5`; the fix
-is in 0.35.0.
+GHSA-f88m-g3jw-g9cj (high, libvips CVEs) was the tenth accepted advisory and had
+**nothing to do with Astro**. Fixed on 2026-08-25; kept here because how it had
+to be fixed is a trap worth recording.
 
-**Tested in an isolated checkout:** bumping to `^0.35.0` resolves 0.35.3,
-builds all 122 pages with 0 errors and 0 warnings, and passes every
-`verify-build-output.sh` assertion. `sharp@0.35.0` requires Node `>=20.9.0`,
-satisfied.
+**A direct bump of `sharp` does not fix it.** Astro declares
+`optionalDependencies: { sharp: "^0.34.0" }`, and that is the copy Astro
+actually loads. Changing this project's own `dependencies.sharp` to `^0.35.0`
+installs a *second* copy that Astro ignores, leaving the vulnerable 0.34.5
+resolved and in use. Nothing here imports `sharp` directly — the image pipeline
+runs through Astro — so the direct dependency alone had no effect.
 
-Exposure is low regardless — no local images and no `<Image>` components mean
-nothing actually invokes image processing — but the fix is cheap and verified.
+Symptoms of the trap, which look like success:
 
-**Recommendation: do this independently of #54, whenever convenient.** It clears
-a high-severity entry from the baseline for roughly zero risk.
+- `pnpm audit` totals do not move (high stayed at 3).
+- The advisory path changes to `.>astro>sharp`, still reported.
+- The build passes cleanly, because the build was never broken.
+
+The fix is a **pnpm override**, which forces one resolution for every consumer:
+
+```json
+"pnpm": {
+  "overrides": { "sharp": "^0.35.0" }
+}
+```
+
+Verified after applying it: one `sharp@0.35.3` in the lockfile (0.34.5 appears
+zero times), one libvips (1.3.2), Astro's own symlink points at 0.35.3, and
+`require("sharp").versions` reports sharp 0.35.3 on libvips 8.18.3. The advisory
+is gone and high dropped 3 → 2. All 564 build output files — including every one
+of the 109 generated OG PNGs — are byte-for-byte identical to the pre-bump build.
+
+**Generalizes to the astro upgrade itself:** when astro moves to 6 or 7, its
+`optionalDependencies.sharp` range will move too. Re-check whether this override
+is still needed, still correct, or now pinning `sharp` *below* what astro wants.
+An override that outlives its reason becomes the next stale pin.
 
 ---
 
@@ -234,9 +256,10 @@ Do **not** jump 5 → 7 in one step. The two hops have very different risk
 profiles, and combining them means a rendering diff cannot tell you which
 release caused a regression.
 
-### Step 0 — sharp (independent, do anytime)
+### Step 0 — sharp — DONE 2026-08-25
 
-Bump `sharp` to `^0.35.0`. Already verified. Shrink the baseline doc.
+Fixed via a pnpm override (a direct bump does not work — see above). Baseline
+doc shrunk to 9 entries.
 
 ### Step 1 — astro 5 → 6 (low risk, mostly mechanical)
 
@@ -355,7 +378,9 @@ Everything asserted here was checked in this repo or against the registry on
 | sitemap/rss need no major bump | `npm view @astrojs/… version` |
 | no adapter installed | `@astrojs/netlify` not in `node_modules` |
 | 0 `client:*`, `server:defer`, `define:vars`, named slots | `grep -rn` over `src/` |
-| sharp 0.35.3 builds clean | isolated `git archive` checkout, full build |
+| a direct sharp bump does NOT fix the advisory | audit still reports it via `.>astro>sharp` |
+| the override does fix it | one sharp in lock, astro symlink -> 0.35.3, libvips 8.18.3 |
+| sharp 0.35.3 changes no output | all 564 dist files byte-identical; check falsified |
 | #14030 fixed in v6 | closed by #14445, milestone v6.0.0 |
 | build baseline numbers | measured from a clean build |
 
