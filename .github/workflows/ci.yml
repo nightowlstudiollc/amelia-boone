@@ -45,5 +45,14 @@ jobs:
       - name: "🔎 Lint code"
         run: pnpm run lint
 
+      # The build log is captured so the verification step can detect Astro's
+      # "does not exist or is empty" collection warning, which does NOT fail
+      # the build on its own. tee keeps the log visible in the CI output.
       - name: "🚀 Build the project"
-        run: pnpm run build
+        run: set -o pipefail && pnpm run build 2>&1 | tee /tmp/build.log
+
+      # A zero exit status from Astro does not mean the site has content: an
+      # unresolvable content collection is a warning, so a build that emits
+      # no posts still "succeeds" and Netlify publishes it. See issue #48.
+      - name: "✅ Verify build output"
+        run: ./scripts/verify-build-output.sh /tmp/build.log
