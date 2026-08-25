@@ -4,7 +4,11 @@ export const SITE = {
   profile: "https://ameliaboone.substack.com",
   desc: "Obstacle racing champion, ultrarunner, and writer. Essays on sport, suffering, and what comes next.",
   title: "Amelia Boone",
-  ogImage: "og-amelia.jpg",
+  // Empty on purpose: Layout.astro falls back to the Satori-generated
+  // /og.png when this is unset. It previously named a file that was
+  // never added to public/, so the homepage advertised a 404. Set this
+  // only if a hand-designed card is added alongside it. See issue #53.
+  ogImage: "",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 20,
