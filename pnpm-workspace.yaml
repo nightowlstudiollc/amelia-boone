@@ -1,0 +1,27 @@
+# pnpm settings live here, not in package.json's `pnpm` field.
+#
+# pnpm 11 stopped reading `pnpm.*` from package.json and ignores those keys
+# silently — it does not fail, it just drops them. Dependabot regenerates
+# lockfiles with pnpm 11, so the sharp override below was omitted from every
+# generated lockfile while CI (pinned to pnpm 10) still expected it. That
+# surfaced as ERR_PNPM_LOCKFILE_CONFIG_MISMATCH on every dependabot PR, and
+# more seriously it un-applied the pin: astro resolved sharp 0.34.5 again.
+# This file is read by both pnpm 10 and 11, so the two agree.
+# See smartwatermelon/dotfiles style note and https://pnpm.io/settings.
+
+# Force a single sharp >=0.35.0 across the tree to clear the libvips CVEs
+# (CVE-2026-33327, CVE-2026-33328, CVE-2026-35590, CVE-2026-35591) and
+# GHSA-f88m-g3jw-g9cj.
+#
+# This override is load-bearing and cannot be replaced by bumping the direct
+# dependency: astro declares `optionalDependencies: { sharp: "^0.34.0" }` and
+# loads THAT copy, so without the override the tree carries both 0.35.x (direct,
+# unused by astro) and a vulnerable 0.34.x under astro.
+overrides:
+  sharp: ^0.35.0
+
+# esbuild and sharp need their install scripts to run; pnpm blocks build
+# scripts by default.
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
