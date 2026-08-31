@@ -19,14 +19,18 @@ import Breadcrumb from "@/components/Breadcrumb.astro";
       method="POST"
       action="/contact/thanks"
       data-netlify="true"
+      netlify-honeypot="bot-field"
       class="max-w-lg space-y-5"
     >
       <input type="hidden" name="form-name" value="contact" />
       <input
         type="hidden"
         name="subject"
-        value="New message from ameliaboone.com"
+        value="Amelia Boone Racing contact &mdash; %{submissionId}"
       />
+      <p class="hidden">
+        <label>Don't fill this out: <input name="bot-field" /></label>
+      </p>
       <div>
         <label for="name" class="mb-1 block text-sm font-medium">Name</label>
         <input
