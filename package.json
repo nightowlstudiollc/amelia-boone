@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.14",
-    "@astrojs/sitemap": "^3.6.0",
+    "@astrojs/sitemap": "^3.7.4",
     "@octokit/rest": "^22.0.1",
     "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/vite": "^4.1.18",
@@ -40,15 +40,15 @@
     "@shikijs/transformers": "^3.20.0",
     "@tailwindcss/typography": "^0.5.19",
     "@types/lodash.kebabcase": "^4.1.9",
-    "@typescript-eslint/parser": "^8.51.0",
+    "@typescript-eslint/parser": "^8.69.0",
     "eslint": "^10.9.1",
     "eslint-plugin-astro": "^1.5.0",
-    "globals": "^17.11.0",
+    "globals": "^17.12.0",
     "pagefind": "^1.4.0",
     "prettier": "^3.7.4",
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.8.1",
     "typescript": "^5.9.3",
-    "typescript-eslint": "^8.51.0"
+    "typescript-eslint": "^8.69.0"
   }
 }
