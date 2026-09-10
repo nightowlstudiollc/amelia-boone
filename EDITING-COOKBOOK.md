@@ -70,12 +70,15 @@ Tags appear at the top of each post and in the tag index. To update them:
 1. Open the post file in `src/data/blog/`
 2. Click the pencil icon
 3. Find the `tags:` section in the frontmatter (between the `---` lines):
+
    ```
    tags:
      - racing
      - injury
    ```
-4. Add, remove, or edit the tags — one per line, starting with `  - `
+
+4. Add, remove, or edit the tags — one per line, starting with two spaces,
+   a hyphen, and a space
 5. Use lowercase and hyphens: `obstacle-racing` not `Obstacle Racing`
 6. Commit
 

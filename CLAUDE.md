@@ -178,4 +178,3 @@ A global pre-commit hook (at `~/.config/git/hooks/pre-commit`) runs Semgrep amon
 ### Branch Cleanup
 
 Merged Claude branches may not be fully merged locally (history rewrite after `git-filter-repo`); use `git branch -D` (force delete) instead of `git branch -d` for stale Claude branches. `git fetch --prune` may fail with tag clobber errors (`archive/2026-02-23` tag conflict); ignore the tag rejection and proceed.
-
