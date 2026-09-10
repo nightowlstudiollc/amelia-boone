@@ -32,6 +32,7 @@
 Download all images from `ameliabooneracing.info/wp-content/uploads/` to `public/images/wp/` and rewrite markdown references.
 
 **Files:**
+
 - Create: `migrate_images.py` (run once, then delete or keep as archive tooling)
 - Modify: All `src/data/blog/*.md` files that contain `ameliabooneracing.info` image URLs
 
@@ -169,6 +170,7 @@ Rewritten in M post files."
 Change homepage hero to show 4 most-recent posts (by `pubDatetime`), and add a separate "Highlights" section below for `featured: true` posts.
 
 **Files:**
+
 - Modify: `src/pages/index.astro`
 
 **Step 1: Read the current index.astro**
@@ -250,6 +252,7 @@ pnpm run dev
 ```
 
 Open localhost:4321. Verify:
+
 - Hero box shows 4 most-recent posts (check dates — most recent should be newest Substack)
 - "Worth Reading" section appears below hero with the 4 featured posts
 - Both sections render correctly on mobile (resize browser)
@@ -278,6 +281,7 @@ git commit -m "feat: homepage shows recent posts in hero, featured posts in High
 Enable Netlify Forms on the contact page so submissions are captured. Add a success page. Note: email notification forwarding to Amelia must be configured manually in Netlify dashboard.
 
 **Files:**
+
 - Modify: `src/pages/contact.astro`
 - Create: `src/pages/contact/thanks.astro`
 
@@ -392,6 +396,7 @@ TODO (Andrew): Configure email notification in Netlify dashboard:
 Add "Read comments on Substack →" link at the bottom of Substack post pages.
 
 **Files:**
+
 - Modify: `src/layouts/PostDetails.astro`
 
 **Step 1: Read PostDetails.astro**
@@ -449,6 +454,7 @@ git commit -m "feat: add Substack discussion link to Substack post footers"
 Replace the text-only "Substack" badge in post cards with the official Substack "S" logo SVG.
 
 **Files:**
+
 - Create: `src/assets/icons/IconSubstack.svg`
 - Modify: `src/components/Card.astro`
 
@@ -552,6 +558,7 @@ git commit -m "feat: add Substack logo to source badge on post cards"
 Create `/race-schedule` as a static Astro page with her full race history (2011–2018) from the original WordPress site.
 
 **Files:**
+
 - Create: `src/pages/race-schedule.astro`
 - Modify: `src/components/Header.astro`
 
@@ -601,6 +608,7 @@ import Breadcrumb from "@/components/Breadcrumb.astro";
 ```
 
 **Important content notes:**
+
 - Preserve year anchors (`id="2018"`, `id="2017"`, etc.) for the jump nav
 - 2016 entry includes the femur fracture — keep verbatim
 - Keep her voice and humor ("I'm commitment-phobic")
@@ -646,6 +654,7 @@ git commit -m "feat: add Race History page from WordPress raceschedule.html"
 Create `/press` with archived press links. Check each URL for liveness; replace dead links with archive.org equivalents.
 
 **Files:**
+
 - Create: `src/pages/press.astro`
 - Modify: `src/components/Header.astro`
 
@@ -732,6 +741,7 @@ git commit -m "feat: add Press page from WordPress news.html, dead links replace
 Add Netlify 301 redirects for old WP static pages. Create a draft sponsorships page outside `src/pages/`.
 
 **Files:**
+
 - Modify: `netlify.toml`
 - Create: `src/drafts/sponsorships.astro`
 
@@ -844,6 +854,7 @@ Sponsorships page in src/drafts/ (inactive). Move to src/pages/ to publish."
 Audit footnote rendering in WP and Substack posts. The HTML cleanup converted Substack footnotes to `[1]` plain text references without links. WP conversion may have similar issues. Fix or style consistently.
 
 **Files:**
+
 - Possibly modify: select `src/data/blog/*.md` files
 - Possibly modify: `src/styles/global.css`
 
@@ -870,6 +881,7 @@ Open a WP post with footnotes.
 **Step 3: Determine fix approach**
 
 Two options:
+
 - **A (preferred if simple):** Add a CSS rule to `src/styles/global.css` to style `[N]` references with a superscript appearance
 - **B (if footnotes are broken/unlinked):** Convert `[N]` references to proper Markdown footnotes `[^N]` / `[^N]: text` in affected posts
 
@@ -954,6 +966,7 @@ git commit -m "docs: document Substack image hotlink decision in CLAUDE.md"
 Write a plain-English editing guide for Amelia. Non-developer audience. Cover: editing posts, adding posts, editing static pages.
 
 **Files:**
+
 - Create: `docs/editing-guide.md`
 
 **Step 1: Write the guide**
@@ -1021,9 +1034,11 @@ These tasks are mostly independent. Suggested PR grouping:
 ## Manual Steps (Andrew Only — Cannot Be Automated)
 
 After PR C (contact form) is deployed:
+
 - Netlify dashboard → `amelia-boone-archive` → Forms → `contact` → Notifications → Add email notification → Amelia's email address
 
 After domain migration (Issue #12 — separate coordination):
+
 - Update `website` in `src/config.ts` with final domain
 - Update Netlify custom domain settings
 

@@ -55,6 +55,7 @@ Your post content goes here, in Markdown.
 6. Scroll down, add a commit note, and click **"Commit changes"**
 
 **Notes on the fields:**
+
 - `pubDatetime`: Use ISO format — `YYYY-MM-DDTHH:MM:00Z`. The time is ignored for display but required.
 - `source`: Use `substack` for Substack posts, `wordpress` for old WP posts
 - `featured: true` makes the post appear in the "Worth Reading" section on the homepage. Keep this to 4–5 posts total.

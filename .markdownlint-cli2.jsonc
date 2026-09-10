@@ -1,0 +1,23 @@
+// Amelia's blog posts are imported verbatim from her original publications and
+// are published as she writes them; they are content, not project source, so
+// they are excluded from the fleet markdown style checks. Every other tracked
+// Markdown file in this repo is still linted with the canonical fleet ruleset
+// reproduced below (smartwatermelon/github-workflows standards/markdownlint.json).
+{
+  "config": {
+    "default": true,
+    "MD013": false,
+    "MD024": {
+      "siblings_only": true
+    },
+    "MD029": false,
+    "MD033": false,
+    "MD036": false,
+    "MD040": false,
+    "MD046": false,
+    "MD060": false
+  },
+  "ignores": [
+    "src/data/blog/**"
+  ]
+}
