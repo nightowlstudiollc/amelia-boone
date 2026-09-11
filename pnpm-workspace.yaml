@@ -17,8 +17,16 @@
 # dependency: astro declares `optionalDependencies: { sharp: "^0.34.0" }` and
 # loads THAT copy, so without the override the tree carries both 0.35.x (direct,
 # unused by astro) and a vulnerable 0.34.x under astro.
+#
+# Force fflate >=0.7.5 to clear GHSA-px8p-9vwx-vf98 (unzipSync infinite loop on
+# malformed ZIP64 archives). Load-bearing for the same structural reason as
+# sharp: satori 0.33.4 — the latest release — declares `fflate: 0.7.3` as an
+# EXACT pin, not a range, so `pnpm update` cannot move it and there is no
+# satori version to upgrade to. An override is the only mechanism that reaches
+# it. 0.7.3 -> 0.7.5 is a patch bump within the same minor.
 overrides:
   sharp: ^0.35.0
+  fflate: ^0.7.5
 
 # esbuild and sharp need their install scripts to run; pnpm blocks build
 # scripts by default.

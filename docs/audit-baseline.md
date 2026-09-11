@@ -20,7 +20,7 @@ Anything fixable by a lockfile refresh does **not** belong here. Run
 
 ## Accepted advisories
 
-Last reviewed: 2026-08-25 (Node 24, astro 5.18.2, sharp 0.35.3)
+Last reviewed: 2026-09-10 (Node 24, astro 5.18.2, sharp 0.35.3, fflate 0.7.5)
 
 Every entry below is blocked on a major upgrade tracked in **#54**. If that
 issue is closed and entries remain here, one of the two is out of date.
@@ -46,6 +46,26 @@ in astro 6.x or 7.x, which `^5` cannot reach.
 | GHSA-jrpj-wcv7-9fh9 | moderate | >=6.4.6 |
 | GHSA-7pw4-f3q4-r2p2 | low | >=7.0.4 |
 | GHSA-xr5h-phrj-8vxv | low | >=6.1.10 |
+| GHSA-26w7-cxv4-gfx2 | **critical** | >=7.2.8 |
+| GHSA-376h-93r7-7g6f | moderate | >=7.2.4 |
+
+The last two arrived after the 2026-08-25 review and are what kept CI red from
+2026-08-30 (issue #79). Both are accepted on the same terms as the rest — `^5`
+cannot reach a 7.x patch — but the critical one deserves its reasoning stated,
+because accepting a critical on a "blocked on a major" rationale is exactly the
+kind of entry that should not pass without one:
+
+- **GHSA-26w7-cxv4-gfx2 — RCE through AVIF image optimization.** Not reachable
+  on this site. The exploit needs an image-optimization endpoint that processes
+  attacker-supplied input at request time. This site is **statically built**
+  (`netlify.toml` publishes `dist`, `astro.config.ts` sets no `output` and no
+  adapter), so no such endpoint is deployed. Source imports exactly one symbol
+  from `astro:assets` — `Font`, in `src/layouts/Layout.astro` — and uses no
+  `<Image>`, `<Picture>`, or `getImage()` anywhere. Re-check this if the site
+  ever adopts SSR or on-demand image optimization; the acceptance depends on
+  the static build, not on the advisory being harmless.
+- **GHSA-376h-93r7-7g6f — authorization bypass when stripping a configured
+  `base`.** This site configures no `base`.
 
 ### Transitive, via astro
 
