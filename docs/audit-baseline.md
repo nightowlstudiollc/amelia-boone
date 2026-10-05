@@ -20,7 +20,7 @@ Anything fixable by a lockfile refresh does **not** belong here. Run
 
 ## Accepted advisories
 
-Last reviewed: 2026-09-10 (Node 24, astro 5.18.2, sharp 0.35.3, fflate 0.7.5)
+Last reviewed: 2026-10-05 (Node 24, astro 5.18.2, sharp 0.35.5, fflate 0.7.5)
 
 Every entry below is blocked on a major upgrade tracked in **#54**. If that
 issue is closed and entries remain here, one of the two is out of date.
