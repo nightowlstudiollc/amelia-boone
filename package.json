@@ -17,12 +17,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@astrojs/markdown-remark": "^7.3.2",
     "@astrojs/rss": "^4.0.14",
     "@astrojs/sitemap": "^3.7.4",
     "@octokit/rest": "^22.0.1",
     "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/vite": "^4.1.18",
-    "astro": "^5.16.6",
+    "astro": "^7.3.6",
     "dayjs": "^1.11.19",
     "lodash.kebabcase": "^4.1.1",
     "remark-collapse": "^0.1.2",
@@ -37,7 +38,7 @@
     "@astrojs/check": "^0.9.6",
     "@netlify/functions": "^6.0.0",
     "@pagefind/default-ui": "^1.4.0",
-    "@shikijs/transformers": "^3.20.0",
+    "@shikijs/transformers": "^4.5.0",
     "@tailwindcss/typography": "^0.5.19",
     "@types/lodash.kebabcase": "^4.1.9",
     "@typescript-eslint/parser": "^8.70.0",

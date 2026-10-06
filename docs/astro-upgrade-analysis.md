@@ -13,6 +13,42 @@ it needed a pnpm override, not a direct bump).
 
 ---
 
+## DONE 2026-10-06 — upgraded 5.18.2 → 7.3.6 in one step
+
+The rest of this document is the pre-upgrade analysis, kept as written. It
+recommends going through 6 first so a regression could be attributed to one
+release. The upgrade went straight to 7 instead, because the full rendered diff
+below came back clean, so there was nothing to attribute. Done together with
+`@shikijs/transformers` 3 → 4, which needs the Shiki 4 that only astro ≥6
+ships.
+
+**Changes:**
+
+- `markdown.processor: unified({ remarkPlugins: [...] })`, with
+  `@astrojs/markdown-remark` added as a direct dependency. This keeps the
+  remark/rehype pipeline instead of Sätteri, so `remarkToc` and
+  `remarkCollapse` run as before.
+- `experimental.fonts` → top-level `fonts`; `experimental.preserveScriptOrder`
+  deleted; the `@ts-ignore` around `tailwindcss()` deleted. All three as Step 1
+  below predicted.
+- `z` imported from `astro/zod` instead of `astro:content` (deprecated).
+- The `sharp` pnpm override removed: astro 7 declares `sharp ^0.35.4` itself.
+
+**Verification:** `dist/` from main (astro 5) and from the branch (astro 7)
+compared page by page with an HTML parser: visible text, every `id`, every
+`href` (footnote and TOC anchors included), and the element counts inside
+`<main>`. Result over all 123 pages: no text, link or structure change. The
+only differences were two heading ids in `2018-the-year-of-letting-go.md`,
+which gained a trailing `-`. Cause: a trailing space inside `**…**` in the
+heading source, which both versions rendered as literal asterisks. The
+source was fixed in the same PR, which restores the original ids and renders
+the headings bold.
+
+Not exercised: no post contains a fenced code block, so the Shiki transformers
+in `astro.config.ts` type-check but render nothing on this site today.
+
+---
+
 ## Current state
 
 | | Version | Notes |
@@ -388,3 +424,9 @@ Two items in the v6/v7 breaking-change lists were **not** independently
 verified and are reported as the upstream guides state them: the Sätteri
 Markdown-processor swap in v7, and the Rust-only compiler strictness. Both are
 v7 concerns and both are covered by the Step 2 rendering diff.
+
+**Update 2026-10-06:** both are now verified. astro 7.3.5 rejects the old
+`markdown.remarkPlugins` config when `@astrojs/markdown-remark` is not
+installed (the CI failure on #86),
+and the site renders identically on the `unified()` processor. `astro check`
+and `astro build` report no compiler-strictness errors in any `.astro` file.
