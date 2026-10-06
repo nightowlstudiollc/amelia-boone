@@ -1,0 +1,27 @@
+name: Netlify Site Checks
+
+# Acceptance checks against the site Netlify actually published, run by the
+# shared workflow in smartwatermelon/github-workflows (dev-env#193):
+#   - pull_request: waits for the deploy preview, then runs
+#     scripts/check-deploy-preview.sh against it (was verify-deploy-preview.yml,
+#     issues #48 and #50).
+#   - push to main: waits for the production deploy of the pushed SHA via the
+#     Netlify API (needs the NETLIFY_AUTH_TOKEN org secret), then runs the same
+#     script against the live site.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  statuses: read
+
+jobs:
+  netlify-site-checks:
+    uses: smartwatermelon/github-workflows/.github/workflows/netlify-site-checks.yml@netlify-site-checks-v1
+    with:
+      # The Netlify site slug, not the amelia-boone-archive project name.
+      netlify-site: ameliabooneracing
+    secrets:
+      NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
