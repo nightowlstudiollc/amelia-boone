@@ -10,7 +10,10 @@ repos:
     hooks:
       - id: prettier
         name: "Prettier Formatter (JS/TS/JSON/CSS)"
-        entry: bash -c 'npx prettier --write --ignore-unknown "$@"' --
+        entry: >-
+          bash -c 'h="$HOME/.config/git/hooks/lint-prettier.sh"; if [ -x
+          "$h" ]; then exec "$h" "$@"; fi; exec npx prettier --write
+          --ignore-unknown "$@"' --
         language: system
         files: \.(js|jsx|ts|tsx|json|css)$
         exclude: ^\.claude-plugin/
