@@ -10,6 +10,11 @@ on:
       - edited
       - synchronize
       - reopened
+  # Re-run on main after every merge: CI otherwise only sees PR heads, so a
+  # main that no longer builds (two green PRs that conflict) went unnoticed.
+  # dev-env#193.
+  push:
+    branches: [main]
   workflow_call:
 
 jobs:
