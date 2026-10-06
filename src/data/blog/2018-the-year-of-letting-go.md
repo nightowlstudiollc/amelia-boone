@@ -40,7 +40,7 @@ A funny thing happened as the weeks and months passed: I learned that being alon
 
 As hard as that break-up and transition was for me, I am forever grateful for it: it forced me to face my fear. It forced me to let go of the notion that, without a partner, I would be lonely. It made see that I actually **don’t** equate my self-worth based on relationships, and that my happiness isn’t tied to it. For the first time in many years, I’ve started to feel at peace with who I am – even though I view myself as an ever-constant work in progress, I’m learning to embrace every part of me.
 
-#### **Letting Go of the Stigma of Injury **
+#### **Letting Go of the Stigma of Injury**
 
 In September, my season unexpectedly grinded to a sudden halt. I had to face my worst fear – I was injured. I’d spent the past two years since the case of the femurs living in fear of getting another injury. For some reason, I felt like since I had “beaten” injury once before, I wasn’t “allowed” to be injured again. And because I did sustain another injury – I was a fraud, a failure. I immediately spun into a cycle of shame, guilt, and (http://www.ameliabooneracing.com/blog/rehab/identity-injury-and-the-athlete/). I anticipated the judgments of people – I worried about falling back into the identity of “that” injured girl. Reality testing this fear, however, proved otherwise: aside from a few questions and sympathetic notes, nothing happened. I didn't get tarred and feathered. I didn't get banned from calling myself an "athlete" or a "runner." It turns out, oddly enough, that most people really don't care - they've got their own shit to worry about. So, note to self: _no one is every going to judge you as much as you judge yourself. _
 
@@ -52,7 +52,7 @@ Injury is part of being an athlete, and you can’t always predict them. Heck, y
 
 So I’m learning to give myself the compassion that I’d give other athletes in a similar situation. Instead of rushing to judgment, I’m working on treating myself with grace. For as much as I’ve talked about the merry-go-round of self-flagellation, just because I’ve been through one major injury doesn’t mean that I’m not “allowed” to have another. Just like race results don’t equal my self-worth, my state of injured/uninjured should also not affect my self-worth. I’ll admit that the latter seems to be much more difficult for me to currently work through, but just like the letting go of race results, I’m confident this too will soon become easier.
 
-#### **Letting Go of the Identities **
+#### **Letting Go of the Identities**
 
 I’ve changed a lot these past few years (I think, in a good way). But as I’ve grown and changed, I’ve felt tension in conflicting aspects of myself. How can a woman known for loving pain also be the woman who is paralyzed by fear of injury? How can a woman who built her reign in obstacle racing beating most everyone, even the men, suddenly proclaim “winning doesn’t matter”? Internally, I tried hard to reconcile all of these as, at times, I felt like one massive walking contradiction.
 

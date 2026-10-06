@@ -18,60 +18,43 @@ refresh.
 Anything fixable by a lockfile refresh does **not** belong here. Run
 `pnpm update` first; only what survives is a genuine acceptance.
 
+The script treats **every** GHSA ID that appears anywhere in this file as
+accepted, prose included. Do not name a resolved advisory here "for history";
+that silently re-accepts it.
+
 ## Accepted advisories
 
-Last reviewed: 2026-10-05 (Node 24, astro 5.18.2, sharp 0.35.5, fflate 0.7.5)
+Last reviewed: 2026-10-06 (Node 24, astro 7.3.6, sharp 0.35.5, fflate 0.7.5)
 
-Every entry below is blocked on a major upgrade tracked in **#54**. If that
-issue is closed and entries remain here, one of the two is out of date.
+The astro 5 -> 7 upgrade (#54) cleared all eleven astro-chain entries that used
+to be listed here, including the critical one. See
+[astro-upgrade-analysis.md](astro-upgrade-analysis.md) for how that upgrade was
+verified.
 
-For whether that upgrade is worth doing, and when, see
-[astro-upgrade-analysis.md](astro-upgrade-analysis.md). Short version: 8 of
-the 9 astro advisories need a feature this site does not use, so the case is
-about staying on a supported line rather than risk. The `sharp` advisory that
-was previously listed here has been fixed and removed.
-
-### Blocked on the astro 5 -> 7 major upgrade
-
-`package.json` declares `astro ^5.16.6`. Every advisory below is patched only
-in astro 6.x or 7.x, which `^5` cannot reach.
-
-| GHSA | Severity | Patched in |
-|---|---|---|
-| GHSA-2pvr-wf23-7pc7 | high | >=6.4.6 |
-| GHSA-8hv8-536x-4wqp | high | >=6.3.3 |
-| GHSA-4g3v-8h47-v7g6 | moderate | >=7.1.0 |
-| GHSA-f48w-9m4c-m7f5 | moderate | >=7.0.6 |
-| GHSA-j687-52p2-xcff | moderate | >=6.1.6 |
-| GHSA-jrpj-wcv7-9fh9 | moderate | >=6.4.6 |
-| GHSA-7pw4-f3q4-r2p2 | low | >=7.0.4 |
-| GHSA-xr5h-phrj-8vxv | low | >=6.1.10 |
-| GHSA-26w7-cxv4-gfx2 | **critical** | >=7.2.8 |
-| GHSA-376h-93r7-7g6f | moderate | >=7.2.4 |
-
-The last two arrived after the 2026-08-25 review and are what kept CI red from
-2026-08-30 (issue #79). Both are accepted on the same terms as the rest — `^5`
-cannot reach a 7.x patch — but the critical one deserves its reasoning stated,
-because accepting a critical on a "blocked on a major" rationale is exactly the
-kind of entry that should not pass without one:
-
-- **GHSA-26w7-cxv4-gfx2 — RCE through AVIF image optimization.** Not reachable
-  on this site. The exploit needs an image-optimization endpoint that processes
-  attacker-supplied input at request time. This site is **statically built**
-  (`netlify.toml` publishes `dist`, `astro.config.ts` sets no `output` and no
-  adapter), so no such endpoint is deployed. Source imports exactly one symbol
-  from `astro:assets` — `Font`, in `src/layouts/Layout.astro` — and uses no
-  `<Image>`, `<Picture>`, or `getImage()` anywhere. Re-check this if the site
-  ever adopts SSR or on-demand image optimization; the acceptance depends on
-  the static build, not on the advisory being harmless.
-- **GHSA-376h-93r7-7g6f — authorization bypass when stripping a configured
-  `base`.** This site configures no `base`.
-
-### Transitive, via astro
+### Pinned exactly by @tailwindcss/typography
 
 | GHSA | Severity | Package | Patched in |
 |---|---|---|---|
-| GHSA-g7r4-m6w7-qqqr | low | esbuild (astro > esbuild) | >=0.28.1 |
+| GHSA-rj75-hqrm-r3gf | moderate | postcss-selector-parser (@tailwindcss/typography > postcss-selector-parser) | >=7.1.6 |
+
+Published 2026-10-05: quadratic-time parsing of flat selectors, which lets a
+crafted selector exhaust CPU. It is unrelated to astro: main on astro 5 fails
+the audit check on it too.
+
+- **Why it cannot be fixed in place.** `@tailwindcss/typography@0.5.20` is the
+  latest release and declares `postcss-selector-parser: 6.0.10` as an exact
+  pin. The patch exists only on the 7.x line, so neither `pnpm update` nor a
+  typography upgrade reaches it. A pnpm override to 7.x would force a major
+  bump on the plugin's parser, and its effect would land in the generated CSS,
+  which none of the build checks inspect.
+- **Why it is not reachable.** The parser runs only at build time, inside the
+  Tailwind plugin, over the selectors in this repo's own stylesheets
+  (`src/styles/typography.css`). The site is statically built and deploys no
+  code that parses selectors at request time, so no attacker-supplied input
+  reaches it.
+
+Remove this entry when typography ships a release on postcss-selector-parser
+7.x; the script reports it as fixable when that happens.
 
 ## Two traps worth knowing (from issue #48)
 

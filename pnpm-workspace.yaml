@@ -9,23 +9,18 @@
 # This file is read by both pnpm 10 and 11, so the two agree.
 # See smartwatermelon/dotfiles style note and https://pnpm.io/settings.
 
-# Force a single sharp >=0.35.0 across the tree to clear the libvips CVEs
-# (CVE-2026-33327, CVE-2026-33328, CVE-2026-35590, CVE-2026-35591) and
-# GHSA-f88m-g3jw-g9cj.
-#
-# This override is load-bearing and cannot be replaced by bumping the direct
-# dependency: astro declares `optionalDependencies: { sharp: "^0.34.0" }` and
-# loads THAT copy, so without the override the tree carries both 0.35.x (direct,
-# unused by astro) and a vulnerable 0.34.x under astro.
+# sharp needed an override here (GHSA-f88m-g3jw-g9cj) while astro 5 pinned
+# `sharp ^0.34.0`. astro 7 declares `sharp ^0.35.4` itself, so the override
+# was removed in the astro 7 upgrade.
 #
 # Force fflate >=0.7.5 to clear GHSA-px8p-9vwx-vf98 (unzipSync infinite loop on
-# malformed ZIP64 archives). Load-bearing for the same structural reason as
-# sharp: satori 0.33.4 — the latest release — declares `fflate: 0.7.3` as an
-# EXACT pin, not a range, so `pnpm update` cannot move it and there is no
+# malformed ZIP64 archives). Load-bearing for the same structural reason the
+# sharp override was: satori 0.35.0 — the latest release — declares
+# `fflate: 0.7.3` as an EXACT pin, not a range, so `pnpm update` cannot move
+# it and there is no
 # satori version to upgrade to. An override is the only mechanism that reaches
 # it. 0.7.3 -> 0.7.5 is a patch bump within the same minor.
 overrides:
-  sharp: ^0.35.0
   fflate: ^0.7.5
 
 # esbuild and sharp need their install scripts to run; pnpm blocks build
