@@ -4,7 +4,6 @@ Download WP images from ameliabooneracing.info and rewrite markdown references.
 Run from repo root: python migrate_images.py
 """
 import re
-import os
 import ssl
 import urllib.request
 from pathlib import Path
