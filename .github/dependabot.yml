@@ -9,7 +9,7 @@ updates:
     schedule:
       interval: "weekly"
     cooldown:
-      default-days: 7
+      default-days: 3
     commit-message:
       prefix: "chore"
 
@@ -25,16 +25,14 @@ updates:
   # error, so an exit-0 build alone would let auto-merge publish an empty
   # site. Do not enable this in a repo whose CI only checks exit status.
   #
-  # Majors are not auto-merged: dependabot-auto-merge.yml restricts those to
-  # the nightowlstudiollc namespace, so an astro major waits for a human.
+  # Majors use the same auto-merge gate as other updates; they merge once the sanity checks pass.
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 5
     cooldown:
-      default-days: 7
-      semver-major-days: 14
+      default-days: 3
     commit-message:
       prefix: "chore"
     groups:
