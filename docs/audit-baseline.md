@@ -24,7 +24,7 @@ that silently re-accepts it.
 
 ## Accepted advisories
 
-Last reviewed: 2026-10-06 (Node 24, astro 7.3.6, sharp 0.35.5, fflate 0.7.5)
+Last reviewed: 2026-10-30 (Node 24, astro 7.3.8, zod 4.6.7, fast-uri 3.1.9)
 
 The astro 5 -> 7 upgrade (#54) cleared all eleven astro-chain entries that used
 to be listed here, including the critical one. See
@@ -55,6 +55,28 @@ the audit check on it too.
 
 Remove this entry when typography ships a release on postcss-selector-parser
 7.x; the script reports it as fixable when that happens.
+
+### Held on minimatch 10 by @typescript-eslint/typescript-estree
+
+| GHSA | Severity | Package | Patched in |
+|---|---|---|---|
+| GHSA-g3hv-75wg-m249 | moderate | minimatch (@typescript-eslint/parser > @typescript-eslint/typescript-estree > minimatch) | >=11.0.1 |
+
+Added 2026-10-30: denial of service through glob-part amplification, where a
+crafted pattern makes matching expensive.
+
+- **Why it cannot be fixed in place.** The patch exists only on minimatch 11.
+  `@typescript-eslint/typescript-estree@8.72.1`, the latest release, declares
+  `minimatch: ^10.2.2`, so neither `pnpm update` nor a typescript-eslint
+  upgrade reaches it. A pnpm override to 11 would force a major bump under the
+  lint parser, and nothing here tests lint behavior beyond exit status.
+- **Why it is not reachable.** minimatch runs only when ESLint runs, over the
+  glob patterns in this repo's own config. It is a dev dependency: nothing in
+  the built site or its deploy uses it, so no attacker-supplied pattern
+  reaches it.
+
+Remove this entry when typescript-estree moves to minimatch 11; the script
+reports it as fixable when that happens.
 
 ## Two traps worth knowing (from issue #48)
 
