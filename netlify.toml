@@ -1,5 +1,7 @@
 [build]
-  command = "pnpm run build"
+  # The diagnostic prints the error `astro check` hides when the restored
+  # dependency cache is broken. It always exits 0. Remove it once fixed.
+  command = "node scripts/diagnose-check-deps.mjs && pnpm run build"
   publish = "dist"
 
 [build.environment]
