@@ -22,6 +22,9 @@
 # it. 0.7.3 -> 0.7.5 is a patch bump within the same minor.
 overrides:
   fflate: ^0.7.5
+  # GHSA-474x-hrwr-fgx4 via @astrojs/rss. An override, because
+  # `pnpm update` also pulled in an @emnapi/runtime 2.0 beta.
+  fast-xml-parser: ^5.12.0
 
 # esbuild and sharp need their install scripts to run; pnpm blocks build
 # scripts by default.
