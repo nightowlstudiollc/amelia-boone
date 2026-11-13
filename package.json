@@ -23,7 +23,7 @@
     "@octokit/rest": "^22.0.1",
     "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/vite": "^4.3.5",
-    "astro": "^7.4.7",
+    "astro": "^7.4.8",
     "dayjs": "^1.11.19",
     "lodash.kebabcase": "^4.1.1",
     "remark-collapse": "^0.1.2",
@@ -41,7 +41,7 @@
     "@shikijs/transformers": "^4.6.0",
     "@tailwindcss/typography": "^0.5.19",
     "@types/lodash.kebabcase": "^4.1.9",
-    "@typescript-eslint/parser": "^8.72.1",
+    "@typescript-eslint/parser": "^8.72.2",
     "eslint": "^10.14.0",
     "eslint-plugin-astro": "^3.1.0",
     "globals": "^17.14.0",
@@ -50,6 +50,6 @@
     "prettier-plugin-astro": "^1.1.2",
     "prettier-plugin-tailwindcss": "^0.8.1",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.72.1"
+    "typescript-eslint": "^8.72.2"
   }
 }
