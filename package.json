@@ -17,13 +17,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@astrojs/markdown-remark": "^7.3.9",
+    "@astrojs/markdown-remark": "^7.3.10",
     "@astrojs/rss": "^4.0.14",
-    "@astrojs/sitemap": "^3.7.5",
+    "@astrojs/sitemap": "^3.7.6",
     "@octokit/rest": "^22.0.1",
     "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/vite": "^4.3.5",
-    "astro": "^7.4.12",
+    "astro": "^7.4.13",
     "dayjs": "^1.11.19",
     "lodash.kebabcase": "^4.1.1",
     "remark-collapse": "^0.1.2",
